@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: e0a3b23da8797c44b994cb0517b21ff1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7552737958730675552
+    second: SlashIce_0
+  - first:
+      213: -5338305226415085071
+    second: SlashIce_1
+  - first:
+      213: 8100193937526976787
+    second: SlashIce_2
+  - first:
+      213: -8903145531681311478
+    second: SlashIce_3
+  - first:
+      213: 2342907228308662633
+    second: SlashIce_4
+  - first:
+      213: -3476077303041360622
+    second: SlashIce_5
+  - first:
+      213: -709513385826503300
+    second: SlashIce_6
+  - first:
+      213: -5408408284904749833
+    second: SlashIce_7
+  - first:
+      213: 3395861884681770899
+    second: SlashIce_8
+  - first:
+      213: -7643655959813857578
+    second: SlashIce_9
+  - first:
+      213: 1358942481040009201
+    second: SlashIce_10
+  - first:
+      213: 6639476748322674606
+    second: SlashIce_11
+  - first:
+      213: -2511049076504664131
+    second: SlashIce_12
+  - first:
+      213: 7342611845045374647
+    second: SlashIce_13
+  - first:
+      213: 8944511594380494975
+    second: SlashIce_14
+  - first:
+      213: -7851005699038759440
+    second: SlashIce_15
+  - first:
+      213: 3084950447305434830
+    second: SlashIce_16
+  - first:
+      213: 7044215337991530566
+    second: SlashIce_17
+  - first:
+      213: 1547115451032447288
+    second: SlashIce_18
+  - first:
+      213: -7506834412012097634
+    second: SlashIce_19
+  - first:
+      213: -7775293485716040
+    second: SlashIce_20
+  - first:
+      213: -1270189174668519466
+    second: SlashIce_21
+  - first:
+      213: -6400749022681741786
+    second: SlashIce_22
+  - first:
+      213: -2862550653583915858
+    second: SlashIce_23
+  - first:
+      213: -6601211404987470343
+    second: SlashIce_24
+  - first:
+      213: -2320916247538122546
+    second: SlashIce_25
+  - first:
+      213: 4305952907103305460
+    second: SlashIce_26
+  - first:
+      213: -7128250612717784795
+    second: SlashIce_27
+  - first:
+      213: 6999907196044992242
+    second: SlashIce_28
+  - first:
+      213: -873706653832011159
+    second: SlashIce_29
+  - first:
+      213: -176366984205235023
+    second: SlashIce_30
+  - first:
+      213: 4417761121321122998
+    second: SlashIce_31
+  - first:
+      213: 3051191137879283859
+    second: SlashIce_32
+  - first:
+      213: -5415697459368462436
+    second: SlashIce_33
+  - first:
+      213: 1793159182962569378
+    second: SlashIce_34
+  - first:
+      213: -8444808144216336256
+    second: SlashIce_35
+  - first:
+      213: -524731435923638739
+    second: SlashIce_36
+  - first:
+      213: -8461761073751490417
+    second: SlashIce_37
+  - first:
+      213: -3491052487277660893
+    second: SlashIce_38
+  - first:
+      213: 6617026350836114029
+    second: SlashIce_39
+  - first:
+      213: -1828555917920425466
+    second: SlashIce_40
+  - first:
+      213: 4674175330185551041
+    second: SlashIce_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlashIce_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 451
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06530c74827b0d860800000000000000
+      internalID: 7552737958730675552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 386
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9eaec1ea78ae5b0800000000000000
+      internalID: -5338305226415085071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 386
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3117112387ba96070800000000000000
+      internalID: 8100193937526976787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 386
+        width: 102
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0577805f4ca17480800000000000000
+      internalID: -8903145531681311478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_4
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 386
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969680df5bda38020800000000000000
+      internalID: 2342907228308662633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 194
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dfb642c1e72cfc0800000000000000
+      internalID: -3476077303041360622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 223
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c753d62b55d4726f0800000000000000
+      internalID: -709513385826503300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 193
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f409f1e15971f4b0800000000000000
+      internalID: -5408408284904749833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_8
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 192
+        width: 187
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397debe5466802f20800000000000000
+      internalID: 3395861884681770899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_9
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 195
+        width: 176
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de5ff107674ce590800000000000000
+      internalID: -7643655959813857578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 174
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7e39c8cfeebd210800000000000000
+      internalID: 1358942481040009201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 166
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea71d36dce8242c50800000000000000
+      internalID: 6639476748322674606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 178
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7ed554b26f62dd0800000000000000
+      internalID: -2511049076504664131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 169
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be418bf19236e560800000000000000
+      internalID: 7342611845045374647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_14
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 165
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f788960b7e9412c70800000000000000
+      internalID: 8944511594380494975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_15
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 142
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f53a33c9ef9b0390800000000000000
+      internalID: -7851005699038759440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6a2594612ffca20800000000000000
+      internalID: 3084950447305434830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 11
+        width: 134
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648e75e278412c160800000000000000
+      internalID: 7044215337991530566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 158
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839ae454e45787510800000000000000
+      internalID: 1547115451032447288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_19
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 167
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f275c00ed52d790800000000000000
+      internalID: -7506834412012097634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_20
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 167
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd62c9696064eff0800000000000000
+      internalID: -7775293485716040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 165
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d71656eca16f5ee0800000000000000
+      internalID: -1270189174668519466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_22
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 98
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62640ae2da8fb27a0800000000000000
+      internalID: -6400749022681741786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_23
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 151
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea48195d85d2648d0800000000000000
+      internalID: -2862550653583915858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_24
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 93
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fde67ea339c364a0800000000000000
+      internalID: -6601211404987470343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_25
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 113
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0ce0838f27acfd0800000000000000
+      internalID: -2320916247538122546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_26
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 96
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fef377ea51d1cb30800000000000000
+      internalID: 4305952907103305460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_27
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521fef6b5dd531d90800000000000000
+      internalID: -7128250612717784795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_28
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 129
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe56f8f18aa42160800000000000000
+      internalID: 6999907196044992242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_29
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 117
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962a27c6d68ffd3f0800000000000000
+      internalID: -873706653832011159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_30
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 115
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc075c892b6d8df0800000000000000
+      internalID: -176366984205235023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_31
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 111
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc70e2655a0f4d30800000000000000
+      internalID: 4417761121321122998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_32
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3985d1b8c22085a20800000000000000
+      internalID: 3051191137879283859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_33
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 77
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c977b53bad397d4b0800000000000000
+      internalID: -5415697459368462436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_34
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 85
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0b63eb6c492e810800000000000000
+      internalID: 1793159182962569378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 71
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088d8af3cb30eca80800000000000000
+      internalID: -8444808144216336256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_36
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 87
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d267a470a87c7b8f0800000000000000
+      internalID: -524731435923638739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_37
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 55
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8080d0c229c19a80800000000000000
+      internalID: -8461761073751490417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_38
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 70
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325329b524a4d8fc0800000000000000
+      internalID: -3491052487277660893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_39
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 51
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d626cf6586664db50800000000000000
+      internalID: 6617026350836114029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 10
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a2a6ca41aaf96e0800000000000000
+      internalID: -1828555917920425466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashIce_41
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 14
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc9a9da2b10ed040800000000000000
+      internalID: 4674175330185551041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SlashIce_0: 7552737958730675552
+      SlashIce_1: -5338305226415085071
+      SlashIce_10: 1358942481040009201
+      SlashIce_11: 6639476748322674606
+      SlashIce_12: -2511049076504664131
+      SlashIce_13: 7342611845045374647
+      SlashIce_14: 8944511594380494975
+      SlashIce_15: -7851005699038759440
+      SlashIce_16: 3084950447305434830
+      SlashIce_17: 7044215337991530566
+      SlashIce_18: 1547115451032447288
+      SlashIce_19: -7506834412012097634
+      SlashIce_2: 8100193937526976787
+      SlashIce_20: -7775293485716040
+      SlashIce_21: -1270189174668519466
+      SlashIce_22: -6400749022681741786
+      SlashIce_23: -2862550653583915858
+      SlashIce_24: -6601211404987470343
+      SlashIce_25: -2320916247538122546
+      SlashIce_26: 4305952907103305460
+      SlashIce_27: -7128250612717784795
+      SlashIce_28: 6999907196044992242
+      SlashIce_29: -873706653832011159
+      SlashIce_3: -8903145531681311478
+      SlashIce_30: -176366984205235023
+      SlashIce_31: 4417761121321122998
+      SlashIce_32: 3051191137879283859
+      SlashIce_33: -5415697459368462436
+      SlashIce_34: 1793159182962569378
+      SlashIce_35: -8444808144216336256
+      SlashIce_36: -524731435923638739
+      SlashIce_37: -8461761073751490417
+      SlashIce_38: -3491052487277660893
+      SlashIce_39: 6617026350836114029
+      SlashIce_4: 2342907228308662633
+      SlashIce_40: -1828555917920425466
+      SlashIce_41: 4674175330185551041
+      SlashIce_5: -3476077303041360622
+      SlashIce_6: -709513385826503300
+      SlashIce_7: -5408408284904749833
+      SlashIce_8: 3395861884681770899
+      SlashIce_9: -7643655959813857578
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

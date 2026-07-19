@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 15cb61ac6a4d2364aa66e54fb4e98e2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4582464411577644644
+    second: HitPhoton_0
+  - first:
+      213: 3259856810034547011
+    second: HitPhoton_1
+  - first:
+      213: 4661752785503866238
+    second: HitPhoton_2
+  - first:
+      213: -2174044054268006656
+    second: HitPhoton_3
+  - first:
+      213: 5210717062753341609
+    second: HitPhoton_4
+  - first:
+      213: 8735317300503664317
+    second: HitPhoton_5
+  - first:
+      213: 5475267147789853147
+    second: HitPhoton_6
+  - first:
+      213: -7819923241274894920
+    second: HitPhoton_7
+  - first:
+      213: -1816046966774841442
+    second: HitPhoton_8
+  - first:
+      213: -1119812139092329931
+    second: HitPhoton_9
+  - first:
+      213: 8417680976597262543
+    second: HitPhoton_10
+  - first:
+      213: 7678539317202690701
+    second: HitPhoton_11
+  - first:
+      213: -8303199591730267681
+    second: HitPhoton_12
+  - first:
+      213: 7326393726797267156
+    second: HitPhoton_13
+  - first:
+      213: 6056349186272136695
+    second: HitPhoton_14
+  - first:
+      213: 2932261789239855310
+    second: HitPhoton_15
+  - first:
+      213: 8122883167605667971
+    second: HitPhoton_16
+  - first:
+      213: -1129102181675812488
+    second: HitPhoton_17
+  - first:
+      213: 6414227441207728344
+    second: HitPhoton_18
+  - first:
+      213: 8382496959089518085
+    second: HitPhoton_19
+  - first:
+      213: 5360172738471850856
+    second: HitPhoton_20
+  - first:
+      213: -7538407019722878708
+    second: HitPhoton_21
+  - first:
+      213: 6164317166263342252
+    second: HitPhoton_22
+  - first:
+      213: -3503988974098585180
+    second: HitPhoton_23
+  - first:
+      213: -7899685457604776022
+    second: HitPhoton_24
+  - first:
+      213: -3327164686747854766
+    second: HitPhoton_25
+  - first:
+      213: 8491522534122698851
+    second: HitPhoton_26
+  - first:
+      213: 8896809727373182273
+    second: HitPhoton_27
+  - first:
+      213: -1851648469885855130
+    second: HitPhoton_28
+  - first:
+      213: -2073681548100802918
+    second: HitPhoton_29
+  - first:
+      213: -4291631915221337958
+    second: HitPhoton_30
+  - first:
+      213: -4515021972260421583
+    second: HitPhoton_31
+  - first:
+      213: -6305506030452015097
+    second: HitPhoton_32
+  - first:
+      213: 3420111137577414055
+    second: HitPhoton_33
+  - first:
+      213: 1386921984838681133
+    second: HitPhoton_34
+  - first:
+      213: -5731356676926201106
+    second: HitPhoton_35
+  - first:
+      213: -1912411467755329665
+    second: HitPhoton_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HitPhoton_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 102
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46674f77a1f289f30800000000000000
+      internalID: 4582464411577644644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 110
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3494fbc4f765d3d20800000000000000
+      internalID: 3259856810034547011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_2
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 125
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d45aa957fd1b040800000000000000
+      internalID: 4661752785503866238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_3
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 132
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f2e43837e34d1e0800000000000000
+      internalID: -2174044054268006656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_4
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 146
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0da7e9f8f205840800000000000000
+      internalID: 5210717062753341609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 67
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db658d89dc41a3970800000000000000
+      internalID: 8735317300503664317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_6
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 105
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd16162367e0cfb40800000000000000
+      internalID: 5475267147789853147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_7
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 115
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b51df86e3d0a7390800000000000000
+      internalID: -7819923241274894920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_8
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 108
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fb5f1d7ea1cc6e0800000000000000
+      internalID: -1816046966774841442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_9
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 110
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a3b32eac0a570f0800000000000000
+      internalID: -1119812139092329931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_10
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 120
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0a4aadf3c91d470800000000000000
+      internalID: 8417680976597262543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_11
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 110
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82acbb83d6af8a60800000000000000
+      internalID: 7678539317202690701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_12
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 115
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9bfbba6fb15cc80800000000000000
+      internalID: -8303199591730267681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 99
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0c66217449ca560800000000000000
+      internalID: 7326393726797267156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_14
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 106
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd0a7b3f797c0450800000000000000
+      internalID: 6056349186272136695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 88
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8c710cf8c71b820800000000000000
+      internalID: 2932261789239855310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 57
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388b22d34374ab070800000000000000
+      internalID: 8122883167605667971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_17
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 87
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879381a4c8f9450f0800000000000000
+      internalID: -1129102181675812488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_18
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 76
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8dfbdafd9e30950800000000000000
+      internalID: 6414227441207728344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_19
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 86
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506a259629c945470800000000000000
+      internalID: 8382496959089518085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_20
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 72
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863f85bc4b8236a40800000000000000
+      internalID: 5360172738471850856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_21
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 88
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c015b1971c2326790800000000000000
+      internalID: -7538407019722878708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 61
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca418f18dcd0c8550800000000000000
+      internalID: 6164317166263342252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 66
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9e7fdc7945f5fc0800000000000000
+      internalID: -3503988974098585180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_24
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 52
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafe52e3eedae5290800000000000000
+      internalID: -7899685457604776022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 59
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2589b21785983d1d0800000000000000
+      internalID: -3327164686747854766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_26
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 62
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368bb9831c2f7d570800000000000000
+      internalID: 8491522534122698851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_27
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 51
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145815a4f41d77b70800000000000000
+      internalID: 8896809727373182273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_28
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 54
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ade8fe68f9d46e0800000000000000
+      internalID: -1851648469885855130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_29
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 68
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a966b2c6e9dc833e0800000000000000
+      internalID: -2073681548100802918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_30
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 43
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98b08ad28f0174c0800000000000000
+      internalID: -4291631915221337958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 46
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1308556107b6751c0800000000000000
+      internalID: -4515021972260421583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_32
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 33
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70003dd5ca75e78a0800000000000000
+      internalID: -6305506030452015097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_33
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 36
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ada8a785fca67f20800000000000000
+      internalID: 3420111137577414055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_34
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 43
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d224d7d62365f3310800000000000000
+      internalID: 1386921984838681133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_35
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 45
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee220c6e7712670b0800000000000000
+      internalID: -5731356676926201106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitPhoton_36
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 22
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f776f0807efb575e0800000000000000
+      internalID: -1912411467755329665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HitPhoton_0: 4582464411577644644
+      HitPhoton_1: 3259856810034547011
+      HitPhoton_10: 8417680976597262543
+      HitPhoton_11: 7678539317202690701
+      HitPhoton_12: -8303199591730267681
+      HitPhoton_13: 7326393726797267156
+      HitPhoton_14: 6056349186272136695
+      HitPhoton_15: 2932261789239855310
+      HitPhoton_16: 8122883167605667971
+      HitPhoton_17: -1129102181675812488
+      HitPhoton_18: 6414227441207728344
+      HitPhoton_19: 8382496959089518085
+      HitPhoton_2: 4661752785503866238
+      HitPhoton_20: 5360172738471850856
+      HitPhoton_21: -7538407019722878708
+      HitPhoton_22: 6164317166263342252
+      HitPhoton_23: -3503988974098585180
+      HitPhoton_24: -7899685457604776022
+      HitPhoton_25: -3327164686747854766
+      HitPhoton_26: 8491522534122698851
+      HitPhoton_27: 8896809727373182273
+      HitPhoton_28: -1851648469885855130
+      HitPhoton_29: -2073681548100802918
+      HitPhoton_3: -2174044054268006656
+      HitPhoton_30: -4291631915221337958
+      HitPhoton_31: -4515021972260421583
+      HitPhoton_32: -6305506030452015097
+      HitPhoton_33: 3420111137577414055
+      HitPhoton_34: 1386921984838681133
+      HitPhoton_35: -5731356676926201106
+      HitPhoton_36: -1912411467755329665
+      HitPhoton_4: 5210717062753341609
+      HitPhoton_5: 8735317300503664317
+      HitPhoton_6: 5475267147789853147
+      HitPhoton_7: -7819923241274894920
+      HitPhoton_8: -1816046966774841442
+      HitPhoton_9: -1119812139092329931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

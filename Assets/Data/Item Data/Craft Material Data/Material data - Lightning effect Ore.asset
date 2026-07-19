@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8e926a6b3eb74745b8839a69984738d, type: 3}
+  m_Name: Material data - Lightning effect Ore
+  m_EditorClassIdentifier: Assembly-CSharp::ItemDataSO
+  itemPrice: 100
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 1
+  itemRarity: 100
+  dropChance: 65
+  maxDropChance: 65
+  craftRecipe: []
+  itemName: Lightning Effect ore
+  itemIcon: {fileID: -8312339046362404178, guid: cc6642290c09c864b8598e6af1f68f8d, type: 3}
+  itemType: 0
+  maxStackSize: 5
+  itemEffect: {fileID: 11400000, guid: 584819de561a8474faaf7dd11f13c060, type: 2}

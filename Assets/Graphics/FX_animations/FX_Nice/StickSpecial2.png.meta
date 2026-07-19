@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 155922eb87f33ca4381f2a7af51a655f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1045387961928520064
+    second: StickSpecial2_0
+  - first:
+      213: 1178766057779583878
+    second: StickSpecial2_1
+  - first:
+      213: -5405109833757057525
+    second: StickSpecial2_2
+  - first:
+      213: 6524641360755060113
+    second: StickSpecial2_3
+  - first:
+      213: -7270286012954080783
+    second: StickSpecial2_4
+  - first:
+      213: -3841555001904061242
+    second: StickSpecial2_5
+  - first:
+      213: 4199506407596976517
+    second: StickSpecial2_6
+  - first:
+      213: -8894093710821236580
+    second: StickSpecial2_7
+  - first:
+      213: 8378716339808535270
+    second: StickSpecial2_8
+  - first:
+      213: 5532570945728275922
+    second: StickSpecial2_9
+  - first:
+      213: -6976463298302891550
+    second: StickSpecial2_10
+  - first:
+      213: -7762719340919530060
+    second: StickSpecial2_11
+  - first:
+      213: 7124129141351124188
+    second: StickSpecial2_12
+  - first:
+      213: 2122542301845691274
+    second: StickSpecial2_13
+  - first:
+      213: 3128191116814133399
+    second: StickSpecial2_14
+  - first:
+      213: -4088759949533428985
+    second: StickSpecial2_15
+  - first:
+      213: -912337113575389835
+    second: StickSpecial2_16
+  - first:
+      213: 4159579515227589632
+    second: StickSpecial2_17
+  - first:
+      213: -5105844804946604423
+    second: StickSpecial2_18
+  - first:
+      213: -7071294817364453482
+    second: StickSpecial2_19
+  - first:
+      213: -7245526440239370329
+    second: StickSpecial2_20
+  - first:
+      213: 1587883654621757945
+    second: StickSpecial2_21
+  - first:
+      213: -5746319522602301002
+    second: StickSpecial2_22
+  - first:
+      213: 7270024140982166352
+    second: StickSpecial2_23
+  - first:
+      213: -206901225787615522
+    second: StickSpecial2_24
+  - first:
+      213: 6012022050514121010
+    second: StickSpecial2_25
+  - first:
+      213: 3883130180165067061
+    second: StickSpecial2_26
+  - first:
+      213: -257345951444503580
+    second: StickSpecial2_27
+  - first:
+      213: 5388665837969867867
+    second: StickSpecial2_28
+  - first:
+      213: 8699267799538920613
+    second: StickSpecial2_29
+  - first:
+      213: 6230034638855293665
+    second: StickSpecial2_30
+  - first:
+      213: -5409192843031064049
+    second: StickSpecial2_31
+  - first:
+      213: -8036778357253635201
+    second: StickSpecial2_32
+  - first:
+      213: -7683772101189626458
+    second: StickSpecial2_33
+  - first:
+      213: 4612871902547595343
+    second: StickSpecial2_34
+  - first:
+      213: -2855605334629992072
+    second: StickSpecial2_35
+  - first:
+      213: -5758181953758693455
+    second: StickSpecial2_36
+  - first:
+      213: 1232255308320269391
+    second: StickSpecial2_37
+  - first:
+      213: -2152647318353797027
+    second: StickSpecial2_38
+  - first:
+      213: -5094439935614973906
+    second: StickSpecial2_39
+  - first:
+      213: 8284437862940181568
+    second: StickSpecial2_40
+  - first:
+      213: 1256080341523969305
+    second: StickSpecial2_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StickSpecial2_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 319
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081183b00d6f18e00800000000000000
+      internalID: 1045387961928520064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 314
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b5d33fb71db5010800000000000000
+      internalID: 1178766057779583878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 303
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e90f26e313df4b0800000000000000
+      internalID: -5405109833757057525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 329
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d60a2afbe2c8a50800000000000000
+      internalID: 6524641360755060113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 300
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9816e0461ca1b90800000000000000
+      internalID: -7270286012954080783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_5
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 294
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c42266441e00bac0800000000000000
+      internalID: -3841555001904061242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_6
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 307
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5896bc8e3d4a74a30800000000000000
+      internalID: 4199506407596976517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 320
+        width: 11
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90e67794e4d19480800000000000000
+      internalID: -8894093710821236580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 292
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e28c046e1e274470800000000000000
+      internalID: 8378716339808535270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_9
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 289
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5e7ca56f3a7cc40800000000000000
+      internalID: 5532570945728275922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_10
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 296
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e92b14d79f9e2f90800000000000000
+      internalID: -6976463298302891550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_11
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 289
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bddf6953e7454490800000000000000
+      internalID: -7762719340919530060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 301
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc0e3475bdfdd260800000000000000
+      internalID: 7124129141351124188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_13
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 293
+        width: 68
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b90425af8c47d10800000000000000
+      internalID: 2122542301845691274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_14
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 288
+        width: 78
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7982d333f31996b20800000000000000
+      internalID: 3128191116814133399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_15
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 257
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70347343d7ec147c0800000000000000
+      internalID: -4088759949533428985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 265
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5750fed9a3ab653f0800000000000000
+      internalID: -912337113575389835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 265
+        width: 67
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cc12cd78bc9b930800000000000000
+      internalID: 4159579515227589632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 242
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e42eaa3356429b0800000000000000
+      internalID: -5105844804946604423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 265
+        width: 83
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6975ee434d6bddd90800000000000000
+      internalID: -7071294817364453482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_20
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 256
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afe4de4718b27b90800000000000000
+      internalID: -7245526440239370329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_21
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 238
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1016a55cb490610800000000000000
+      internalID: 1587883654621757945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_22
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 272
+        width: 64
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9c569e6d8f040b0800000000000000
+      internalID: -5746319522602301002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_23
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 205
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053a1cf107054e460800000000000000
+      internalID: 7270024140982166352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_24
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 226
+        width: 10
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6165d6e60f02df0800000000000000
+      internalID: -206901225787615522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_25
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 269
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231b5bea33efe6350800000000000000
+      internalID: 6012022050514121010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_26
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 236
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531665d3356a3e530800000000000000
+      internalID: 3883130180165067061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 242
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3f3cb7839bd6cf0800000000000000
+      internalID: -257345951444503580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 256
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b540a7d770368ca40800000000000000
+      internalID: 5388665837969867867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_29
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 231
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ace28519f10ab870800000000000000
+      internalID: 8699267799538920613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_30
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 205
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea4953fe77857650800000000000000
+      internalID: 6230034638855293665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_31
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 192
+        width: 13
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f025c85b4cfaee4b0800000000000000
+      internalID: -5409192843031064049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_32
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 239
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73895d2aa0a77090800000000000000
+      internalID: -8036778357253635201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 231
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5198dfbf1cd5590800000000000000
+      internalID: -7683772101189626458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_34
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 206
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40dab92e86340040800000000000000
+      internalID: 4612871902547595343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_35
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 192
+        width: 9
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8793baae31ade58d0800000000000000
+      internalID: -2855605334629992072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_36
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 211
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7f52e6504d610b0800000000000000
+      internalID: -5758181953758693455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_37
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 167
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44e4059ca9d91110800000000000000
+      internalID: 1232255308320269391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_38
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 19
+        width: 167
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5023de4ba24022e0800000000000000
+      internalID: -2152647318353797027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 53
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e280b1cbed9ec49b0800000000000000
+      internalID: -5094439935614973906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_40
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 45
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0448850f75c38f270800000000000000
+      internalID: 8284437862940181568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickSpecial2_41
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 31
+        width: 144
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91533e56a6e7e6110800000000000000
+      internalID: 1256080341523969305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StickSpecial2_0: 1045387961928520064
+      StickSpecial2_1: 1178766057779583878
+      StickSpecial2_10: -6976463298302891550
+      StickSpecial2_11: -7762719340919530060
+      StickSpecial2_12: 7124129141351124188
+      StickSpecial2_13: 2122542301845691274
+      StickSpecial2_14: 3128191116814133399
+      StickSpecial2_15: -4088759949533428985
+      StickSpecial2_16: -912337113575389835
+      StickSpecial2_17: 4159579515227589632
+      StickSpecial2_18: -5105844804946604423
+      StickSpecial2_19: -7071294817364453482
+      StickSpecial2_2: -5405109833757057525
+      StickSpecial2_20: -7245526440239370329
+      StickSpecial2_21: 1587883654621757945
+      StickSpecial2_22: -5746319522602301002
+      StickSpecial2_23: 7270024140982166352
+      StickSpecial2_24: -206901225787615522
+      StickSpecial2_25: 6012022050514121010
+      StickSpecial2_26: 3883130180165067061
+      StickSpecial2_27: -257345951444503580
+      StickSpecial2_28: 5388665837969867867
+      StickSpecial2_29: 8699267799538920613
+      StickSpecial2_3: 6524641360755060113
+      StickSpecial2_30: 6230034638855293665
+      StickSpecial2_31: -5409192843031064049
+      StickSpecial2_32: -8036778357253635201
+      StickSpecial2_33: -7683772101189626458
+      StickSpecial2_34: 4612871902547595343
+      StickSpecial2_35: -2855605334629992072
+      StickSpecial2_36: -5758181953758693455
+      StickSpecial2_37: 1232255308320269391
+      StickSpecial2_38: -2152647318353797027
+      StickSpecial2_39: -5094439935614973906
+      StickSpecial2_4: -7270286012954080783
+      StickSpecial2_40: 8284437862940181568
+      StickSpecial2_41: 1256080341523969305
+      StickSpecial2_5: -3841555001904061242
+      StickSpecial2_6: 4199506407596976517
+      StickSpecial2_7: -8894093710821236580
+      StickSpecial2_8: 8378716339808535270
+      StickSpecial2_9: 5532570945728275922
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

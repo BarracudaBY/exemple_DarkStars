@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 394572a3328de6044ad2e013ee725cb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5246283201528551125
+    second: StatePoison_0
+  - first:
+      213: -7439069061379588783
+    second: StatePoison_1
+  - first:
+      213: 4665801306094827532
+    second: StatePoison_2
+  - first:
+      213: 3350027089771789807
+    second: StatePoison_3
+  - first:
+      213: -2690243633672151660
+    second: StatePoison_4
+  - first:
+      213: -7489849510845294891
+    second: StatePoison_5
+  - first:
+      213: -5146624355461870060
+    second: StatePoison_6
+  - first:
+      213: 4252243210935569359
+    second: StatePoison_7
+  - first:
+      213: 6629091795775418924
+    second: StatePoison_8
+  - first:
+      213: -4666568555281381378
+    second: StatePoison_9
+  - first:
+      213: 2043593997774161833
+    second: StatePoison_10
+  - first:
+      213: 2867357317958365980
+    second: StatePoison_11
+  - first:
+      213: -3441452300949331159
+    second: StatePoison_12
+  - first:
+      213: 5593089329672458794
+    second: StatePoison_13
+  - first:
+      213: 4474471121025386515
+    second: StatePoison_14
+  - first:
+      213: -9108057825561190215
+    second: StatePoison_15
+  - first:
+      213: 6338666078301275977
+    second: StatePoison_16
+  - first:
+      213: 6157766314559136206
+    second: StatePoison_17
+  - first:
+      213: 404266026691982953
+    second: StatePoison_18
+  - first:
+      213: 649030746729220900
+    second: StatePoison_19
+  - first:
+      213: -2487853439167306986
+    second: StatePoison_20
+  - first:
+      213: 3444966215826180763
+    second: StatePoison_21
+  - first:
+      213: -4854198109603658602
+    second: StatePoison_22
+  - first:
+      213: -3873253850546896580
+    second: StatePoison_23
+  - first:
+      213: 5721769171986267734
+    second: StatePoison_24
+  - first:
+      213: -7164486595531796028
+    second: StatePoison_25
+  - first:
+      213: 1631361175412170474
+    second: StatePoison_26
+  - first:
+      213: 5270750735387015748
+    second: StatePoison_27
+  - first:
+      213: 1137657964689916869
+    second: StatePoison_28
+  - first:
+      213: 3522684082270636320
+    second: StatePoison_29
+  - first:
+      213: -2182343876424954997
+    second: StatePoison_30
+  - first:
+      213: 1667430318339357713
+    second: StatePoison_31
+  - first:
+      213: 965865972840695082
+    second: StatePoison_32
+  - first:
+      213: 9955352748349154
+    second: StatePoison_33
+  - first:
+      213: -2926178455547509102
+    second: StatePoison_34
+  - first:
+      213: -5665240202810371950
+    second: StatePoison_35
+  - first:
+      213: -665516008900307148
+    second: StatePoison_36
+  - first:
+      213: 2202865242703079637
+    second: StatePoison_37
+  - first:
+      213: 7559690188723537321
+    second: StatePoison_38
+  - first:
+      213: -1644112623649886198
+    second: StatePoison_39
+  - first:
+      213: -1996568798624302532
+    second: StatePoison_40
+  - first:
+      213: 6563006898427149451
+    second: StatePoison_41
+  - first:
+      213: -3644130965983547470
+    second: StatePoison_42
+  - first:
+      213: -8018135884160440024
+    second: StatePoison_43
+  - first:
+      213: 5668502187069093580
+    second: StatePoison_44
+  - first:
+      213: 2166543201741517839
+    second: StatePoison_45
+  - first:
+      213: -8356556819530006482
+    second: StatePoison_46
+  - first:
+      213: -1880417985331997986
+    second: StatePoison_47
+  - first:
+      213: -665924350162502034
+    second: StatePoison_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StatePoison_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 422
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29aac569357137b0800000000000000
+      internalID: -5246283201528551125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 423
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dfed04a1e13c890800000000000000
+      internalID: -7439069061379588783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 409
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08f552419140c040800000000000000
+      internalID: 4665801306094827532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 394
+        width: 123
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed78c193efad7e20800000000000000
+      internalID: 3350027089771789807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 385
+        width: 154
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d17bf2ba55aaad0800000000000000
+      internalID: -2690243633672151660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_5
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 385
+        width: 164
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6dee48d85be0890800000000000000
+      internalID: -7489849510845294891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 208
+        width: 149
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e425caa648398b0800000000000000
+      internalID: -5146624355461870060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 214
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb8166cba0030b30800000000000000
+      internalID: 4252243210935569359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_8
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 364
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2276a6add34ffb50800000000000000
+      internalID: 6629091795775418924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 196
+        width: 164
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7027e9f940d3fb0800000000000000
+      internalID: -4666568555281381378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 202
+        width: 159
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7037ed9ed4c5c10800000000000000
+      internalID: 2043593997774161833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_11
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 326
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13760de946eac720800000000000000
+      internalID: 2867357317958365980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_12
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 332
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923e67aad518d30d0800000000000000
+      internalID: -3441452300949331159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_13
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 318
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a229724ac15ae9d40800000000000000
+      internalID: 5593089329672458794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_14
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 305
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318467e17c3881e30800000000000000
+      internalID: 4474471121025386515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_15
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 220
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b065b90aada99180800000000000000
+      internalID: -9108057825561190215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_16
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 223
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94747fae63777f750800000000000000
+      internalID: 6338666078301275977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 161
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1e92d76d7c47550800000000000000
+      internalID: 6157766314559136206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 175
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966fbb33fcd3c9500800000000000000
+      internalID: 404266026691982953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 150
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b0a138602d10900800000000000000
+      internalID: 649030746729220900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 123
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613e2317a7e597dd0800000000000000
+      internalID: -2487853439167306986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_21
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 146
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a8a85658afecf20800000000000000
+      internalID: 3444966215826180763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_22
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 140
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69483b7b98c62acb0800000000000000
+      internalID: -4854198109603658602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_23
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c310d31f4207f3ac0800000000000000
+      internalID: -3873253850546896580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_24
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 160
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65eb5072fbec76f40800000000000000
+      internalID: 5721769171986267734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 124
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c197438661a29c90800000000000000
+      internalID: -7164486595531796028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 58
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee5ec08852c3a610800000000000000
+      internalID: 1631361175412170474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 136
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a3f524ed7752940800000000000000
+      internalID: 5270750735387015748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c38c3d24e5c9cf00800000000000000
+      internalID: 1137657964689916869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_29
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 125
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0290aa3428613e030800000000000000
+      internalID: 3522684082270636320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_30
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 102
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b01f39ec1c6b1e0800000000000000
+      internalID: -2182343876424954997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_31
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 122
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c75544a07e32710800000000000000
+      internalID: 1667430318339357713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_32
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 119
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a258ec32cf1776d00800000000000000
+      internalID: 965865972840695082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_33
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 134
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6dd20375e532000800000000000000
+      internalID: 9955352748349154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_34
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 136
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29680bfb2302467d0800000000000000
+      internalID: -2926178455547509102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_35
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 47
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290d9302d060161b0800000000000000
+      internalID: -5665240202810371950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_36
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 109
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437592947bc93c6f0800000000000000
+      internalID: -665516008900307148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_37
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 52
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d82f575446229e10800000000000000
+      internalID: 2202865242703079637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_38
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 71
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a54fd67c2a69e860800000000000000
+      internalID: 7559690188723537321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_39
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 77
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00fc989740fe29e0800000000000000
+      internalID: -1644112623649886198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_40
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 61
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3abe548143ca44e0800000000000000
+      internalID: -1996568798624302532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_41
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 67
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c3037700c741b50800000000000000
+      internalID: 6563006898427149451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfac81a1327d6dc0800000000000000
+      internalID: -3644130965983547470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_43
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 43
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829edcf25ebd9b090800000000000000
+      internalID: -8018135884160440024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_44
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 52
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc637c4c4b09aae40800000000000000
+      internalID: 5668502187069093580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_45
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 34
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04375a209b111e10800000000000000
+      internalID: 2166543201741517839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_46
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 39
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20cb8af8db870c80800000000000000
+      internalID: -8356556819530006482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_47
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 39
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2d7032ec967e5e0800000000000000
+      internalID: -1880417985331997986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatePoison_48
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 41
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ef74de45922c6f0800000000000000
+      internalID: -665924350162502034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StatePoison_0: -5246283201528551125
+      StatePoison_1: -7439069061379588783
+      StatePoison_10: 2043593997774161833
+      StatePoison_11: 2867357317958365980
+      StatePoison_12: -3441452300949331159
+      StatePoison_13: 5593089329672458794
+      StatePoison_14: 4474471121025386515
+      StatePoison_15: -9108057825561190215
+      StatePoison_16: 6338666078301275977
+      StatePoison_17: 6157766314559136206
+      StatePoison_18: 404266026691982953
+      StatePoison_19: 649030746729220900
+      StatePoison_2: 4665801306094827532
+      StatePoison_20: -2487853439167306986
+      StatePoison_21: 3444966215826180763
+      StatePoison_22: -4854198109603658602
+      StatePoison_23: -3873253850546896580
+      StatePoison_24: 5721769171986267734
+      StatePoison_25: -7164486595531796028
+      StatePoison_26: 1631361175412170474
+      StatePoison_27: 5270750735387015748
+      StatePoison_28: 1137657964689916869
+      StatePoison_29: 3522684082270636320
+      StatePoison_3: 3350027089771789807
+      StatePoison_30: -2182343876424954997
+      StatePoison_31: 1667430318339357713
+      StatePoison_32: 965865972840695082
+      StatePoison_33: 9955352748349154
+      StatePoison_34: -2926178455547509102
+      StatePoison_35: -5665240202810371950
+      StatePoison_36: -665516008900307148
+      StatePoison_37: 2202865242703079637
+      StatePoison_38: 7559690188723537321
+      StatePoison_39: -1644112623649886198
+      StatePoison_4: -2690243633672151660
+      StatePoison_40: -1996568798624302532
+      StatePoison_41: 6563006898427149451
+      StatePoison_42: -3644130965983547470
+      StatePoison_43: -8018135884160440024
+      StatePoison_44: 5668502187069093580
+      StatePoison_45: 2166543201741517839
+      StatePoison_46: -8356556819530006482
+      StatePoison_47: -1880417985331997986
+      StatePoison_48: -665924350162502034
+      StatePoison_5: -7489849510845294891
+      StatePoison_6: -5146624355461870060
+      StatePoison_7: 4252243210935569359
+      StatePoison_8: 6629091795775418924
+      StatePoison_9: -4666568555281381378
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1509 @@
+fileFormatVersion: 2
+guid: e6b481755b52c2e489e1c1e297bf330d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1275714317853762673
+    second: Darkness4_0
+  - first:
+      213: 2128586691253083810
+    second: Darkness4_1
+  - first:
+      213: -6502891130844312634
+    second: Darkness4_2
+  - first:
+      213: -9201607205582921649
+    second: Darkness4_3
+  - first:
+      213: -92720992134874248
+    second: Darkness4_4
+  - first:
+      213: 2490331269480138148
+    second: Darkness4_5
+  - first:
+      213: -310570939026882595
+    second: Darkness4_6
+  - first:
+      213: 7771686454070162536
+    second: Darkness4_7
+  - first:
+      213: 1285418778728065084
+    second: Darkness4_8
+  - first:
+      213: -3915923637057182081
+    second: Darkness4_9
+  - first:
+      213: 1417485153595642412
+    second: Darkness4_10
+  - first:
+      213: -5990767358411634844
+    second: Darkness4_11
+  - first:
+      213: 7047970517542684792
+    second: Darkness4_12
+  - first:
+      213: -2267326156406914820
+    second: Darkness4_13
+  - first:
+      213: -8052417885183487024
+    second: Darkness4_14
+  - first:
+      213: -8973892479305715753
+    second: Darkness4_15
+  - first:
+      213: 1858245109620303985
+    second: Darkness4_16
+  - first:
+      213: -4547202476792959356
+    second: Darkness4_17
+  - first:
+      213: -6738423598595289930
+    second: Darkness4_18
+  - first:
+      213: 1676267721975261714
+    second: Darkness4_19
+  - first:
+      213: -4892721884153874407
+    second: Darkness4_20
+  - first:
+      213: 6982485944615941661
+    second: Darkness4_21
+  - first:
+      213: -7358799821175431464
+    second: Darkness4_22
+  - first:
+      213: 7428592407579763594
+    second: Darkness4_23
+  - first:
+      213: -6272737523918934496
+    second: Darkness4_24
+  - first:
+      213: -6277348316002405332
+    second: Darkness4_25
+  - first:
+      213: 5873255518687815938
+    second: Darkness4_26
+  - first:
+      213: -4373694732284435852
+    second: Darkness4_27
+  - first:
+      213: 1140647523447728524
+    second: Darkness4_28
+  - first:
+      213: 867925652639784797
+    second: Darkness4_29
+  - first:
+      213: -4922265340967767952
+    second: Darkness4_30
+  - first:
+      213: -5436686355195670912
+    second: Darkness4_31
+  - first:
+      213: -5531879702705193170
+    second: Darkness4_32
+  - first:
+      213: 4312819417549909313
+    second: Darkness4_33
+  - first:
+      213: 294890393410235106
+    second: Darkness4_34
+  - first:
+      213: -736508926353550065
+    second: Darkness4_35
+  - first:
+      213: -895689677082668781
+    second: Darkness4_36
+  - first:
+      213: 3758122896445199525
+    second: Darkness4_37
+  - first:
+      213: -3642819638900921290
+    second: Darkness4_38
+  - first:
+      213: -4544644757897039951
+    second: Darkness4_39
+  - first:
+      213: -1212234470244007983
+    second: Darkness4_40
+  - first:
+      213: 7411325452549567566
+    second: Darkness4_41
+  - first:
+      213: 1311700670386763314
+    second: Darkness4_42
+  - first:
+      213: -7146140654649347567
+    second: Darkness4_43
+  - first:
+      213: 6626745137606877861
+    second: Darkness4_44
+  - first:
+      213: -2437913510026890472
+    second: Darkness4_45
+  - first:
+      213: 5276916688112541150
+    second: Darkness4_46
+  - first:
+      213: -6830188568995937921
+    second: Darkness4_47
+  - first:
+      213: 3853877718029235735
+    second: Darkness4_48
+  - first:
+      213: -2184416675908891259
+    second: Darkness4_49
+  - first:
+      213: -7511879977777459867
+    second: Darkness4_50
+  - first:
+      213: 5114089691392900113
+    second: Darkness4_51
+  - first:
+      213: -4685080527648735495
+    second: Darkness4_52
+  - first:
+      213: -5410637484346275471
+    second: Darkness4_53
+  - first:
+      213: -5094018037276020654
+    second: Darkness4_54
+  - first:
+      213: 6178935229334781955
+    second: Darkness4_55
+  - first:
+      213: 6219048424073971339
+    second: Darkness4_56
+  - first:
+      213: -8089641978019107450
+    second: Darkness4_57
+  - first:
+      213: -4364254938408015146
+    second: Darkness4_58
+  - first:
+      213: -7973226745013155445
+    second: Darkness4_59
+  - first:
+      213: -26005876885172898
+    second: Darkness4_60
+  - first:
+      213: 621325438458492802
+    second: Darkness4_61
+  - first:
+      213: 4383971361341580397
+    second: Darkness4_62
+  - first:
+      213: -1635477972569985411
+    second: Darkness4_63
+  - first:
+      213: 991722163598539563
+    second: Darkness4_64
+  - first:
+      213: 5929843310543652296
+    second: Darkness4_65
+  - first:
+      213: 1938918792609737689
+    second: Darkness4_66
+  - first:
+      213: -2266630705387619997
+    second: Darkness4_67
+  - first:
+      213: -2155489438801239998
+    second: Darkness4_68
+  - first:
+      213: 1089187686622566301
+    second: Darkness4_69
+  - first:
+      213: -8404010532968386562
+    second: Darkness4_70
+  - first:
+      213: -2917344700645509532
+    second: Darkness4_71
+  - first:
+      213: 3735723954711480228
+    second: Darkness4_72
+  - first:
+      213: 5747242469959524464
+    second: Darkness4_73
+  - first:
+      213: -4440140898262488470
+    second: Darkness4_74
+  - first:
+      213: 6020258130262394265
+    second: Darkness4_75
+  - first:
+      213: -6307474764671917276
+    second: Darkness4_76
+  - first:
+      213: 7297636674241746091
+    second: Darkness4_77
+  - first:
+      213: 4514305310360682661
+    second: Darkness4_78
+  - first:
+      213: -6464828851964432670
+    second: Darkness4_79
+  - first:
+      213: -2796685030633825047
+    second: Darkness4_80
+  - first:
+      213: -6846117530994953202
+    second: Darkness4_81
+  - first:
+      213: 3291993510934983502
+    second: Darkness4_82
+  - first:
+      213: -546838395308344813
+    second: Darkness4_83
+  - first:
+      213: -7677131371848687077
+    second: Darkness4_84
+  - first:
+      213: -8938108414591525228
+    second: Darkness4_85
+  - first:
+      213: -5043635612853994327
+    second: Darkness4_86
+  - first:
+      213: -3491746776353929331
+    second: Darkness4_87
+  - first:
+      213: 5147080055906824723
+    second: Darkness4_88
+  - first:
+      213: -6243995279681591160
+    second: Darkness4_89
+  - first:
+      213: -4206744906748655575
+    second: Darkness4_90
+  - first:
+      213: 2109257320904319771
+    second: Darkness4_91
+  - first:
+      213: -1810263044044129555
+    second: Darkness4_92
+  - first:
+      213: -1888863840452661858
+    second: Darkness4_93
+  - first:
+      213: -5636761135096671152
+    second: Darkness4_94
+  - first:
+      213: -1540271996784026101
+    second: Darkness4_95
+  - first:
+      213: -3888238415719539754
+    second: Darkness4_96
+  - first:
+      213: 4506678856886759288
+    second: Darkness4_97
+  - first:
+      213: 2575526912596380880
+    second: Darkness4_98
+  - first:
+      213: 2391077769866760040
+    second: Darkness4_99
+  - first:
+      213: 7118954087243791272
+    second: Darkness4_100
+  - first:
+      213: -6421008756176746934
+    second: Darkness4_101
+  - first:
+      213: 2010198948701288658
+    second: Darkness4_102
+  - first:
+      213: 8568797880168884906
+    second: Darkness4_103
+  - first:
+      213: 4497839862087942263
+    second: Darkness4_104
+  - first:
+      213: -7559392851857698490
+    second: Darkness4_105
+  - first:
+      213: -1312008264640863688
+    second: Darkness4_106
+  - first:
+      213: -6703042812929751069
+    second: Darkness4_107
+  - first:
+      213: 2169411187304579773
+    second: Darkness4_108
+  - first:
+      213: 1228849128261232517
+    second: Darkness4_109
+  - first:
+      213: -3702571000052824913
+    second: Darkness4_110
+  - first:
+      213: -478922321525244799
+    second: Darkness4_111
+  - first:
+      213: 4175079441720010011
+    second: Darkness4_112
+  - first:
+      213: 7517122567284973597
+    second: Darkness4_113
+  - first:
+      213: 4723425905861331261
+    second: Darkness4_114
+  - first:
+      213: -3889684852041291472
+    second: Darkness4_115
+  - first:
+      213: -8032963423315933612
+    second: Darkness4_116
+  - first:
+      213: 7698126848370088589
+    second: Darkness4_117
+  - first:
+      213: -3808669878164466841
+    second: Darkness4_118
+  - first:
+      213: 566110733199360496
+    second: Darkness4_119
+  - first:
+      213: -7266260998311418205
+    second: Darkness4_120
+  - first:
+      213: 8966509054870042957
+    second: Darkness4_121
+  - first:
+      213: -1642910223354315892
+    second: Darkness4_122
+  - first:
+      213: 791279402432774459
+    second: Darkness4_123
+  - first:
+      213: -7611866815684840303
+    second: Darkness4_124
+  - first:
+      213: -8240763328141916104
+    second: Darkness4_125
+  - first:
+      213: 3774769658277830460
+    second: Darkness4_126
+  - first:
+      213: -836807998155460373
+    second: Darkness4_127
+  - first:
+      213: 9056040867619001397
+    second: Darkness4_128
+  - first:
+      213: 1890136901431292422
+    second: Darkness4_129
+  - first:
+      213: 3433378693861450417
+    second: Darkness4_130
+  - first:
+      213: -7826890811697621652
+    second: Darkness4_131
+  - first:
+      213: -337648831478457089
+    second: Darkness4_132
+  - first:
+      213: 3800120250684664196
+    second: Darkness4_133
+  - first:
+      213: -6892970224520595748
+    second: Darkness4_134
+  - first:
+      213: -5086860596565069818
+    second: Darkness4_135
+  - first:
+      213: -2717230201413116834
+    second: Darkness4_136
+  - first:
+      213: -6823035742394709332
+    second: Darkness4_137
+  - first:
+      213: 1483544964605355654
+    second: Darkness4_138
+  - first:
+      213: -1321427214274021987
+    second: Darkness4_139
+  - first:
+      213: 1565297236994616530
+    second: Darkness4_140
+  - first:
+      213: -523193383086437678
+    second: Darkness4_141
+  - first:
+      213: -4261886685050757122
+    second: Darkness4_142
+  - first:
+      213: -4095439650820108772
+    second: Darkness4_143
+  - first:
+      213: -5742724075181869486
+    second: Darkness4_144
+  - first:
+      213: 2761471977033659336
+    second: Darkness4_145
+  - first:
+      213: 6231045759023421299
+    second: Darkness4_146
+  - first:
+      213: 7630850957547197750
+    second: Darkness4_147
+  - first:
+      213: 7935866227819514503
+    second: Darkness4_148
+  - first:
+      213: 3347350095125614326
+    second: Darkness4_149
+  - first:
+      213: -702166326713639527
+    second: Darkness4_150
+  - first:
+      213: 2495351824625653523
+    second: Darkness4_151
+  - first:
+      213: 7384873217017357935
+    second: Darkness4_152
+  - first:
+      213: -2413388890082218064
+    second: Darkness4_153
+  - first:
+      213: 4281723148036139884
+    second: Darkness4_154
+  - first:
+      213: 3078765959491101346
+    second: Darkness4_155
+  - first:
+      213: -143889490464817340
+    second: Darkness4_156
+  - first:
+      213: -5863913795195677876
+    second: Darkness4_157
+  - first:
+      213: 4740178489334129281
+    second: Darkness4_158
+  - first:
+      213: 8771385131213102143
+    second: Darkness4_159
+  - first:
+      213: -7132098941655522332
+    second: Darkness4_160
+  - first:
+      213: -5313309269203575830
+    second: Darkness4_161
+  - first:
+      213: -6973181440496800463
+    second: Darkness4_162
+  - first:
+      213: -2605683871199672309
+    second: Darkness4_163
+  - first:
+      213: -2995227198947717754
+    second: Darkness4_164
+  - first:
+      213: -1286000774667872740
+    second: Darkness4_165
+  - first:
+      213: -6929695926584323420
+    second: Darkness4_166
+  - first:
+      213: 5307632405509385734
+    second: Darkness4_167
+  - first:
+      213: 1039323299063566039
+    second: Darkness4_168
+  - first:
+      213: 3653788865654029074
+    second: Darkness4_169
+  - first:
+      213: -7597141036155790148
+    second: Darkness4_170
+  - first:
+      213: 8846721082071181891
+    second: Darkness4_171
+  - first:
+      213: -2751390134606864552
+    second: Darkness4_172
+  - first:
+      213: -5267378465778123323
+    second: Darkness4_173
+  - first:
+      213: 8624850076705795733
+    second: Darkness4_174
+  - first:
+      213: -472219793313617155
+    second: Darkness4_175
+  - first:
+      213: -918110887103728249
+    second: Darkness4_176
+  - first:
+      213: 32130433153588242
+    second: Darkness4_177
+  - first:
+      213: -2060893246284491554
+    second: Darkness4_178
+  - first:
+      213: -1753139092377509643
+    second: Darkness4_179
+  - first:
+      213: -96841248254806827
+    second: Darkness4_180
+  - first:
+      213: -7296782103719968646
+    second: Darkness4_181
+  - first:
+      213: 8001114944655000837
+    second: Darkness4_182
+  - first:
+      213: 1850439609325518253
+    second: Darkness4_183
+  - first:
+      213: 7470476160890811180
+    second: Darkness4_184
+  - first:
+      213: 5766199020848464638
+    second: Darkness4_185
+  - first:
+      213: 8091398713706558266
+    second: Darkness4_186
+  - first:
+      213: -7943618113612380428
+    second: Darkness4_187
+  - first:
+      213: 2383171299657238860
+    second: Darkness4_188
+  - first:
+      213: -8106200774307772745
+    second: Darkness4_189
+  - first:
+      213: 5120840731817350090
+    second: Darkness4_190
+  - first:
+      213: 8415794369885885547
+    second: Darkness4_191
+  - first:
+      213: -7066131936437356306
+    second: Darkness4_192
+  - first:
+      213: 1411105815070451002
+    second: Darkness4_193
+  - first:
+      213: 9209816499376267865
+    second: Darkness4_194
+  - first:
+      213: -2899287029081259527
+    second: Darkness4_195
+  - first:
+      213: -320716539267401645
+    second: Darkness4_196
+  - first:
+      213: 311321764396914066
+    second: Darkness4_197
+  - first:
+      213: 8170765590508506818
+    second: Darkness4_198
+  - first:
+      213: -6187332474582053393
+    second: Darkness4_199
+  - first:
+      213: -4012370938591880871
+    second: Darkness4_200
+  - first:
+      213: 4328687522412094040
+    second: Darkness4_201
+  - first:
+      213: -8631102614800905013
+    second: Darkness4_202
+  - first:
+      213: -6091775747311599312
+    second: Darkness4_203
+  - first:
+      213: 8367725211042371561
+    second: Darkness4_204
+  - first:
+      213: 77314825728652199
+    second: Darkness4_205
+  - first:
+      213: -8349471457165253026
+    second: Darkness4_206
+  - first:
+      213: -4204426419857434759
+    second: Darkness4_207
+  - first:
+      213: 630512380638059223
+    second: Darkness4_208
+  - first:
+      213: 3692095238445389606
+    second: Darkness4_209
+  - first:
+      213: 3750232329074092083
+    second: Darkness4_210
+  - first:
+      213: -5108764578335339374
+    second: Darkness4_211
+  - first:
+      213: 1053662746755586437
+    second: Darkness4_212
+  - first:
+      213: 7844609281976850134
+    second: Darkness4_213
+  - first:
+      213: -2673208669601047566
+    second: Darkness4_214
+  - first:
+      213: -5125565541789650420
+    second: Darkness4_215
+  - first:
+      213: -5811128938145748233
+    second: Darkness4_216
+  - first:
+      213: -2631185857635266822
+    second: Darkness4_217
+  - first:
+      213: -1600902333955904035
+    second: Darkness4_218
+  - first:
+      213: -1773948002795233687
+    second: Darkness4_219
+  - first:
+      213: 6960653253437041493
+    second: Darkness4_220
+  - first:
+      213: -6623060685621759929
+    second: Darkness4_221
+  - first:
+      213: 5803126646792131665
+    second: Darkness4_222
+  - first:
+      213: 8858128361085103002
+    second: Darkness4_223
+  - first:
+      213: 1068731585758643774
+    second: Darkness4_224
+  - first:
+      213: -2677272364301497219
+    second: Darkness4_225
+  - first:
+      213: -9143160728887589356
+    second: Darkness4_226
+  - first:
+      213: 2150211930610153497
+    second: Darkness4_227
+  - first:
+      213: 5421860552404834440
+    second: Darkness4_228
+  - first:
+      213: 6064431688480172737
+    second: Darkness4_229
+  - first:
+      213: -7696883244941056001
+    second: Darkness4_230
+  - first:
+      213: -467873656892369159
+    second: Darkness4_231
+  - first:
+      213: 8507903151443248204
+    second: Darkness4_232
+  - first:
+      213: 1920175957116499469
+    second: Darkness4_233
+  - first:
+      213: 4258387171854003001
+    second: Darkness4_234
+  - first:
+      213: -3905096748871553556
+    second: Darkness4_235
+  - first:
+      213: -1180906205304829317
+    second: Darkness4_236
+  - first:
+      213: -103675371009039622
+    second: Darkness4_237
+  - first:
+      213: -4727598435909571521
+    second: Darkness4_238
+  - first:
+      213: -2372161525781799763
+    second: Darkness4_239
+  - first:
+      213: 4531154457341771593
+    second: Darkness4_240
+  - first:
+      213: -705296545795647633
+    second: Darkness4_241
+  - first:
+      213: 8287942141293012568
+    second: Darkness4_242
+  - first:
+      213: -3224066242971637528
+    second: Darkness4_243
+  - first:
+      213: -5637696541273027178
+    second: Darkness4_244
+  - first:
+      213: 175263195958501238
+    second: Darkness4_245
+  - first:
+      213: -1456538105818680266
+    second: Darkness4_246
+  - first:
+      213: -1388082547208555471
+    second: Darkness4_247
+  - first:
+      213: 8490161064362513585
+    second: Darkness4_248
+  - first:
+      213: -4896995395721350458
+    second: Darkness4_249
+  - first:
+      213: 2446002553740846814
+    second: Darkness4_250
+  - first:
+      213: -5016190225068670527
+    second: Darkness4_251
+  - first:
+      213: -2326720680986721957
+    second: Darkness4_252
+  - first:
+      213: 1085051114431731184
+    second: Darkness4_253
+  - first:
+      213: -3838634820126222619
+    second: Darkness4_254
+  - first:
+      213: -8224409636107949443
+    second: Darkness4_255
+  - first:
+      213: -8712838047378804037
+    second: Darkness4_256
+  - first:
+      213: -1173472925698678247
+    second: Darkness4_257
+  - first:
+      213: 195119506288034629
+    second: Darkness4_258
+  - first:
+      213: 1309062735790772206
+    second: Darkness4_259
+  - first:
+      213: 987704189185671060
+    second: Darkness4_260
+  - first:
+      213: 7311563832027910838
+    second: Darkness4_261
+  - first:
+      213: 6103631034898198564
+    second: Darkness4_262
+  - first:
+      213: 4902820712148266822
+    second: Darkness4_263
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Darkness4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174ad8eb96f34b110800000000000000
+      internalID: 1275714317853762673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae93c561524a8d10800000000000000
+      internalID: 2128586691253083810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb8cf468f611c5a0800000000000000
+      internalID: -6502891130844312634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f402e8caff25d4080800000000000000
+      internalID: -9201607205582921649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b3498bfb696bef0800000000000000
+      internalID: -92720992134874248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a54962681f6f8220800000000000000
+      internalID: 2490331269480138148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf3ebd5061a0bbf0800000000000000
+      internalID: -310570939026882595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864319067a39adb60800000000000000
+      internalID: 7771686454070162536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38e3bd9199b6d110800000000000000
+      internalID: 1285418778728065084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76a6a51338d7a9c0800000000000000
+      internalID: -3915923637057182081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22557eac3beba310800000000000000
+      internalID: 1417485153595642412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4678ed5f3d48cdca0800000000000000
+      internalID: -5990767358411634844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878ce8d08db6fc160800000000000000
+      internalID: 7047970517542684792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf00a61afd6d880e0800000000000000
+      internalID: -2267326156406914820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3d2a2d890104090800000000000000
+      internalID: -8052417885183487024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfee66f554567380800000000000000
+      internalID: -8973892479305715753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1786680f410d9c910800000000000000
+      internalID: 1858245109620303985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eaaf0807715e0c0800000000000000
+      internalID: -4547202476792959356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc4e93507f4c72a0800000000000000
+      internalID: -6738423598595289930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ae9c4ac9c434710800000000000000
+      internalID: 1676267721975261714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9187a3e7e5f891cb0800000000000000
+      internalID: -4892721884153874407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16bdf9c8f5c6e060800000000000000
+      internalID: 6982485944615941661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de51ad1d8a40e990800000000000000
+      internalID: -7358799821175431464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83a4f2bf69a71760800000000000000
+      internalID: 7428592407579763594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e6c85d472c2f8a0800000000000000
+      internalID: -6272737523918934496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkness4_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24b74527f062e8a0800000000000000
+      internalID: -6277348316002405332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8cc942e8c6266434a99b027fd094b202
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":6.0},"gridSpriteSize":{"x":192.0,"y":192.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Darkness4_0: 1275714317853762673
+      Darkness4_1: 2128586691253083810
+      Darkness4_10: 1417485153595642412
+      Darkness4_11: -5990767358411634844
+      Darkness4_12: 7047970517542684792
+      Darkness4_13: -2267326156406914820
+      Darkness4_14: -8052417885183487024
+      Darkness4_15: -8973892479305715753
+      Darkness4_16: 1858245109620303985
+      Darkness4_17: -4547202476792959356
+      Darkness4_18: -6738423598595289930
+      Darkness4_19: 1676267721975261714
+      Darkness4_2: -6502891130844312634
+      Darkness4_20: -4892721884153874407
+      Darkness4_21: 6982485944615941661
+      Darkness4_22: -7358799821175431464
+      Darkness4_23: 7428592407579763594
+      Darkness4_24: -6272737523918934496
+      Darkness4_25: -6277348316002405332
+      Darkness4_3: -9201607205582921649
+      Darkness4_4: -92720992134874248
+      Darkness4_5: 2490331269480138148
+      Darkness4_6: -310570939026882595
+      Darkness4_7: 7771686454070162536
+      Darkness4_8: 1285418778728065084
+      Darkness4_9: -3915923637057182081
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

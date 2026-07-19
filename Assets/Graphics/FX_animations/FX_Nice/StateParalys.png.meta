@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 66631fc4bd5f40c42bc167d9d2122ebb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1600994069598474141
+    second: StateParalys_0
+  - first:
+      213: 5728722898538443476
+    second: StateParalys_1
+  - first:
+      213: 3574846541121973461
+    second: StateParalys_2
+  - first:
+      213: 8322964832160166543
+    second: StateParalys_3
+  - first:
+      213: -9007352091563867308
+    second: StateParalys_4
+  - first:
+      213: 6244966965470477251
+    second: StateParalys_5
+  - first:
+      213: -7841141473503516951
+    second: StateParalys_6
+  - first:
+      213: 4252591409589600424
+    second: StateParalys_7
+  - first:
+      213: -2240770526478924706
+    second: StateParalys_8
+  - first:
+      213: 6153433019348852772
+    second: StateParalys_9
+  - first:
+      213: 6645939142553332450
+    second: StateParalys_10
+  - first:
+      213: -4170255208530924752
+    second: StateParalys_11
+  - first:
+      213: 1023450484848536540
+    second: StateParalys_12
+  - first:
+      213: 6900356536617091596
+    second: StateParalys_13
+  - first:
+      213: 1191054101484748361
+    second: StateParalys_14
+  - first:
+      213: 246904862268416593
+    second: StateParalys_15
+  - first:
+      213: -5390974573150915135
+    second: StateParalys_16
+  - first:
+      213: 245402899017660444
+    second: StateParalys_17
+  - first:
+      213: -7489055875959244848
+    second: StateParalys_18
+  - first:
+      213: -7974404944463841905
+    second: StateParalys_19
+  - first:
+      213: 3561593677568883897
+    second: StateParalys_20
+  - first:
+      213: -4062434837934777435
+    second: StateParalys_21
+  - first:
+      213: 7574248165593909832
+    second: StateParalys_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StateParalys_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 774
+        width: 79
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f8ce5bf9fd73610800000000000000
+      internalID: 1600994069598474141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 782
+        width: 77
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2b708cf13808f40800000000000000
+      internalID: 5728722898538443476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 775
+        width: 85
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dceb122df76c9130800000000000000
+      internalID: 3574846541121973461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 781
+        width: 85
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82b9fafa6c118370800000000000000
+      internalID: 8322964832160166543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_4
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 770
+        width: 93
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453c677eef47ff280800000000000000
+      internalID: -9007352091563867308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_5
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 766
+        width: 145
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbbaea2e549aa650800000000000000
+      internalID: 6244966965470477251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_6
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 766
+        width: 102
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e66d3ebf5bae2390800000000000000
+      internalID: -7841141473503516951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 599
+        width: 42
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a047771b5d340b30800000000000000
+      internalID: 4252591409589600424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 636
+        width: 196
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e540f0a041f27e0e0800000000000000
+      internalID: -2240770526478924706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 634
+        width: 183
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420a2739ab2656550800000000000000
+      internalID: 6153433019348852772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_10
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 585
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea61ce307e1b3c50800000000000000
+      internalID: 6645939142553332450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 590
+        width: 171
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03baac89bf64026c0800000000000000
+      internalID: -4170255208530924752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb29922bc6043e00800000000000000
+      internalID: 1023450484848536540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 382
+        width: 182
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c024b9cd5bdf2cf50800000000000000
+      internalID: 6900356536617091596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 382
+        width: 154
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e35431569778010800000000000000
+      internalID: 1191054101484748361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_15
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 382
+        width: 154
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15263d00aae2d6300800000000000000
+      internalID: 246904862268416593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_16
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 382
+        width: 161
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c53d2630396f25b0800000000000000
+      internalID: -5390974573150915135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 190
+        width: 157
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c187ccee2a8d76300800000000000000
+      internalID: 245402899017660444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 190
+        width: 143
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7b56a0c57811890800000000000000
+      internalID: -7489055875959244848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_19
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 190
+        width: 114
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f853d1604f8355190800000000000000
+      internalID: -7974404944463841905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_20
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 203
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc35c164925d6130800000000000000
+      internalID: 3561593677568883897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_21
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 203
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abd9b1e9055f97c0800000000000000
+      internalID: -4062434837934777435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateParalys_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a01e693922d1960800000000000000
+      internalID: 7574248165593909832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StateParalys_0: 1600994069598474141
+      StateParalys_1: 5728722898538443476
+      StateParalys_10: 6645939142553332450
+      StateParalys_11: -4170255208530924752
+      StateParalys_12: 1023450484848536540
+      StateParalys_13: 6900356536617091596
+      StateParalys_14: 1191054101484748361
+      StateParalys_15: 246904862268416593
+      StateParalys_16: -5390974573150915135
+      StateParalys_17: 245402899017660444
+      StateParalys_18: -7489055875959244848
+      StateParalys_19: -7974404944463841905
+      StateParalys_2: 3574846541121973461
+      StateParalys_20: 3561593677568883897
+      StateParalys_21: -4062434837934777435
+      StateParalys_22: 7574248165593909832
+      StateParalys_3: 8322964832160166543
+      StateParalys_4: -9007352091563867308
+      StateParalys_5: 6244966965470477251
+      StateParalys_6: -7841141473503516951
+      StateParalys_7: 4252591409589600424
+      StateParalys_8: -2240770526478924706
+      StateParalys_9: 6153433019348852772
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

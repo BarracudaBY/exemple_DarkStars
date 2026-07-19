@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 05a35937fd5b4e743928c6f3244f0341
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2459573392712892723
+    second: Cure1_0
+  - first:
+      213: -9104570660209636884
+    second: Cure1_1
+  - first:
+      213: 5260104311701262236
+    second: Cure1_2
+  - first:
+      213: 3978178112148936256
+    second: Cure1_3
+  - first:
+      213: -1777212680626608256
+    second: Cure1_4
+  - first:
+      213: 8721677993102154848
+    second: Cure1_5
+  - first:
+      213: 4421969770931547265
+    second: Cure1_6
+  - first:
+      213: 5615136526256750147
+    second: Cure1_7
+  - first:
+      213: -8621507131013081039
+    second: Cure1_8
+  - first:
+      213: 844463853023602239
+    second: Cure1_9
+  - first:
+      213: -8883650320399614547
+    second: Cure1_10
+  - first:
+      213: 4576594957201970760
+    second: Cure1_11
+  - first:
+      213: 4673820888922461346
+    second: Cure1_12
+  - first:
+      213: 4083650100266106518
+    second: Cure1_13
+  - first:
+      213: 8518460610684203438
+    second: Cure1_14
+  - first:
+      213: -2065426500786659170
+    second: Cure1_15
+  - first:
+      213: 2921868018891941856
+    second: Cure1_16
+  - first:
+      213: 7658467506577114900
+    second: Cure1_17
+  - first:
+      213: -9162531072995919213
+    second: Cure1_18
+  - first:
+      213: -8021997475079223605
+    second: Cure1_19
+  - first:
+      213: 905609328091765354
+    second: Cure1_20
+  - first:
+      213: 2592015452234021235
+    second: Cure1_21
+  - first:
+      213: -8082635648464715094
+    second: Cure1_22
+  - first:
+      213: 6474900605569424942
+    second: Cure1_23
+  - first:
+      213: -553379389719911213
+    second: Cure1_24
+  - first:
+      213: 5143718983430173689
+    second: Cure1_25
+  - first:
+      213: 5020857518746082848
+    second: Cure1_26
+  - first:
+      213: -3160795815373247750
+    second: Cure1_27
+  - first:
+      213: 2297034135634701816
+    second: Cure1_28
+  - first:
+      213: 8790381096773146135
+    second: Cure1_29
+  - first:
+      213: 1955970477980699548
+    second: Cure1_30
+  - first:
+      213: 3370872614421390228
+    second: Cure1_31
+  - first:
+      213: 408516260525269612
+    second: Cure1_32
+  - first:
+      213: -1621540592261852090
+    second: Cure1_33
+  - first:
+      213: -5561062343466302567
+    second: Cure1_34
+  - first:
+      213: 4054834838826026503
+    second: Cure1_35
+  - first:
+      213: -2334993114277925678
+    second: Cure1_36
+  - first:
+      213: 1249320834918007
+    second: Cure1_37
+  - first:
+      213: 3200398670208966642
+    second: Cure1_38
+  - first:
+      213: 4462762196506182485
+    second: Cure1_39
+  - first:
+      213: 123998353167256391
+    second: Cure1_40
+  - first:
+      213: 6039559973409871673
+    second: Cure1_41
+  - first:
+      213: -866662697823236385
+    second: Cure1_42
+  - first:
+      213: -9009159234321622090
+    second: Cure1_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cure1_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 974
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce785cd707ddddd0800000000000000
+      internalID: -2459573392712892723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 974
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9c2cdf83116a180800000000000000
+      internalID: -9104570660209636884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_2
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 973
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f44749005aff840800000000000000
+      internalID: 5260104311701262236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_3
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 975
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0461fdb6ae3553730800000000000000
+      internalID: 3978178112148936256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 979
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0876ee8ab721657e0800000000000000
+      internalID: -1777212680626608256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 789
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c1230ecef990970800000000000000
+      internalID: 8721677993102154848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 794
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ce3ebf31efd5d30800000000000000
+      internalID: 4421969770931547265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_7
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 799
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ebadc9be8fced40800000000000000
+      internalID: 5615136526256750147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_8
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 802
+        width: 132
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138d77b61f04a5880800000000000000
+      internalID: -8621507131013081039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_9
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 809
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f362121766328bb00800000000000000
+      internalID: 844463853023602239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_10
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 798
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadbbc7e91fe6b480800000000000000
+      internalID: -8883650320399614547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 605
+        width: 137
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8461ed0add4538f30800000000000000
+      internalID: 4576594957201970760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 630
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a41604e55fbcd040800000000000000
+      internalID: 4673820888922461346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_13
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 638
+        width: 136
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e795d412a0ca830800000000000000
+      internalID: 4083650100266106518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_14
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 645
+        width: 134
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea13dfceac6a73670800000000000000
+      internalID: 8518460610684203438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_15
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 644
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90eee66a812653e0800000000000000
+      internalID: -2065426500786659170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_16
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 645
+        width: 132
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7e0a28b7f8c8820800000000000000
+      internalID: 2921868018891941856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_17
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 641
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4178665fe97584a60800000000000000
+      internalID: 7658467506577114900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_18
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 623
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a7996c88628d080800000000000000
+      internalID: -9162531072995919213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 630
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc682dc7cc32ca090800000000000000
+      internalID: -8021997475079223605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_20
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 625
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a9032c2ee519c00800000000000000
+      internalID: 905609328091765354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_21
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 612
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3797bba1250b8f320800000000000000
+      internalID: 2592015452234021235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_22
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 608
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa20a5c83b5b4df80800000000000000
+      internalID: -8082635648464715094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_23
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 615
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e5de69bc77bd950800000000000000
+      internalID: 6474900605569424942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 453
+        width: 133
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4e8b180600258f0800000000000000
+      internalID: -553379389719911213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_25
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 540
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3f9cfa929226740800000000000000
+      internalID: 5143718983430173689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_26
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 534
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e95b8cf4bada540800000000000000
+      internalID: 5020857518746082848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 526
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afae229d3f89224d0800000000000000
+      internalID: -3160795815373247750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_28
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 528
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fde37b4064b0ef10800000000000000
+      internalID: 2297034135634701816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 507
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716d879b805bdf970800000000000000
+      internalID: 8790381096773146135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 467
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bc03b59c0052b10800000000000000
+      internalID: 1955970477980699548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_31
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 463
+        width: 89
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493edad78ceb7ce20800000000000000
+      internalID: 3370872614421390228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_32
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 456
+        width: 123
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c626491ef575ba500800000000000000
+      internalID: 408516260525269612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_33
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 452
+        width: 156
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6441b513c612f79e0800000000000000
+      internalID: -1621540592261852090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 443
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993c3eb234323d2b0800000000000000
+      internalID: -5561062343466302567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_35
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 449
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7068a1f6dcaa54830800000000000000
+      internalID: 4054834838826026503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 257
+        width: 177
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc2b764220789fd0800000000000000
+      internalID: -2334993114277925678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_37
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 254
+        width: 189
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776639c2040740000800000000000000
+      internalID: 1249320834918007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_38
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 251
+        width: 194
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff107552a91a6c20800000000000000
+      internalID: 3200398670208966642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_39
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 251
+        width: 194
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5530bcfa29aeeed30800000000000000
+      internalID: 4462762196506182485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_40
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 254
+        width: 192
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b844168d788b100800000000000000
+      internalID: 123998353167256391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 192
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93753cefbc3d0d350800000000000000
+      internalID: 6039559973409871673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 59
+        width: 193
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde0a2c3edef8f3f0800000000000000
+      internalID: -866662697823236385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cure1_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 62
+        width: 191
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb5451b86909f280800000000000000
+      internalID: -9009159234321622090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cure1_0: -2459573392712892723
+      Cure1_1: -9104570660209636884
+      Cure1_10: -8883650320399614547
+      Cure1_11: 4576594957201970760
+      Cure1_12: 4673820888922461346
+      Cure1_13: 4083650100266106518
+      Cure1_14: 8518460610684203438
+      Cure1_15: -2065426500786659170
+      Cure1_16: 2921868018891941856
+      Cure1_17: 7658467506577114900
+      Cure1_18: -9162531072995919213
+      Cure1_19: -8021997475079223605
+      Cure1_2: 5260104311701262236
+      Cure1_20: 905609328091765354
+      Cure1_21: 2592015452234021235
+      Cure1_22: -8082635648464715094
+      Cure1_23: 6474900605569424942
+      Cure1_24: -553379389719911213
+      Cure1_25: 5143718983430173689
+      Cure1_26: 5020857518746082848
+      Cure1_27: -3160795815373247750
+      Cure1_28: 2297034135634701816
+      Cure1_29: 8790381096773146135
+      Cure1_3: 3978178112148936256
+      Cure1_30: 1955970477980699548
+      Cure1_31: 3370872614421390228
+      Cure1_32: 408516260525269612
+      Cure1_33: -1621540592261852090
+      Cure1_34: -5561062343466302567
+      Cure1_35: 4054834838826026503
+      Cure1_36: -2334993114277925678
+      Cure1_37: 1249320834918007
+      Cure1_38: 3200398670208966642
+      Cure1_39: 4462762196506182485
+      Cure1_4: -1777212680626608256
+      Cure1_40: 123998353167256391
+      Cure1_41: 6039559973409871673
+      Cure1_42: -866662697823236385
+      Cure1_43: -9009159234321622090
+      Cure1_5: 8721677993102154848
+      Cure1_6: 4421969770931547265
+      Cure1_7: 5615136526256750147
+      Cure1_8: -8621507131013081039
+      Cure1_9: 844463853023602239
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

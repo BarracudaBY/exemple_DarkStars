@@ -1,0 +1,2405 @@
+fileFormatVersion: 2
+guid: a5912caeff4f9ce42b81e4eb4d343983
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9158283534973910432
+    second: energy_ball_Shard_2_0
+  - first:
+      213: -2395341117772491160
+    second: energy_ball_Shard_2_1
+  - first:
+      213: 2290816239381570489
+    second: energy_ball_Shard_2_2
+  - first:
+      213: -4534236915553704054
+    second: energy_ball_Shard_2_3
+  - first:
+      213: -8689942119915826824
+    second: energy_ball_Shard_2_4
+  - first:
+      213: -8909823044404410025
+    second: energy_ball_Shard_2_5
+  - first:
+      213: -6036522845384367999
+    second: energy_ball_Shard_2_6
+  - first:
+      213: -3832940148148873545
+    second: energy_ball_Shard_2_7
+  - first:
+      213: -6346310783580188990
+    second: energy_ball_Shard_2_8
+  - first:
+      213: 4192308058853693106
+    second: energy_ball_Shard_2_9
+  - first:
+      213: 2918180689270071867
+    second: energy_ball_Shard_2_10
+  - first:
+      213: -7390324549839678653
+    second: energy_ball_Shard_2_11
+  - first:
+      213: -7971615136114648132
+    second: energy_ball_Shard_2_12
+  - first:
+      213: -8371627974520311334
+    second: energy_ball_Shard_2_13
+  - first:
+      213: -4257067726277521341
+    second: energy_ball_Shard_2_14
+  - first:
+      213: 6975119455307453958
+    second: energy_ball_Shard_2_15
+  - first:
+      213: 692937251189593813
+    second: energy_ball_Shard_2_16
+  - first:
+      213: -1817430847705812891
+    second: energy_ball_Shard_2_17
+  - first:
+      213: 7497197713671122376
+    second: energy_ball_Shard_2_18
+  - first:
+      213: -7686636915624251257
+    second: energy_ball_Shard_2_19
+  - first:
+      213: -4503720914077356716
+    second: energy_ball_Shard_2_20
+  - first:
+      213: 4194735193323236979
+    second: energy_ball_Shard_2_21
+  - first:
+      213: 1659718941214583986
+    second: energy_ball_Shard_2_22
+  - first:
+      213: 7568837522508583589
+    second: energy_ball_Shard_2_23
+  - first:
+      213: -5318453445209030534
+    second: energy_ball_Shard_2_24
+  - first:
+      213: -3872243700141032997
+    second: energy_ball_Shard_2_25
+  - first:
+      213: 9024196262612154891
+    second: energy_ball_Shard_2_26
+  - first:
+      213: 2048072379232093081
+    second: energy_ball_Shard_2_27
+  - first:
+      213: -778128664667987910
+    second: energy_ball_Shard_2_28
+  - first:
+      213: 6477147843606369182
+    second: energy_ball_Shard_2_29
+  - first:
+      213: 7977870636100372880
+    second: energy_ball_Shard_2_30
+  - first:
+      213: -830106607592364352
+    second: energy_ball_Shard_2_31
+  - first:
+      213: 8981840305034083351
+    second: energy_ball_Shard_2_32
+  - first:
+      213: 989795912360978904
+    second: energy_ball_Shard_2_33
+  - first:
+      213: 7827527345742630942
+    second: energy_ball_Shard_2_34
+  - first:
+      213: 3740561081651433509
+    second: energy_ball_Shard_2_35
+  - first:
+      213: 9159338311826832217
+    second: energy_ball_Shard_2_36
+  - first:
+      213: 6990442620942451332
+    second: energy_ball_Shard_2_37
+  - first:
+      213: -339642259163873294
+    second: energy_ball_Shard_2_38
+  - first:
+      213: 3185128201406889268
+    second: energy_ball_Shard_2_39
+  - first:
+      213: 4464075155666896610
+    second: energy_ball_Shard_2_40
+  - first:
+      213: 7988020389264553229
+    second: energy_ball_Shard_2_41
+  - first:
+      213: -5451488269261063377
+    second: energy_ball_Shard_2_42
+  - first:
+      213: 146782115921910622
+    second: energy_ball_Shard_2_43
+  - first:
+      213: -6093813841552535327
+    second: energy_ball_Shard_2_44
+  - first:
+      213: 7484188867118160366
+    second: energy_ball_Shard_2_45
+  - first:
+      213: -6390715645620129685
+    second: energy_ball_Shard_2_46
+  - first:
+      213: -6042528079760783246
+    second: energy_ball_Shard_2_47
+  - first:
+      213: 2432154479519880321
+    second: energy_ball_Shard_2_48
+  - first:
+      213: -3204385244064183870
+    second: energy_ball_Shard_2_49
+  - first:
+      213: 2719903184494299406
+    second: energy_ball_Shard_2_50
+  - first:
+      213: -3902516988713929219
+    second: energy_ball_Shard_2_51
+  - first:
+      213: -8550745076218512217
+    second: energy_ball_Shard_2_52
+  - first:
+      213: 5989056971187955596
+    second: energy_ball_Shard_2_53
+  - first:
+      213: 6347698385728256259
+    second: energy_ball_Shard_2_54
+  - first:
+      213: -3378758653468950072
+    second: energy_ball_Shard_2_55
+  - first:
+      213: -656196359830228640
+    second: energy_ball_Shard_2_56
+  - first:
+      213: -3992071698196540878
+    second: energy_ball_Shard_2_57
+  - first:
+      213: -8239770128253317008
+    second: energy_ball_Shard_2_58
+  - first:
+      213: -2762129917344609876
+    second: energy_ball_Shard_2_59
+  - first:
+      213: -5819138885103282462
+    second: energy_ball_Shard_2_60
+  - first:
+      213: -3983347233881400223
+    second: energy_ball_Shard_2_61
+  - first:
+      213: 2925465418674821765
+    second: energy_ball_Shard_2_62
+  - first:
+      213: -1315872851328651440
+    second: energy_ball_Shard_2_63
+  - first:
+      213: 2374025581481326581
+    second: energy_ball_Shard_2_64
+  - first:
+      213: 1108997272149688740
+    second: energy_ball_Shard_2_65
+  - first:
+      213: -3215745643063688990
+    second: energy_ball_Shard_2_66
+  - first:
+      213: -221518667584732076
+    second: energy_ball_Shard_2_67
+  - first:
+      213: -8865728941233429324
+    second: energy_ball_Shard_2_68
+  - first:
+      213: -8925757373250270951
+    second: energy_ball_Shard_2_69
+  - first:
+      213: 6770777728026918325
+    second: energy_ball_Shard_2_70
+  - first:
+      213: -5363393513380659776
+    second: energy_ball_Shard_2_71
+  - first:
+      213: -6490633166818851706
+    second: energy_ball_Shard_2_72
+  - first:
+      213: 5562871482344721493
+    second: energy_ball_Shard_2_73
+  - first:
+      213: -9129655884661767187
+    second: energy_ball_Shard_2_74
+  - first:
+      213: 8961315283025639465
+    second: energy_ball_Shard_2_75
+  - first:
+      213: -2656910896793640093
+    second: energy_ball_Shard_2_76
+  - first:
+      213: -4289399362229202598
+    second: energy_ball_Shard_2_77
+  - first:
+      213: 2574906079250830198
+    second: energy_ball_Shard_2_78
+  - first:
+      213: -7143322038660280647
+    second: energy_ball_Shard_2_79
+  - first:
+      213: -447695179589734141
+    second: energy_ball_Shard_2_80
+  - first:
+      213: 8213660347300017685
+    second: energy_ball_Shard_2_81
+  - first:
+      213: 1363619059954985037
+    second: energy_ball_Shard_2_82
+  - first:
+      213: -7682969727078120486
+    second: energy_ball_Shard_2_83
+  - first:
+      213: -9012975879481816005
+    second: energy_ball_Shard_2_84
+  - first:
+      213: -3113475971319211864
+    second: energy_ball_Shard_2_85
+  - first:
+      213: -7589997982175840648
+    second: energy_ball_Shard_2_86
+  - first:
+      213: 6394400930980164243
+    second: energy_ball_Shard_2_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 520
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adbd663a52c81f70800000000000000
+      internalID: 9158283534973910432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 520
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8669847c1f902ced0800000000000000
+      internalID: -2395341117772491160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 520
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3e8028b3d9acf10800000000000000
+      internalID: 2290816239381570489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 520
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8765f87c872311c0800000000000000
+      internalID: -4534236915553704054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 520
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87156b7eeaf176780800000000000000
+      internalID: -8689942119915826824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 520
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7598faab523f95480800000000000000
+      internalID: -8909823044404410025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 520
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180a55a7476f93ca0800000000000000
+      internalID: -6036522845384367999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 520
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6d0483e39aecac0800000000000000
+      internalID: -3832940148148873545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 470
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cec87e67ff5de7a0800000000000000
+      internalID: -6346310783580188990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 470
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b65bfcb7f11e2a30800000000000000
+      internalID: 4192308058853693106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 470
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32e85e20e57f7820800000000000000
+      internalID: 2918180689270071867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 470
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34315ff3afa407990800000000000000
+      internalID: -7390324549839678653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 470
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb52c5e4422f5190800000000000000
+      internalID: -7971615136114648132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 470
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad17ef246b002db80800000000000000
+      internalID: -8371627974520311334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 470
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340d276357bdbe4c0800000000000000
+      internalID: -4257067726277521341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 470
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6065487503a9cc060800000000000000
+      internalID: 6975119455307453958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 420
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d69ac432cecd9900800000000000000
+      internalID: 692937251189593813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 420
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56078aee54037c6e0800000000000000
+      internalID: -1817430847705812891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 420
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdec3649956b0860800000000000000
+      internalID: 7497197713671122376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 420
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780ffc66374935590800000000000000
+      internalID: -7686636915624251257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 420
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45debecb0b19f71c0800000000000000
+      internalID: -4503720914077356716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 420
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e6cd40f61b63a30800000000000000
+      internalID: 4194735193323236979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 420
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc251e5591880710800000000000000
+      internalID: 1659718941214583986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 420
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a295c310a9e90960800000000000000
+      internalID: 7568837522508583589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 370
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a700ddb15ce0136b0800000000000000
+      internalID: -5318453445209030534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 370
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd97959eed6034ac0800000000000000
+      internalID: -3872243700141032997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 370
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ab76840b26c3d70800000000000000
+      internalID: 9024196262612154891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 370
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9930b6e4af63c6c10800000000000000
+      internalID: 2048072379232093081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_28
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 370
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a306ae82a188335f0800000000000000
+      internalID: -778128664667987910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 370
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9358d775a373e950800000000000000
+      internalID: 6477147843606369182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 370
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09948c0331717be60800000000000000
+      internalID: 7977870636100372880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_31
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 370
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6a0c0407eda74f0800000000000000
+      internalID: -830106607592364352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 320
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cb7da6b28e5ac70800000000000000
+      internalID: 8981840305034083351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 320
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9e86c53267cbd00800000000000000
+      internalID: 989795912360978904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 320
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1055a026a6f0ac60800000000000000
+      internalID: 7827527345742630942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_35
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 320
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5201c744c7429e330800000000000000
+      internalID: 3740561081651433509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_36
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 320
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b70169aa18c1f70800000000000000
+      internalID: 9159338311826832217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_37
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 320
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482860cd68a030160800000000000000
+      internalID: 6990442620942451332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 320
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff73df2a29594bf0800000000000000
+      internalID: -339642259163873294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 320
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dbfe04939d33c20800000000000000
+      internalID: 3185128201406889268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 270
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e60c20d3b493fd30800000000000000
+      internalID: 4464075155666896610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 270
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05f0b0c8362bde60800000000000000
+      internalID: 7988020389264553229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_42
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 270
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b3c756d4c6854b0800000000000000
+      internalID: -5451488269261063377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_43
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 270
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bd7e68e89790200800000000000000
+      internalID: 146782115921910622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_44
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 270
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e017e6f89c6e6ba0800000000000000
+      internalID: -6093813841552535327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_45
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 270
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9d2882f1e2dd760800000000000000
+      internalID: 7484188867118160366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 270
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60f742dafd9f47a0800000000000000
+      internalID: -6390715645620129685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_47
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 270
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2780984e9b0a42ca0800000000000000
+      internalID: -6042528079760783246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 220
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18458aeec9fb0c120800000000000000
+      internalID: 2432154479519880321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_49
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 220
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c90d0c199cb783d0800000000000000
+      internalID: -3204385244064183870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 220
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e098c3f19890fb520800000000000000
+      internalID: 2719903184494299406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_51
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 220
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df577c5a97977d9c0800000000000000
+      internalID: -3902516988713929219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_52
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 220
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac331f28a6a55980800000000000000
+      internalID: -8550745076218512217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_53
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 220
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c872c3b75976d1350800000000000000
+      internalID: 5989056971187955596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_54
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 220
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30937aedc0e871850800000000000000
+      internalID: 6347698385728256259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 220
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1c436f7ec3c11d0800000000000000
+      internalID: -3378758653468950072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 170
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0613a6d23e8b4e6f0800000000000000
+      internalID: -656196359830228640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_57
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 170
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232da1ff0ff4998c0800000000000000
+      internalID: -3992071698196540878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_58
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 170
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070169a79b476ad80800000000000000
+      internalID: -8239770128253317008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_59
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 170
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9023d7971faa9d0800000000000000
+      internalID: -2762129917344609876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_60
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 170
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e691ced3044e3fa0800000000000000
+      internalID: -5819138885103282462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_61
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 170
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cd673abce48b8c0800000000000000
+      internalID: -3983347233881400223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 170
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a5dca6c47599820800000000000000
+      internalID: 2925465418674821765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_63
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 170
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fa9fe0d941dbde0800000000000000
+      internalID: -1315872851328651440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f772ef20bb32f020800000000000000
+      internalID: 2374025581481326581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_65
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 120
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a10c5fa423f36f00800000000000000
+      internalID: 1108997272149688740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_66
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 120
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0cd2910606f53d0800000000000000
+      internalID: -3215745643063688990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_67
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 120
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4548e7b02f10decf0800000000000000
+      internalID: -221518667584732076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_68
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 120
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4a1e6208a96f480800000000000000
+      internalID: -8865728941233429324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_69
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 120
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9190810b5f6512480800000000000000
+      internalID: -8925757373250270951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_70
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdbb247872a6fd50800000000000000
+      internalID: 6770777728026918325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_71
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 120
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdbf4c14066195b0800000000000000
+      internalID: -5363393513380659776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 70
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684c46c0683ace5a0800000000000000
+      internalID: -6490633166818851706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_73
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 70
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cce4cc32a433d40800000000000000
+      internalID: 5562871482344721493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_74
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 70
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de34e290852fc4180800000000000000
+      internalID: -9129655884661767187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_75
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 70
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928b50555ccfc5c70800000000000000
+      internalID: 8961315283025639465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_76
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 70
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36320c4cd91c02bd0800000000000000
+      internalID: -2656910896793640093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_77
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 70
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a519a8a910ef874c0800000000000000
+      internalID: -4289399362229202598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_78
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 70
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6735db7cf67ebb320800000000000000
+      internalID: 2574906079250830198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_79
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 70
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be4f69e372dddc90800000000000000
+      internalID: -7143322038660280647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 20
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30136ec2b9779c9f0800000000000000
+      internalID: -447695179589734141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_81
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 20
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516778a6198ccf170800000000000000
+      internalID: 8213660347300017685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_82
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 20
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48a19d6f4c8ce210800000000000000
+      internalID: 1363619059954985037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 20
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3cd654dbb906590800000000000000
+      internalID: -7682969727078120486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_84
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 20
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c825eb03a7be280800000000000000
+      internalID: -9012975879481816005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_85
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 20
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8ddc89916bac4d0800000000000000
+      internalID: -3113475971319211864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_86
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 20
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8763a7a7c09eaa690800000000000000
+      internalID: -7589997982175840648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_ball_Shard_2_87
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 20
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392ff7a84c97db850800000000000000
+      internalID: 6394400930980164243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      energy_ball_Shard_2_0: 9158283534973910432
+      energy_ball_Shard_2_1: -2395341117772491160
+      energy_ball_Shard_2_10: 2918180689270071867
+      energy_ball_Shard_2_11: -7390324549839678653
+      energy_ball_Shard_2_12: -7971615136114648132
+      energy_ball_Shard_2_13: -8371627974520311334
+      energy_ball_Shard_2_14: -4257067726277521341
+      energy_ball_Shard_2_15: 6975119455307453958
+      energy_ball_Shard_2_16: 692937251189593813
+      energy_ball_Shard_2_17: -1817430847705812891
+      energy_ball_Shard_2_18: 7497197713671122376
+      energy_ball_Shard_2_19: -7686636915624251257
+      energy_ball_Shard_2_2: 2290816239381570489
+      energy_ball_Shard_2_20: -4503720914077356716
+      energy_ball_Shard_2_21: 4194735193323236979
+      energy_ball_Shard_2_22: 1659718941214583986
+      energy_ball_Shard_2_23: 7568837522508583589
+      energy_ball_Shard_2_24: -5318453445209030534
+      energy_ball_Shard_2_25: -3872243700141032997
+      energy_ball_Shard_2_26: 9024196262612154891
+      energy_ball_Shard_2_27: 2048072379232093081
+      energy_ball_Shard_2_28: -778128664667987910
+      energy_ball_Shard_2_29: 6477147843606369182
+      energy_ball_Shard_2_3: -4534236915553704054
+      energy_ball_Shard_2_30: 7977870636100372880
+      energy_ball_Shard_2_31: -830106607592364352
+      energy_ball_Shard_2_32: 8981840305034083351
+      energy_ball_Shard_2_33: 989795912360978904
+      energy_ball_Shard_2_34: 7827527345742630942
+      energy_ball_Shard_2_35: 3740561081651433509
+      energy_ball_Shard_2_36: 9159338311826832217
+      energy_ball_Shard_2_37: 6990442620942451332
+      energy_ball_Shard_2_38: -339642259163873294
+      energy_ball_Shard_2_39: 3185128201406889268
+      energy_ball_Shard_2_4: -8689942119915826824
+      energy_ball_Shard_2_40: 4464075155666896610
+      energy_ball_Shard_2_41: 7988020389264553229
+      energy_ball_Shard_2_42: -5451488269261063377
+      energy_ball_Shard_2_43: 146782115921910622
+      energy_ball_Shard_2_44: -6093813841552535327
+      energy_ball_Shard_2_45: 7484188867118160366
+      energy_ball_Shard_2_46: -6390715645620129685
+      energy_ball_Shard_2_47: -6042528079760783246
+      energy_ball_Shard_2_48: 2432154479519880321
+      energy_ball_Shard_2_49: -3204385244064183870
+      energy_ball_Shard_2_5: -8909823044404410025
+      energy_ball_Shard_2_50: 2719903184494299406
+      energy_ball_Shard_2_51: -3902516988713929219
+      energy_ball_Shard_2_52: -8550745076218512217
+      energy_ball_Shard_2_53: 5989056971187955596
+      energy_ball_Shard_2_54: 6347698385728256259
+      energy_ball_Shard_2_55: -3378758653468950072
+      energy_ball_Shard_2_56: -656196359830228640
+      energy_ball_Shard_2_57: -3992071698196540878
+      energy_ball_Shard_2_58: -8239770128253317008
+      energy_ball_Shard_2_59: -2762129917344609876
+      energy_ball_Shard_2_6: -6036522845384367999
+      energy_ball_Shard_2_60: -5819138885103282462
+      energy_ball_Shard_2_61: -3983347233881400223
+      energy_ball_Shard_2_62: 2925465418674821765
+      energy_ball_Shard_2_63: -1315872851328651440
+      energy_ball_Shard_2_64: 2374025581481326581
+      energy_ball_Shard_2_65: 1108997272149688740
+      energy_ball_Shard_2_66: -3215745643063688990
+      energy_ball_Shard_2_67: -221518667584732076
+      energy_ball_Shard_2_68: -8865728941233429324
+      energy_ball_Shard_2_69: -8925757373250270951
+      energy_ball_Shard_2_7: -3832940148148873545
+      energy_ball_Shard_2_70: 6770777728026918325
+      energy_ball_Shard_2_71: -5363393513380659776
+      energy_ball_Shard_2_72: -6490633166818851706
+      energy_ball_Shard_2_73: 5562871482344721493
+      energy_ball_Shard_2_74: -9129655884661767187
+      energy_ball_Shard_2_75: 8961315283025639465
+      energy_ball_Shard_2_76: -2656910896793640093
+      energy_ball_Shard_2_77: -4289399362229202598
+      energy_ball_Shard_2_78: 2574906079250830198
+      energy_ball_Shard_2_79: -7143322038660280647
+      energy_ball_Shard_2_8: -6346310783580188990
+      energy_ball_Shard_2_80: -447695179589734141
+      energy_ball_Shard_2_81: 8213660347300017685
+      energy_ball_Shard_2_82: 1363619059954985037
+      energy_ball_Shard_2_83: -7682969727078120486
+      energy_ball_Shard_2_84: -9012975879481816005
+      energy_ball_Shard_2_85: -3113475971319211864
+      energy_ball_Shard_2_86: -7589997982175840648
+      energy_ball_Shard_2_87: 6394400930980164243
+      energy_ball_Shard_2_9: 4192308058853693106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

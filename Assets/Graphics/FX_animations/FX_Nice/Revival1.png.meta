@@ -1,0 +1,2873 @@
+fileFormatVersion: 2
+guid: 0cbbc039fa5a0c142854b20c0bb6e109
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -601079133855024181
+    second: Revival1_0
+  - first:
+      213: -5035667813235187354
+    second: Revival1_1
+  - first:
+      213: -4674352407078928071
+    second: Revival1_2
+  - first:
+      213: 7573491390379742580
+    second: Revival1_3
+  - first:
+      213: -7441269896563686351
+    second: Revival1_4
+  - first:
+      213: -3584470511397093277
+    second: Revival1_5
+  - first:
+      213: -5724189300437913938
+    second: Revival1_6
+  - first:
+      213: 2959580440070499521
+    second: Revival1_7
+  - first:
+      213: 6179292489996168004
+    second: Revival1_8
+  - first:
+      213: 8476540988147469250
+    second: Revival1_9
+  - first:
+      213: 3740967594940602564
+    second: Revival1_10
+  - first:
+      213: 5999120132050451951
+    second: Revival1_11
+  - first:
+      213: 7541747606181948186
+    second: Revival1_12
+  - first:
+      213: -9145759946395999298
+    second: Revival1_13
+  - first:
+      213: -1311997962363654293
+    second: Revival1_14
+  - first:
+      213: 7951164956848645385
+    second: Revival1_15
+  - first:
+      213: -1356205644107603973
+    second: Revival1_16
+  - first:
+      213: 346296526088566530
+    second: Revival1_17
+  - first:
+      213: 7011259791271442755
+    second: Revival1_18
+  - first:
+      213: 4093329648904725500
+    second: Revival1_19
+  - first:
+      213: -5961345384560903243
+    second: Revival1_20
+  - first:
+      213: -2539738019654587935
+    second: Revival1_21
+  - first:
+      213: -3027246889267192568
+    second: Revival1_22
+  - first:
+      213: -2080982716656912811
+    second: Revival1_23
+  - first:
+      213: -2134240297183840181
+    second: Revival1_24
+  - first:
+      213: -275809352783910426
+    second: Revival1_25
+  - first:
+      213: 5187933957543128748
+    second: Revival1_26
+  - first:
+      213: -8090491735575480869
+    second: Revival1_27
+  - first:
+      213: 2612172785526663899
+    second: Revival1_28
+  - first:
+      213: -9149584735036077532
+    second: Revival1_29
+  - first:
+      213: -6546264550820686030
+    second: Revival1_30
+  - first:
+      213: 6150387425924844509
+    second: Revival1_31
+  - first:
+      213: 6165073626527332563
+    second: Revival1_32
+  - first:
+      213: 1307872909885857465
+    second: Revival1_33
+  - first:
+      213: 9208503239815985295
+    second: Revival1_34
+  - first:
+      213: 8205937520130168440
+    second: Revival1_35
+  - first:
+      213: 7568438467212307524
+    second: Revival1_36
+  - first:
+      213: -9174426416402647849
+    second: Revival1_37
+  - first:
+      213: 7799019398015704138
+    second: Revival1_38
+  - first:
+      213: -7941593501585339903
+    second: Revival1_39
+  - first:
+      213: 4347872602901634108
+    second: Revival1_40
+  - first:
+      213: 2042578909594273856
+    second: Revival1_41
+  - first:
+      213: -819324287481729313
+    second: Revival1_42
+  - first:
+      213: -8188550852247604915
+    second: Revival1_43
+  - first:
+      213: -3412684448097963498
+    second: Revival1_44
+  - first:
+      213: 6207267663710457556
+    second: Revival1_45
+  - first:
+      213: 4186733197535344722
+    second: Revival1_46
+  - first:
+      213: 4173689286359774923
+    second: Revival1_47
+  - first:
+      213: -8835349910828085401
+    second: Revival1_48
+  - first:
+      213: 3846588834952148381
+    second: Revival1_49
+  - first:
+      213: 6847002463808096097
+    second: Revival1_50
+  - first:
+      213: -3190359696519358113
+    second: Revival1_51
+  - first:
+      213: -7030663494713491895
+    second: Revival1_52
+  - first:
+      213: -7975398141442159698
+    second: Revival1_53
+  - first:
+      213: -9170105873210693743
+    second: Revival1_54
+  - first:
+      213: -4659630844396244697
+    second: Revival1_55
+  - first:
+      213: 7648975725402001951
+    second: Revival1_56
+  - first:
+      213: -3681597348747219402
+    second: Revival1_57
+  - first:
+      213: -4067654546398309340
+    second: Revival1_58
+  - first:
+      213: -3499284977971122474
+    second: Revival1_59
+  - first:
+      213: 8693540564977914295
+    second: Revival1_60
+  - first:
+      213: -8404263761871363240
+    second: Revival1_61
+  - first:
+      213: 4054801889506809478
+    second: Revival1_62
+  - first:
+      213: 7484045701053353031
+    second: Revival1_63
+  - first:
+      213: 8423960139172940053
+    second: Revival1_64
+  - first:
+      213: -1504208850292035706
+    second: Revival1_65
+  - first:
+      213: -4714431954943537768
+    second: Revival1_66
+  - first:
+      213: 5592061644387405657
+    second: Revival1_67
+  - first:
+      213: 7198989331604479787
+    second: Revival1_68
+  - first:
+      213: -4231637514345073950
+    second: Revival1_69
+  - first:
+      213: -9185541346407204490
+    second: Revival1_70
+  - first:
+      213: -9123770203765832823
+    second: Revival1_71
+  - first:
+      213: 1147600251825224218
+    second: Revival1_72
+  - first:
+      213: -7044229572742518050
+    second: Revival1_73
+  - first:
+      213: 6750433369806989198
+    second: Revival1_74
+  - first:
+      213: -6101611133583413962
+    second: Revival1_75
+  - first:
+      213: 5115497549848129970
+    second: Revival1_76
+  - first:
+      213: -6876044518005986331
+    second: Revival1_77
+  - first:
+      213: 4674478732370782925
+    second: Revival1_78
+  - first:
+      213: -5920349157704118200
+    second: Revival1_79
+  - first:
+      213: -2392637974394844994
+    second: Revival1_80
+  - first:
+      213: -6287331896558967761
+    second: Revival1_81
+  - first:
+      213: 8593392940674171198
+    second: Revival1_82
+  - first:
+      213: 8945492488129544398
+    second: Revival1_83
+  - first:
+      213: 6215912072073587102
+    second: Revival1_84
+  - first:
+      213: 4911087353876491517
+    second: Revival1_85
+  - first:
+      213: -1507495602537573519
+    second: Revival1_86
+  - first:
+      213: -4092269341442127655
+    second: Revival1_87
+  - first:
+      213: -7251592318168892416
+    second: Revival1_88
+  - first:
+      213: -2457717916301732778
+    second: Revival1_89
+  - first:
+      213: -4091854452703361006
+    second: Revival1_90
+  - first:
+      213: -8103966550078133047
+    second: Revival1_91
+  - first:
+      213: -8987203415905464612
+    second: Revival1_92
+  - first:
+      213: -422559274669957932
+    second: Revival1_93
+  - first:
+      213: 2423951684865010625
+    second: Revival1_94
+  - first:
+      213: -7846420142040526148
+    second: Revival1_95
+  - first:
+      213: 7991403150565845895
+    second: Revival1_96
+  - first:
+      213: -1154775678754244413
+    second: Revival1_97
+  - first:
+      213: -461334350088751530
+    second: Revival1_98
+  - first:
+      213: 4136031447395739334
+    second: Revival1_99
+  - first:
+      213: 7696912255791153424
+    second: Revival1_100
+  - first:
+      213: 3073595962240739141
+    second: Revival1_101
+  - first:
+      213: -5282819906591665461
+    second: Revival1_102
+  - first:
+      213: 2317233421901147435
+    second: Revival1_103
+  - first:
+      213: -7598416350807144122
+    second: Revival1_104
+  - first:
+      213: -2011918281416437652
+    second: Revival1_105
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Revival1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 773
+        width: 159
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbfba066b988a7f0800000000000000
+      internalID: -601079133855024181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 780
+        width: 138
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661af31ddc6bd1ab0800000000000000
+      internalID: -5035667813235187354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 785
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9318115604d512fb0800000000000000
+      internalID: -4674352407078928071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_3
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 786
+        width: 142
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47550112b427a1960800000000000000
+      internalID: 7573491390379742580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_4
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 786
+        width: 142
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1348381647c4bb890800000000000000
+      internalID: -7441269896563686351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 594
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360405caf07614ec0800000000000000
+      internalID: -3584470511397093277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 594
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae6e48c8289f80b0800000000000000
+      internalID: -5724189300437913938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_7
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 639
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cca89ecaba821920800000000000000
+      internalID: 2959580440070499521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_8
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 614
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44be575c7c141c550800000000000000
+      internalID: 6179292489996168004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_9
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 616
+        width: 85
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb819a3e19b2a570800000000000000
+      internalID: 8476540988147469250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_10
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 649
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c89ea405369ae330800000000000000
+      internalID: 3740967594940602564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 608
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedf2c3b9f7214350800000000000000
+      internalID: 5999120132050451951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 617
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ba02c6d7ba9a860800000000000000
+      internalID: 7541747606181948186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_13
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 610
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3221af8cbb31180800000000000000
+      internalID: -9145759946395999298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_14
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 614
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f2743fdc8dacde0800000000000000
+      internalID: -1311997962363654293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_15
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 619
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9056f73b666385e60800000000000000
+      internalID: 7951164956848645385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_16
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 473
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff1694f62acd2de0800000000000000
+      internalID: -1356205644107603973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_17
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 422
+        width: 113
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207f5701bda4ec400800000000000000
+      internalID: 346296526088566530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_18
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 478
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349b6b602affc4160800000000000000
+      internalID: 7011259791271442755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_19
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 426
+        width: 111
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf36a87d0ad6ec830800000000000000
+      internalID: 4093329648904725500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_20
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 484
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb35d115fb054da0800000000000000
+      internalID: -5961345384560903243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 463
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e92feb2ab901ccd0800000000000000
+      internalID: -2539738019654587935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 432
+        width: 91
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d92d54efe0df5d0800000000000000
+      internalID: -3027246889267192568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_23
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 468
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556ffe5ae3dde13e0800000000000000
+      internalID: -2080982716656912811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_24
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 416
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b487805e1c7a162e0800000000000000
+      internalID: -2134240297183840181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 429
+        width: 89
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9a59ddad02c2cf0800000000000000
+      internalID: -275809352783910426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 431
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae6b81927e3ff740800000000000000
+      internalID: 5187933957543128748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_27
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 435
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd53acab1acc8bf80800000000000000
+      internalID: -8090491735575480869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_28
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 440
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda624dfe4d404420800000000000000
+      internalID: 2612172785526663899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_29
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 448
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a86d9f825260180800000000000000
+      internalID: -9149584735036077532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_30
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 424
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237d99a131ff625a0800000000000000
+      internalID: -6546264550820686030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_31
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 418
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb874917c09a5550800000000000000
+      internalID: 6150387425924844509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_32
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 416
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d87a43accdbe8550800000000000000
+      internalID: 6165073626527332563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_33
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 408
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be5a1d6b7f762210800000000000000
+      internalID: 1307872909885857465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_34
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 412
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88f34a68ec2bcf70800000000000000
+      internalID: 9208503239815985295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_35
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 237
+        width: 117
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876986892b851e170800000000000000
+      internalID: 8205937520130168440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_36
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 233
+        width: 121
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c6796cfae780960800000000000000
+      internalID: 7568438467212307524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_37
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 291
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d43c5058c3eda080800000000000000
+      internalID: -9174426416402647849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_38
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 308
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c5b1f42deab3c60800000000000000
+      internalID: 7799019398015704138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_39
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 299
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a847369cac9c190800000000000000
+      internalID: -7941593501585339903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_40
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 303
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cda98a81fb65c30800000000000000
+      internalID: 4347872602901634108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_41
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 306
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048421c32b2b85c10800000000000000
+      internalID: 2042578909594273856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_42
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 314
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde2dc8c6ec21a4f0800000000000000
+      internalID: -819324287481729313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_43
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 314
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d413f8a726c6c5e80800000000000000
+      internalID: -8188550852247604915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_44
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 231
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612fe9c5395b3a0d0800000000000000
+      internalID: -3412684448097963498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_45
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de0b397d05a42650800000000000000
+      internalID: 6207267663710457556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_46
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 236
+        width: 113
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258fd6039a34a1a30800000000000000
+      internalID: 4186733197535344722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_47
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 286
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6f354fa4cebe930800000000000000
+      internalID: 4173689286359774923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_48
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 274
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f00da5118826580800000000000000
+      internalID: -8835349910828085401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_49
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 242
+        width: 113
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d957e405a24d16530800000000000000
+      internalID: 3846588834952148381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_50
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 281
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167818fb670750f50800000000000000
+      internalID: 6847002463808096097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_51
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 261
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f599d3f52c099b3d0800000000000000
+      internalID: -3190359696519358113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_52
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 265
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ebb463dc01e6e90800000000000000
+      internalID: -7030663494713491895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_53
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 224
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab870555a1b15190800000000000000
+      internalID: -7975398141442159698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_54
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 232
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197ad8a2b4d3db080800000000000000
+      internalID: -9170105873210693743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_55
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 229
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721fe4f4f6aa55fb0800000000000000
+      internalID: -4659630844396244697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_56
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 234
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f121c2075ee962a60800000000000000
+      internalID: 7648975725402001951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_57
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 224
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ee6ed97b658ecc0800000000000000
+      internalID: -3681597348747219402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_58
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 216
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4241deccdb9cc87c0800000000000000
+      internalID: -4067654546398309340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_59
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 220
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6deab204ada007fc0800000000000000
+      internalID: -3499284977971122474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 135
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b115ff5519a5a870800000000000000
+      internalID: 8693540564977914295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_61
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 149
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85328f2e2ae0e5b80800000000000000
+      internalID: -8404263761871363240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 135
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686d2a2d5dc854830800000000000000
+      internalID: 4054801889506809478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_63
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 74
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c0316b9ebacd760800000000000000
+      internalID: 7484045701053353031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_64
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 86
+        width: 88
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51904715d1be7e470800000000000000
+      internalID: 8423960139172940053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_65
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 99
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f2852350aff1be0800000000000000
+      internalID: -1504208850292035706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_66
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 107
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d07d77d19f29eb0800000000000000
+      internalID: -4714431954943537768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_67
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 53
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f4cc3007efa9d40800000000000000
+      internalID: 5592061644387405657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_68
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 108
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f9c1cb7a2f7e360800000000000000
+      internalID: 7198989331604479787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_69
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 116
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2be33d9143645c0800000000000000
+      internalID: -4231637514345073950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_70
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 102
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6793cb100d6668080800000000000000
+      internalID: -9185541346407204490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_71
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 119
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9838e38e65bd16180800000000000000
+      internalID: -9123770203765832823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_72
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 114
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1af03a49581def00800000000000000
+      internalID: 1147600251825224218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_73
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 123
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda6168868edd3e90800000000000000
+      internalID: -7044229572742518050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_74
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 126
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87e94f626b5ead50800000000000000
+      internalID: 6750433369806989198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_75
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 39
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d21317009b25ba0800000000000000
+      internalID: -6101611133583413962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_76
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 105
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b134142be5edf640800000000000000
+      internalID: 5115497549848129970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_77
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 47
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb2b7411f16390a0800000000000000
+      internalID: -6876044518005986331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_78
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 65
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca241104a51fd040800000000000000
+      internalID: 4674478732370782925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_79
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 73
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84053c4fec1b6dda0800000000000000
+      internalID: -5920349157704118200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_80
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 80
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8c5146074abced0800000000000000
+      internalID: -2392637974394844994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_81
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 78
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24ae98a3f8eeb8a0800000000000000
+      internalID: -6287331896558967761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_82
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 80
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31cb3c895dd14770800000000000000
+      internalID: 8593392940674171198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_83
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 84
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec003efc506c42c70800000000000000
+      internalID: 8945492488129544398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_84
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 58
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e992203a81b534650800000000000000
+      internalID: 6215912072073587102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_85
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 87
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfca8b4adefa72440800000000000000
+      internalID: 4911087353876491517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_86
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 91
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173d84e8cbc441be0800000000000000
+      internalID: -1507495602537573519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_87
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 68
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8ce1a37b65537c0800000000000000
+      internalID: -4092269341442127655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_88
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c779b053b2d5b90800000000000000
+      internalID: -7251592318168892416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_89
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 72
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654d8b0a39e64edd0800000000000000
+      internalID: -2457717916301732778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_90
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 73
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218040a0e00d637c0800000000000000
+      internalID: -4091854452703361006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_91
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cce1fefb5de88f80800000000000000
+      internalID: -8103966550078133047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_92
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde07c60c1a074380800000000000000
+      internalID: -8987203415905464612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_93
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 49
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc10c81494c22af0800000000000000
+      internalID: -422559274669957932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_94
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 54
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cba619f63b93a120800000000000000
+      internalID: 2423951684865010625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_95
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 50
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb25433f37aeb1390800000000000000
+      internalID: -7846420142040526148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_96
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 58
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b2a6e33da27ee60800000000000000
+      internalID: 7991403150565845895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_97
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 54
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8b79073a969ffe0800000000000000
+      internalID: -1154775678754244413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_98
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 60
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65636445ad20999f0800000000000000
+      internalID: -461334350088751530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_99
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 53
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c62ed110b2266930800000000000000
+      internalID: 4136031447395739334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_100
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01148c9aaece0da60800000000000000
+      internalID: 7696912255791153424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 45
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5472f683e3b97aa20800000000000000
+      internalID: 3073595962240739141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_102
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 37
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2dd37d847afa6b0800000000000000
+      internalID: -5282819906591665461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_103
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 42
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2da41e1587782020800000000000000
+      internalID: 2317233421901147435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_104
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649ce9a46900d8690800000000000000
+      internalID: -7598416350807144122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Revival1_105
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 31
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c601f0f8bfa3414e0800000000000000
+      internalID: -2011918281416437652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Revival1_0: -601079133855024181
+      Revival1_1: -5035667813235187354
+      Revival1_10: 3740967594940602564
+      Revival1_100: 7696912255791153424
+      Revival1_101: 3073595962240739141
+      Revival1_102: -5282819906591665461
+      Revival1_103: 2317233421901147435
+      Revival1_104: -7598416350807144122
+      Revival1_105: -2011918281416437652
+      Revival1_11: 5999120132050451951
+      Revival1_12: 7541747606181948186
+      Revival1_13: -9145759946395999298
+      Revival1_14: -1311997962363654293
+      Revival1_15: 7951164956848645385
+      Revival1_16: -1356205644107603973
+      Revival1_17: 346296526088566530
+      Revival1_18: 7011259791271442755
+      Revival1_19: 4093329648904725500
+      Revival1_2: -4674352407078928071
+      Revival1_20: -5961345384560903243
+      Revival1_21: -2539738019654587935
+      Revival1_22: -3027246889267192568
+      Revival1_23: -2080982716656912811
+      Revival1_24: -2134240297183840181
+      Revival1_25: -275809352783910426
+      Revival1_26: 5187933957543128748
+      Revival1_27: -8090491735575480869
+      Revival1_28: 2612172785526663899
+      Revival1_29: -9149584735036077532
+      Revival1_3: 7573491390379742580
+      Revival1_30: -6546264550820686030
+      Revival1_31: 6150387425924844509
+      Revival1_32: 6165073626527332563
+      Revival1_33: 1307872909885857465
+      Revival1_34: 9208503239815985295
+      Revival1_35: 8205937520130168440
+      Revival1_36: 7568438467212307524
+      Revival1_37: -9174426416402647849
+      Revival1_38: 7799019398015704138
+      Revival1_39: -7941593501585339903
+      Revival1_4: -7441269896563686351
+      Revival1_40: 4347872602901634108
+      Revival1_41: 2042578909594273856
+      Revival1_42: -819324287481729313
+      Revival1_43: -8188550852247604915
+      Revival1_44: -3412684448097963498
+      Revival1_45: 6207267663710457556
+      Revival1_46: 4186733197535344722
+      Revival1_47: 4173689286359774923
+      Revival1_48: -8835349910828085401
+      Revival1_49: 3846588834952148381
+      Revival1_5: -3584470511397093277
+      Revival1_50: 6847002463808096097
+      Revival1_51: -3190359696519358113
+      Revival1_52: -7030663494713491895
+      Revival1_53: -7975398141442159698
+      Revival1_54: -9170105873210693743
+      Revival1_55: -4659630844396244697
+      Revival1_56: 7648975725402001951
+      Revival1_57: -3681597348747219402
+      Revival1_58: -4067654546398309340
+      Revival1_59: -3499284977971122474
+      Revival1_6: -5724189300437913938
+      Revival1_60: 8693540564977914295
+      Revival1_61: -8404263761871363240
+      Revival1_62: 4054801889506809478
+      Revival1_63: 7484045701053353031
+      Revival1_64: 8423960139172940053
+      Revival1_65: -1504208850292035706
+      Revival1_66: -4714431954943537768
+      Revival1_67: 5592061644387405657
+      Revival1_68: 7198989331604479787
+      Revival1_69: -4231637514345073950
+      Revival1_7: 2959580440070499521
+      Revival1_70: -9185541346407204490
+      Revival1_71: -9123770203765832823
+      Revival1_72: 1147600251825224218
+      Revival1_73: -7044229572742518050
+      Revival1_74: 6750433369806989198
+      Revival1_75: -6101611133583413962
+      Revival1_76: 5115497549848129970
+      Revival1_77: -6876044518005986331
+      Revival1_78: 4674478732370782925
+      Revival1_79: -5920349157704118200
+      Revival1_8: 6179292489996168004
+      Revival1_80: -2392637974394844994
+      Revival1_81: -6287331896558967761
+      Revival1_82: 8593392940674171198
+      Revival1_83: 8945492488129544398
+      Revival1_84: 6215912072073587102
+      Revival1_85: 4911087353876491517
+      Revival1_86: -1507495602537573519
+      Revival1_87: -4092269341442127655
+      Revival1_88: -7251592318168892416
+      Revival1_89: -2457717916301732778
+      Revival1_9: 8476540988147469250
+      Revival1_90: -4091854452703361006
+      Revival1_91: -8103966550078133047
+      Revival1_92: -8987203415905464612
+      Revival1_93: -422559274669957932
+      Revival1_94: 2423951684865010625
+      Revival1_95: -7846420142040526148
+      Revival1_96: 7991403150565845895
+      Revival1_97: -1154775678754244413
+      Revival1_98: -461334350088751530
+      Revival1_99: 4136031447395739334
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

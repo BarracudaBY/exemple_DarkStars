@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: f065d32380087d745b97c9c78994c699
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8429943816102336952
+    second: StateSleep_0
+  - first:
+      213: 4488021406048786818
+    second: StateSleep_1
+  - first:
+      213: -4776639463049853160
+    second: StateSleep_2
+  - first:
+      213: 3340368180727346525
+    second: StateSleep_3
+  - first:
+      213: -959810126759673284
+    second: StateSleep_4
+  - first:
+      213: 8844871376933749929
+    second: StateSleep_5
+  - first:
+      213: -3327257236932892298
+    second: StateSleep_6
+  - first:
+      213: -3887186918221971143
+    second: StateSleep_7
+  - first:
+      213: 4173964135405980761
+    second: StateSleep_8
+  - first:
+      213: 7304504898504726027
+    second: StateSleep_9
+  - first:
+      213: -6265503713795948643
+    second: StateSleep_10
+  - first:
+      213: -7062555634521659114
+    second: StateSleep_11
+  - first:
+      213: -746035222329647738
+    second: StateSleep_12
+  - first:
+      213: -3782403724293888695
+    second: StateSleep_13
+  - first:
+      213: 1834535243451845481
+    second: StateSleep_14
+  - first:
+      213: -4301112235420421210
+    second: StateSleep_15
+  - first:
+      213: 115066735682300686
+    second: StateSleep_16
+  - first:
+      213: 1363871196668100638
+    second: StateSleep_17
+  - first:
+      213: -5633389711822801682
+    second: StateSleep_18
+  - first:
+      213: 6834646278175339503
+    second: StateSleep_19
+  - first:
+      213: -655555445091826097
+    second: StateSleep_20
+  - first:
+      213: 9023227427492275805
+    second: StateSleep_21
+  - first:
+      213: -2795869444031868622
+    second: StateSleep_22
+  - first:
+      213: -5709432774295075431
+    second: StateSleep_23
+  - first:
+      213: -6914273619738214556
+    second: StateSleep_24
+  - first:
+      213: -8886539798427301340
+    second: StateSleep_25
+  - first:
+      213: -8317014003415202333
+    second: StateSleep_26
+  - first:
+      213: -1224392566849171101
+    second: StateSleep_27
+  - first:
+      213: -7534072258232813528
+    second: StateSleep_28
+  - first:
+      213: -2498200752697443753
+    second: StateSleep_29
+  - first:
+      213: 5117313585141801438
+    second: StateSleep_30
+  - first:
+      213: -8264471599144292546
+    second: StateSleep_31
+  - first:
+      213: -2517995710667861764
+    second: StateSleep_32
+  - first:
+      213: -8722052548144820058
+    second: StateSleep_33
+  - first:
+      213: -4741982677383102047
+    second: StateSleep_34
+  - first:
+      213: 6972438418826198236
+    second: StateSleep_35
+  - first:
+      213: 7242910047806683979
+    second: StateSleep_36
+  - first:
+      213: -8599583033874423056
+    second: StateSleep_37
+  - first:
+      213: -672330122436247336
+    second: StateSleep_38
+  - first:
+      213: -4764859586519534360
+    second: StateSleep_39
+  - first:
+      213: 6833889487655759693
+    second: StateSleep_40
+  - first:
+      213: -9175670222656925447
+    second: StateSleep_41
+  - first:
+      213: -361316182947856361
+    second: StateSleep_42
+  - first:
+      213: 726091621876963624
+    second: StateSleep_43
+  - first:
+      213: -6580911654416608693
+    second: StateSleep_44
+  - first:
+      213: 5976200919505605079
+    second: StateSleep_45
+  - first:
+      213: 7971281194006241979
+    second: StateSleep_46
+  - first:
+      213: 3880459776359282357
+    second: StateSleep_47
+  - first:
+      213: -5365566455865976053
+    second: StateSleep_48
+  - first:
+      213: -115157545553177586
+    second: StateSleep_49
+  - first:
+      213: 3325230253610353461
+    second: StateSleep_50
+  - first:
+      213: -5754927294726833750
+    second: StateSleep_51
+  - first:
+      213: 7236805948902242853
+    second: StateSleep_52
+  - first:
+      213: -1082601534334778475
+    second: StateSleep_53
+  - first:
+      213: -8425431391260028762
+    second: StateSleep_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StateSleep_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 908
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9d74bac3d2df470800000000000000
+      internalID: 8429943816102336952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 922
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28913e3b0b7a84e30800000000000000
+      internalID: 4488021406048786818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 911
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8170dc057b7f5bdb0800000000000000
+      internalID: -4776639463049853160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 773
+        width: 128
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55754f892f5b5e20800000000000000
+      internalID: 3340368180727346525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 913
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32caa666c11ea2f0800000000000000
+      internalID: -959810126759673284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 898
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4082ab7ab4fba70800000000000000
+      internalID: 8844871376933749929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 774
+        width: 162
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679644ceb2533d1d0800000000000000
+      internalID: -3327257236932892298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_7
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 778
+        width: 169
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93185d3d710fd0ac0800000000000000
+      internalID: -3887186918221971143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_8
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 782
+        width: 162
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c081c3446ece930800000000000000
+      internalID: 4173964135405980761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 877
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0699771180de5560800000000000000
+      internalID: 7304504898504726027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 879
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f3d4081957c09a0800000000000000
+      internalID: -6265503713795948643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 834
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61927e5c113ccfd90800000000000000
+      internalID: -7062555634521659114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_12
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 828
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d9c1ffaec85a5f0800000000000000
+      internalID: -746035222329647738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 772
+        width: 130
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94529505ad3328bc0800000000000000
+      internalID: -3782403724293888695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 842
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bc1e98514957910800000000000000
+      internalID: 1834535243451845481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 804
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3fdacc5316f44c0800000000000000
+      internalID: -4301112235420421210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_16
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 803
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0baec1269cc89100800000000000000
+      internalID: 115066735682300686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 598
+        width: 144
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e100ac490a17de210800000000000000
+      internalID: 1363871196668100638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 606
+        width: 127
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4367177ed22d1b0800000000000000
+      internalID: -5633389711822801682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_19
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 627
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe33618149a89de50800000000000000
+      internalID: 6834646278175339503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_20
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 643
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f468ab4cbcff6e6f0800000000000000
+      internalID: -655555445091826097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_21
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 674
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d562d37c981f83d70800000000000000
+      internalID: 9023227427492275805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_22
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 700
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2319c16cd831339d0800000000000000
+      internalID: -2795869444031868622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_23
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 584
+        width: 96
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9954b23442504c0b0800000000000000
+      internalID: -5709432774295075431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f36a7b6c09b00a0800000000000000
+      internalID: -6914273619738214556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 504
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a8e50e22baca480800000000000000
+      internalID: -8886539798427301340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_26
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 498
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5cc7e44d7049c80800000000000000
+      internalID: -8317014003415202333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_27
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 408
+        width: 113
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36193539275120fe0800000000000000
+      internalID: -1224392566849171101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_28
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 391
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82878e7c239917790800000000000000
+      internalID: -7534072258232813528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_29
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 396
+        width: 106
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75afad5c6ab945dd0800000000000000
+      internalID: -2498200752697443753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_30
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 522
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed168aec799540740800000000000000
+      internalID: 5117313585141801438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 478
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f23bc1ed2be4d80800000000000000
+      internalID: -8264471599144292546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_32
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 462
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf05fa7fd384e0dd0800000000000000
+      internalID: -2517995710667861764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_33
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 462
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0998b3b6b05f680800000000000000
+      internalID: -8722052548144820058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_34
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 461
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1468701e7113eb0800000000000000
+      internalID: -4741982677383102047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_35
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 460
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcfb64ecc313c060800000000000000
+      internalID: 6972438418826198236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_36
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 397
+        width: 97
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bff9b505cf38460800000000000000
+      internalID: 7242910047806683979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 402
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f260711bc428a880800000000000000
+      internalID: -8599583033874423056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_38
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 416
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d08468d0576ba6f0800000000000000
+      internalID: -672330122436247336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_39
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 417
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e473ec8371dfddb0800000000000000
+      internalID: -4764859586519534360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_40
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 326
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f6ff1184ad6de50800000000000000
+      internalID: 6833889487655759693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 320
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0976a1c8879a080800000000000000
+      internalID: -9175670222656925447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_42
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 316
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7100bcf88d85cfaf0800000000000000
+      internalID: -361316182947856361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_43
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 310
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8291d5cab78931a00800000000000000
+      internalID: 726091621876963624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_44
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 232
+        width: 69
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42154ca7b7eba4a0800000000000000
+      internalID: -6580911654416608693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_45
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 209
+        width: 99
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d19e71b21bbfe250800000000000000
+      internalID: 5976200919505605079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 228
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb26e75230eaf9e60800000000000000
+      internalID: 7971281194006241979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_47
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 252
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b636176b992ad530800000000000000
+      internalID: 3880459776359282357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_48
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 214
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b5b538cbda985b0800000000000000
+      internalID: -5365566455865976053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_49
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 220
+        width: 121
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04d81c82d0e66ef0800000000000000
+      internalID: -115157545553177586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_50
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 256
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533c3de3c47952e20800000000000000
+      internalID: 3325230253610353461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_51
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 226
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa97b99cd146220b0800000000000000
+      internalID: -5754927294726833750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_52
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 47
+        width: 65
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a70c41bac4e6460800000000000000
+      internalID: 7236805948902242853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_53
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 102
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593cea0f3a3d9f0f0800000000000000
+      internalID: -1082601534334778475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSleep_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 57
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0558c1acad21b80800000000000000
+      internalID: -8425431391260028762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StateSleep_0: 8429943816102336952
+      StateSleep_1: 4488021406048786818
+      StateSleep_10: -6265503713795948643
+      StateSleep_11: -7062555634521659114
+      StateSleep_12: -746035222329647738
+      StateSleep_13: -3782403724293888695
+      StateSleep_14: 1834535243451845481
+      StateSleep_15: -4301112235420421210
+      StateSleep_16: 115066735682300686
+      StateSleep_17: 1363871196668100638
+      StateSleep_18: -5633389711822801682
+      StateSleep_19: 6834646278175339503
+      StateSleep_2: -4776639463049853160
+      StateSleep_20: -655555445091826097
+      StateSleep_21: 9023227427492275805
+      StateSleep_22: -2795869444031868622
+      StateSleep_23: -5709432774295075431
+      StateSleep_24: -6914273619738214556
+      StateSleep_25: -8886539798427301340
+      StateSleep_26: -8317014003415202333
+      StateSleep_27: -1224392566849171101
+      StateSleep_28: -7534072258232813528
+      StateSleep_29: -2498200752697443753
+      StateSleep_3: 3340368180727346525
+      StateSleep_30: 5117313585141801438
+      StateSleep_31: -8264471599144292546
+      StateSleep_32: -2517995710667861764
+      StateSleep_33: -8722052548144820058
+      StateSleep_34: -4741982677383102047
+      StateSleep_35: 6972438418826198236
+      StateSleep_36: 7242910047806683979
+      StateSleep_37: -8599583033874423056
+      StateSleep_38: -672330122436247336
+      StateSleep_39: -4764859586519534360
+      StateSleep_4: -959810126759673284
+      StateSleep_40: 6833889487655759693
+      StateSleep_41: -9175670222656925447
+      StateSleep_42: -361316182947856361
+      StateSleep_43: 726091621876963624
+      StateSleep_44: -6580911654416608693
+      StateSleep_45: 5976200919505605079
+      StateSleep_46: 7971281194006241979
+      StateSleep_47: 3880459776359282357
+      StateSleep_48: -5365566455865976053
+      StateSleep_49: -115157545553177586
+      StateSleep_5: 8844871376933749929
+      StateSleep_50: 3325230253610353461
+      StateSleep_51: -5754927294726833750
+      StateSleep_52: 7236805948902242853
+      StateSleep_53: -1082601534334778475
+      StateSleep_54: -8425431391260028762
+      StateSleep_6: -3327257236932892298
+      StateSleep_7: -3887186918221971143
+      StateSleep_8: 4173964135405980761
+      StateSleep_9: 7304504898504726027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

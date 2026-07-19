@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 2d6a08b7b78c2094497ff648e3d634ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 428194621940480607
+    second: SlashFire_0
+  - first:
+      213: -2864044859944969094
+    second: SlashFire_1
+  - first:
+      213: 413094539975837680
+    second: SlashFire_2
+  - first:
+      213: 5519170338284174562
+    second: SlashFire_3
+  - first:
+      213: 5870731133863038986
+    second: SlashFire_4
+  - first:
+      213: 2347355397413292716
+    second: SlashFire_5
+  - first:
+      213: -4054468238413118505
+    second: SlashFire_6
+  - first:
+      213: -7883368292188618424
+    second: SlashFire_7
+  - first:
+      213: 1265232531744956711
+    second: SlashFire_8
+  - first:
+      213: -1949513759150333540
+    second: SlashFire_9
+  - first:
+      213: -7095567589624739391
+    second: SlashFire_10
+  - first:
+      213: -7959758306087250543
+    second: SlashFire_11
+  - first:
+      213: -7881741966704398055
+    second: SlashFire_12
+  - first:
+      213: -5536519241401183040
+    second: SlashFire_13
+  - first:
+      213: -4620405463057289413
+    second: SlashFire_14
+  - first:
+      213: -5645217284793082198
+    second: SlashFire_15
+  - first:
+      213: 8413181058310014240
+    second: SlashFire_16
+  - first:
+      213: -7494494439510681738
+    second: SlashFire_17
+  - first:
+      213: 2170386802283455787
+    second: SlashFire_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlashFire_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 451
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5abe7f6db041f500800000000000000
+      internalID: 428194621940480607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 386
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c523ecf5ed048d0800000000000000
+      internalID: -2864044859944969094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 386
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7c9e1ab4b9bb500800000000000000
+      internalID: 413094539975837680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 386
+        width: 102
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecfc4c4e28089c40800000000000000
+      internalID: 5519170338284174562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_4
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 386
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a009bbd9cd6097150800000000000000
+      internalID: 5870731133863038986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 194
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa4a601c4b739020800000000000000
+      internalID: 2347355397413292716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 231
+        width: 138
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d348406e92abb7c0800000000000000
+      internalID: -4054468238413118505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 214
+        width: 136
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841058e5e46a89290800000000000000
+      internalID: -7883368292188618424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_8
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 209
+        width: 137
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7212decb8420f8110800000000000000
+      internalID: 1265232531744956711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_9
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 212
+        width: 131
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91ab15a09fe1f4e0800000000000000
+      internalID: -1949513759150333540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 124
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c984a40fda778d90800000000000000
+      internalID: -7095567589624739391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 47
+        width: 105
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19554b34ef1498190800000000000000
+      internalID: -7959758306087250543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 47
+        width: 105
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911bb47c07d6e9290800000000000000
+      internalID: -7881741966704398055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_13
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 125
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4da2c65155a23b0800000000000000
+      internalID: -5536519241401183040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_14
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 152
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f223816b501efb0800000000000000
+      internalID: -4620405463057289413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 124
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae53040ac828a1b0800000000000000
+      internalID: -5645217284793082198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_16
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 119
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0250d9bf89f91c470800000000000000
+      internalID: 8413181058310014240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_17
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 103
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67753d9c3053ef790800000000000000
+      internalID: -7494494439510681738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashFire_18
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 92
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b252d472c43ce1e10800000000000000
+      internalID: 2170386802283455787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SlashFire_0: 428194621940480607
+      SlashFire_1: -2864044859944969094
+      SlashFire_10: -7095567589624739391
+      SlashFire_11: -7959758306087250543
+      SlashFire_12: -7881741966704398055
+      SlashFire_13: -5536519241401183040
+      SlashFire_14: -4620405463057289413
+      SlashFire_15: -5645217284793082198
+      SlashFire_16: 8413181058310014240
+      SlashFire_17: -7494494439510681738
+      SlashFire_18: 2170386802283455787
+      SlashFire_2: 413094539975837680
+      SlashFire_3: 5519170338284174562
+      SlashFire_4: 5870731133863038986
+      SlashFire_5: 2347355397413292716
+      SlashFire_6: -4054468238413118505
+      SlashFire_7: -7883368292188618424
+      SlashFire_8: 1265232531744956711
+      SlashFire_9: -1949513759150333540
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

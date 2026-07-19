@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 60a94a9e1f1ed0f4eb4357f9171a4e8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9077045160074807529
+    second: Recovery4_0
+  - first:
+      213: 7527233620314289251
+    second: Recovery4_1
+  - first:
+      213: -2684928409581735895
+    second: Recovery4_2
+  - first:
+      213: -4587406422026217640
+    second: Recovery4_3
+  - first:
+      213: -2876604096260873156
+    second: Recovery4_4
+  - first:
+      213: -5095007876949801129
+    second: Recovery4_5
+  - first:
+      213: -7980144297034777606
+    second: Recovery4_6
+  - first:
+      213: 1724360395901066796
+    second: Recovery4_7
+  - first:
+      213: -3511836629104492633
+    second: Recovery4_8
+  - first:
+      213: -5799422355169736649
+    second: Recovery4_9
+  - first:
+      213: 7925273016317376396
+    second: Recovery4_10
+  - first:
+      213: 944365124907549478
+    second: Recovery4_11
+  - first:
+      213: 4596428311273222871
+    second: Recovery4_12
+  - first:
+      213: 5181723979069849887
+    second: Recovery4_13
+  - first:
+      213: -7842367212890172219
+    second: Recovery4_14
+  - first:
+      213: 4782636410410712678
+    second: Recovery4_15
+  - first:
+      213: 1217443530975023237
+    second: Recovery4_16
+  - first:
+      213: -3628158540515101681
+    second: Recovery4_17
+  - first:
+      213: 4637326666451678571
+    second: Recovery4_18
+  - first:
+      213: -7969877643084645933
+    second: Recovery4_19
+  - first:
+      213: 8868234910521379597
+    second: Recovery4_20
+  - first:
+      213: 953318812636288873
+    second: Recovery4_21
+  - first:
+      213: 1436708414429011677
+    second: Recovery4_22
+  - first:
+      213: 5076204221178356812
+    second: Recovery4_23
+  - first:
+      213: -3049980336005549080
+    second: Recovery4_24
+  - first:
+      213: -6458723312147761925
+    second: Recovery4_25
+  - first:
+      213: 432667370943181092
+    second: Recovery4_26
+  - first:
+      213: 380714749598977628
+    second: Recovery4_27
+  - first:
+      213: 4674115291470073026
+    second: Recovery4_28
+  - first:
+      213: 1339342135916725464
+    second: Recovery4_29
+  - first:
+      213: 3073709380968017940
+    second: Recovery4_30
+  - first:
+      213: 2753466120115284501
+    second: Recovery4_31
+  - first:
+      213: -3866517850057067369
+    second: Recovery4_32
+  - first:
+      213: -2759410934938641690
+    second: Recovery4_33
+  - first:
+      213: -5058126297101002981
+    second: Recovery4_34
+  - first:
+      213: -8761022254286995251
+    second: Recovery4_35
+  - first:
+      213: -3652776330293883867
+    second: Recovery4_36
+  - first:
+      213: 2464304001732151860
+    second: Recovery4_37
+  - first:
+      213: 8601394474683367598
+    second: Recovery4_38
+  - first:
+      213: -5225538820226983088
+    second: Recovery4_39
+  - first:
+      213: 8394611920773962616
+    second: Recovery4_40
+  - first:
+      213: 8408819601264990024
+    second: Recovery4_41
+  - first:
+      213: -746812257582403498
+    second: Recovery4_42
+  - first:
+      213: -4066119987267995819
+    second: Recovery4_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Recovery4_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 602
+        width: 143
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e800781b7428fd70800000000000000
+      internalID: 9077045160074807529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 602
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364f530c81b167860800000000000000
+      internalID: 7527233620314289251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 603
+        width: 143
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920b68b36d73dbad0800000000000000
+      internalID: -2684928409581735895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_3
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 603
+        width: 139
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85718ce0a224650c0800000000000000
+      internalID: -4587406422026217640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_4
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 589
+        width: 109
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34efeab0df3418d0800000000000000
+      internalID: -2876604096260873156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 399
+        width: 108
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75707969455ea49b0800000000000000
+      internalID: -5095007876949801129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 398
+        width: 112
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbf1eeda05d04190800000000000000
+      internalID: -7980144297034777606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 396
+        width: 121
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e5f6ed4a82ee710800000000000000
+      internalID: 1724360395901066796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_8
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 485
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af750d3133734fc0800000000000000
+      internalID: -3511836629104492633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_9
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 506
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73806a93810548fa0800000000000000
+      internalID: -5799422355169736649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_10
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 496
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87f59581d93cfd60800000000000000
+      internalID: 7925273016317376396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_11
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 485
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623c160e31f0b1d00800000000000000
+      internalID: 944365124907549478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_12
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 505
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d23df8323bc9cf30800000000000000
+      internalID: 4596428311273222871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_13
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 495
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f110598418e29e740800000000000000
+      internalID: 5181723979069849887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_14
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 437
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4d28d02905a2390800000000000000
+      internalID: -7842367212890172219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_15
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 474
+        width: 63
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e316cc9765f5240800000000000000
+      internalID: 4782636410410712678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_16
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 440
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5801ddde07a35e010800000000000000
+      internalID: 1217443530975023237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_17
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 474
+        width: 59
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f043ccbb70136adc0800000000000000
+      internalID: -3628158540515101681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_18
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 403
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b657c4598081b5040800000000000000
+      internalID: 4637326666451678571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_19
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 384
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9bc94828e456190800000000000000
+      internalID: -7969877643084645933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_20
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 414
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b485a4aac421b70800000000000000
+      internalID: 8868234910521379597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_21
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 405
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96712e0c86eda3d00800000000000000
+      internalID: 953318812636288873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_22
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 386
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde1bdfd0b630f310800000000000000
+      internalID: 1436708414429011677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_23
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 415
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44aca228dc427640800000000000000
+      internalID: 5076204221178356812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 293
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3767c3b0b4ca5d0800000000000000
+      internalID: -3049980336005549080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 310
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4f5ec0e510e56a0800000000000000
+      internalID: -6458723312147761925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 301
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42178f67ea4210600800000000000000
+      internalID: 432667370943181092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_27
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 259
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e49923c02984500800000000000000
+      internalID: 380714749598977628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_28
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 234
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc8b43d71bcdd040800000000000000
+      internalID: 4674115291470073026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_29
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 228
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d48704939c469210800000000000000
+      internalID: 1339342135916725464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_30
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 246
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4107263956208aa20800000000000000
+      internalID: 3073709380968017940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 251
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a6b8609d6463620800000000000000
+      internalID: 2753466120115284501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 283
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79434a5408e575ac0800000000000000
+      internalID: -3866517850057067369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_33
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 216
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea57a9ef5a94b9d0800000000000000
+      internalID: -2759410934938641690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_34
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 203
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b179b309eecedc9b0800000000000000
+      internalID: -5058126297101002981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_35
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 226
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc08ee77da89a6680800000000000000
+      internalID: -8761022254286995251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 43
+        width: 98
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cc0e4e74bbe4dc0800000000000000
+      internalID: -3652776330293883867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_37
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 34
+        width: 123
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a81d1ee67f23220800000000000000
+      internalID: 2464304001732151860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_38
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 99
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0828cd3ba4e5770800000000000000
+      internalID: 8601394474683367598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_39
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 108
+        width: 30
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b5b5c01282b77b0800000000000000
+      internalID: -5225538820226983088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_40
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 83
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bddfcb017af7470800000000000000
+      internalID: 8394611920773962616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_41
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 61
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847ddb120e022b470800000000000000
+      internalID: 8408819601264990024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_42
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 94
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650b4e0653ac2a5f0800000000000000
+      internalID: -746812257582403498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery4_43
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 15
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55776c03a6d3297c0800000000000000
+      internalID: -4066119987267995819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Recovery4_0: 9077045160074807529
+      Recovery4_1: 7527233620314289251
+      Recovery4_10: 7925273016317376396
+      Recovery4_11: 944365124907549478
+      Recovery4_12: 4596428311273222871
+      Recovery4_13: 5181723979069849887
+      Recovery4_14: -7842367212890172219
+      Recovery4_15: 4782636410410712678
+      Recovery4_16: 1217443530975023237
+      Recovery4_17: -3628158540515101681
+      Recovery4_18: 4637326666451678571
+      Recovery4_19: -7969877643084645933
+      Recovery4_2: -2684928409581735895
+      Recovery4_20: 8868234910521379597
+      Recovery4_21: 953318812636288873
+      Recovery4_22: 1436708414429011677
+      Recovery4_23: 5076204221178356812
+      Recovery4_24: -3049980336005549080
+      Recovery4_25: -6458723312147761925
+      Recovery4_26: 432667370943181092
+      Recovery4_27: 380714749598977628
+      Recovery4_28: 4674115291470073026
+      Recovery4_29: 1339342135916725464
+      Recovery4_3: -4587406422026217640
+      Recovery4_30: 3073709380968017940
+      Recovery4_31: 2753466120115284501
+      Recovery4_32: -3866517850057067369
+      Recovery4_33: -2759410934938641690
+      Recovery4_34: -5058126297101002981
+      Recovery4_35: -8761022254286995251
+      Recovery4_36: -3652776330293883867
+      Recovery4_37: 2464304001732151860
+      Recovery4_38: 8601394474683367598
+      Recovery4_39: -5225538820226983088
+      Recovery4_4: -2876604096260873156
+      Recovery4_40: 8394611920773962616
+      Recovery4_41: 8408819601264990024
+      Recovery4_42: -746812257582403498
+      Recovery4_43: -4066119987267995819
+      Recovery4_5: -5095007876949801129
+      Recovery4_6: -7980144297034777606
+      Recovery4_7: 1724360395901066796
+      Recovery4_8: -3511836629104492633
+      Recovery4_9: -5799422355169736649
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

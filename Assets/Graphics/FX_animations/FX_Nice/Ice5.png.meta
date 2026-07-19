@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: a00babfa28f158249a29a1fb962c8279
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6916163239747762807
+    second: Ice5_0
+  - first:
+      213: -2469308510331491547
+    second: Ice5_1
+  - first:
+      213: 1116026595682966265
+    second: Ice5_2
+  - first:
+      213: -8255455126384277466
+    second: Ice5_3
+  - first:
+      213: -1932466059015176660
+    second: Ice5_4
+  - first:
+      213: 6363334794393883710
+    second: Ice5_5
+  - first:
+      213: -8870180224769729993
+    second: Ice5_6
+  - first:
+      213: 7955199961204379117
+    second: Ice5_7
+  - first:
+      213: -4392456794281301158
+    second: Ice5_8
+  - first:
+      213: 1011500028397292184
+    second: Ice5_9
+  - first:
+      213: -9216554947595735255
+    second: Ice5_10
+  - first:
+      213: 1927288372740215898
+    second: Ice5_11
+  - first:
+      213: -8840174197922298321
+    second: Ice5_12
+  - first:
+      213: -3936747307695070693
+    second: Ice5_13
+  - first:
+      213: 3477195326949633690
+    second: Ice5_14
+  - first:
+      213: -7963415169066356650
+    second: Ice5_15
+  - first:
+      213: 112939455757492792
+    second: Ice5_16
+  - first:
+      213: 5899772756096995649
+    second: Ice5_17
+  - first:
+      213: -8240663249519623254
+    second: Ice5_18
+  - first:
+      213: -5592137399283940950
+    second: Ice5_19
+  - first:
+      213: 4152599394032653730
+    second: Ice5_20
+  - first:
+      213: 6558550915725088924
+    second: Ice5_21
+  - first:
+      213: 3334271862305941012
+    second: Ice5_22
+  - first:
+      213: -4285069799993031069
+    second: Ice5_23
+  - first:
+      213: 4357959428401722217
+    second: Ice5_24
+  - first:
+      213: -1878801868057068881
+    second: Ice5_25
+  - first:
+      213: 3380819637936568389
+    second: Ice5_26
+  - first:
+      213: 6078464329852428032
+    second: Ice5_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice5_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 769
+        width: 176
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ab7c9b2d52bff50800000000000000
+      internalID: 6916163239747762807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 892
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ba7d82ef04bbdd0800000000000000
+      internalID: -2469308510331491547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_2
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 836
+        width: 66
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa529b964cec7f00800000000000000
+      internalID: 1116026595682966265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_3
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 932
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62800b44d4bbe6d80800000000000000
+      internalID: -8255455126384277466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_4
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 815
+        width: 164
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eb6e3ab508e25e0800000000000000
+      internalID: -1932466059015176660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_5
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 812
+        width: 174
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e341bb6f74b1f4850800000000000000
+      internalID: 6363334794393883710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 617
+        width: 183
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ad7e0f41ac6e480800000000000000
+      internalID: -8870180224769729993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 616
+        width: 186
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedc9cc573c866e60800000000000000
+      internalID: 7955199961204379117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 611
+        width: 574
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bac9d51dbda03c0800000000000000
+      internalID: -4392456794281301158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 384
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a0beaaae1990e00800000000000000
+      internalID: 1011500028397292184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 419
+        width: 577
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fefa74b18381080800000000000000
+      internalID: -9216554947595735255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 960
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54dbe4509a1fba10800000000000000
+      internalID: 1927288372740215898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 45
+        width: 191
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26844c7764615580800000000000000
+      internalID: -8840174197922298321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_13
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 133
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b122c527e2ddd59c0800000000000000
+      internalID: -3936747307695070693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 104
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e2b751aba714030800000000000000
+      internalID: 3477195326949633690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_15
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 140
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650b7d088144c7190800000000000000
+      internalID: -7963415169066356650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_16
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 132
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8322d8d26dd319100800000000000000
+      internalID: 112939455757492792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_17
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 56
+        width: 139
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14150b6301430e150800000000000000
+      internalID: 5899772756096995649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 56
+        width: 138
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa344ca7f6843ad80800000000000000
+      internalID: -8240663249519623254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_19
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 100
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1018ce9acb462b0800000000000000
+      internalID: -5592137399283940950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_20
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 97
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a591dfb52ff0a930800000000000000
+      internalID: 4152599394032653730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 62
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c985b152f47a40b50800000000000000
+      internalID: 6558550915725088924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_22
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 62
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4166351d796b54e20800000000000000
+      internalID: 3334271862305941012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_23
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 76
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36649ad58bf5884c0800000000000000
+      internalID: -4285069799993031069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_24
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 28
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963f27bb2059a7c30800000000000000
+      internalID: 4357959428401722217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_25
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 64
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa3e13c7a72de5e0800000000000000
+      internalID: -1878801868057068881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_26
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 37
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548bfd06c851bee20800000000000000
+      internalID: 3380819637936568389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice5_27
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 17
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f9cb85a1b0b5450800000000000000
+      internalID: 6078464329852428032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice5_0: 6916163239747762807
+      Ice5_1: -2469308510331491547
+      Ice5_10: -9216554947595735255
+      Ice5_11: 1927288372740215898
+      Ice5_12: -8840174197922298321
+      Ice5_13: -3936747307695070693
+      Ice5_14: 3477195326949633690
+      Ice5_15: -7963415169066356650
+      Ice5_16: 112939455757492792
+      Ice5_17: 5899772756096995649
+      Ice5_18: -8240663249519623254
+      Ice5_19: -5592137399283940950
+      Ice5_2: 1116026595682966265
+      Ice5_20: 4152599394032653730
+      Ice5_21: 6558550915725088924
+      Ice5_22: 3334271862305941012
+      Ice5_23: -4285069799993031069
+      Ice5_24: 4357959428401722217
+      Ice5_25: -1878801868057068881
+      Ice5_26: 3380819637936568389
+      Ice5_27: 6078464329852428032
+      Ice5_3: -8255455126384277466
+      Ice5_4: -1932466059015176660
+      Ice5_5: 6363334794393883710
+      Ice5_6: -8870180224769729993
+      Ice5_7: 7955199961204379117
+      Ice5_8: -4392456794281301158
+      Ice5_9: 1011500028397292184
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1155 @@
+fileFormatVersion: 2
+guid: 9afd6d696edd151418886aea85939d17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9102717504950216877
+    second: GoodVERYIcon_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GoodVERYIcon_0
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 482
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8a94da759535e70800000000000000
+      internalID: 9102717504950216877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 482
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9445213ac4aacd438c87ac7f275ec72
+      internalID: 1671239723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 482
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681a41217762a124f8cd105ccd75417e
+      internalID: -255756354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 482
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf1fa96d9779e343859ee0e88b33f31
+      internalID: -1827006002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_4
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 482
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd63485a5e0e264eaab8bd77bff8211
+      internalID: -1117121973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_5
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 482
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20985349f1092549b202a88aab1e140
+      internalID: 1200392223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_6
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 482
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eb19665e9b0e840b47d3ae6e1aa98e
+      internalID: 2036226875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_7
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 482
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f123b51e3f1284eb2393736ffe5db2
+      internalID: -1047432941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_8
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 482
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007c8d2165346fe48993e0749d28ec3d
+      internalID: -1891424809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_9
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 482
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ba715ec9371924d9add7aabe7db96e
+      internalID: -1216929199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_10
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 482
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7604424770d519b4a9b4a61588ca5251
+      internalID: 427953302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 370
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647a8bba6e57a8a42be5da74b6ed7139
+      internalID: -841479463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 370
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77f5a50b306b18478462719f4791f27
+      internalID: 1254545385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 370
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ee73e75733f6244a772adaabf21a29
+      internalID: -1906917320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_14
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 706
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90685f05e835374c88733aa3ecf2ff5
+      internalID: 2001881196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_15
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 706
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebdbed983752784bb448b3316bb0dea
+      internalID: -256606333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 706
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81c5bf54e5adac4b85ab1e30db32587
+      internalID: -362865411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_17
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1043
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fef65cb388d54e4daee43ee52ec2165
+      internalID: 424403492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_18
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1043
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa46788ac6080e4291e56d4fe28c63c
+      internalID: -1531024583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_19
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1043
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1471803d7a53b9149aa8b433d629b6f5
+      internalID: -45534046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_20
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 593
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd0cb407322ef1478b71c8971695642
+      internalID: 2130386492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_21
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 594
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9613c842afe8f45ab3d758d99240e0
+      internalID: -1204760114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_22
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 594
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1d68a404b4a1645a37c23060288ce2
+      internalID: 424364771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_23
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 594
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb93e8ac65c62304d95f6be41107b394
+      internalID: 826025170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 706
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481fba0a2853bab49ac7ef9f7715cc94
+      internalID: 649837532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 705
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73efd3ddff349f4d8d7461b17cad0cf
+      internalID: 1181195739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 705
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254dbf8fb26de9149a9a6a3b2f8e124a
+      internalID: -624370138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_27
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 706
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb4b40d64cf80b49a4c5de7a916c7f0
+      internalID: -1368039852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_28
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 705
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9248181e8edea34bbb26a5f3a93803b
+      internalID: 1443721299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_29
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 594
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82c67c24efd8de49b16c70f1052b063
+      internalID: -762214100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_30
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 370
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205a8d7cef1fdbd43ba6392e9ccd7479
+      internalID: -421779278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_31
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 370
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7e571e9d622104cacf57b237fac218
+      internalID: 990295657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_32
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 371
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0761197e575b3e40a5b64c5bc746245
+      internalID: 1296984963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_33
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 258
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b17f878c4d0e34ca50fdeca38bca83
+      internalID: -185165684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_34
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 258
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502ba4b957bbc4f41b4592b326a6393b
+      internalID: -2100028813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 370
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652f65d3119bee642a70141b0e311a98
+      internalID: -1057933875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_36
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 258
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a490276f0cbfcb54c9a298f9d5bff9d7
+      internalID: -1546540141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_37
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 818
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ee6d0790be34742be4e66c28ba88d7
+      internalID: 395653288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_38
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 34
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60e0ca880dd62c4d9f9cd7e474b5eef
+      internalID: 832698833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_39
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 258
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0148724ef9b35894e9094e4ecd57b020
+      internalID: 1026738213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_40
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 34
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2ee8f047e41e042887e0705401666e
+      internalID: 365763831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_41
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 34
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bbc9dac550c164ea74c51770312c54
+      internalID: -334337518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_42
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 34
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea4fe4ac47ac3a4da4e27be07d783b6
+      internalID: 610500937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_43
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 929
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92879abce1983854fb232723c5623cef
+      internalID: -1582888148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodVERYIcon_44
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 819
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7886820e1c396146a1cca23e1045d93
+      internalID: 1368150663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 47e04a118e727414a95153cd24f2df4c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GoodVERYIcon_0: 9102717504950216877
+      GoodVERYIcon_1: 1671239723
+      GoodVERYIcon_10: 427953302
+      GoodVERYIcon_11: -841479463
+      GoodVERYIcon_12: 1254545385
+      GoodVERYIcon_13: -1906917320
+      GoodVERYIcon_14: 2001881196
+      GoodVERYIcon_15: -256606333
+      GoodVERYIcon_16: -362865411
+      GoodVERYIcon_17: 424403492
+      GoodVERYIcon_18: -1531024583
+      GoodVERYIcon_19: -45534046
+      GoodVERYIcon_2: -255756354
+      GoodVERYIcon_20: 2130386492
+      GoodVERYIcon_21: -1204760114
+      GoodVERYIcon_22: 424364771
+      GoodVERYIcon_23: 826025170
+      GoodVERYIcon_24: 649837532
+      GoodVERYIcon_25: 1181195739
+      GoodVERYIcon_26: -624370138
+      GoodVERYIcon_27: -1368039852
+      GoodVERYIcon_28: 1443721299
+      GoodVERYIcon_29: -762214100
+      GoodVERYIcon_3: -1827006002
+      GoodVERYIcon_30: -421779278
+      GoodVERYIcon_31: 990295657
+      GoodVERYIcon_32: 1296984963
+      GoodVERYIcon_33: -185165684
+      GoodVERYIcon_34: -2100028813
+      GoodVERYIcon_35: -1057933875
+      GoodVERYIcon_36: -1546540141
+      GoodVERYIcon_37: 395653288
+      GoodVERYIcon_38: 832698833
+      GoodVERYIcon_39: 1026738213
+      GoodVERYIcon_4: -1117121973
+      GoodVERYIcon_40: 365763831
+      GoodVERYIcon_41: -334337518
+      GoodVERYIcon_42: 610500937
+      GoodVERYIcon_43: -1582888148
+      GoodVERYIcon_44: 1368150663
+      GoodVERYIcon_5: 1200392223
+      GoodVERYIcon_6: 2036226875
+      GoodVERYIcon_7: -1047432941
+      GoodVERYIcon_8: -1891424809
+      GoodVERYIcon_9: -1216929199
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 90e3796db79385643a8189fbf7217ea5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 902068928221644806
+    second: StateUp1_0
+  - first:
+      213: -3686588565413660977
+    second: StateUp1_1
+  - first:
+      213: 6049613594490118201
+    second: StateUp1_2
+  - first:
+      213: -779662220703301291
+    second: StateUp1_3
+  - first:
+      213: -8792939391502892949
+    second: StateUp1_4
+  - first:
+      213: 1159503803973509140
+    second: StateUp1_5
+  - first:
+      213: -4265766512885610692
+    second: StateUp1_6
+  - first:
+      213: 537361900995218031
+    second: StateUp1_7
+  - first:
+      213: -5880571018182993954
+    second: StateUp1_8
+  - first:
+      213: -2839220334312598026
+    second: StateUp1_9
+  - first:
+      213: 6010518496950305391
+    second: StateUp1_10
+  - first:
+      213: 4960215655756692773
+    second: StateUp1_11
+  - first:
+      213: -5292609616474979157
+    second: StateUp1_12
+  - first:
+      213: 6170692908957967368
+    second: StateUp1_13
+  - first:
+      213: -7317313312033050155
+    second: StateUp1_14
+  - first:
+      213: -4584568840713178355
+    second: StateUp1_15
+  - first:
+      213: 3452827182900884946
+    second: StateUp1_16
+  - first:
+      213: -7298791500110114522
+    second: StateUp1_17
+  - first:
+      213: 5165113707241603654
+    second: StateUp1_18
+  - first:
+      213: -3273521959678378683
+    second: StateUp1_19
+  - first:
+      213: 8530691435899989224
+    second: StateUp1_20
+  - first:
+      213: 747112699283325672
+    second: StateUp1_21
+  - first:
+      213: -9194934563183254087
+    second: StateUp1_22
+  - first:
+      213: -1816696490637211729
+    second: StateUp1_23
+  - first:
+      213: -8228637394277291636
+    second: StateUp1_24
+  - first:
+      213: -6545229908750870985
+    second: StateUp1_25
+  - first:
+      213: -2129555998108810330
+    second: StateUp1_26
+  - first:
+      213: -4300681298576073915
+    second: StateUp1_27
+  - first:
+      213: -2096362068302018235
+    second: StateUp1_28
+  - first:
+      213: 630763376706823587
+    second: StateUp1_29
+  - first:
+      213: 78881450199912431
+    second: StateUp1_30
+  - first:
+      213: -673365295064183254
+    second: StateUp1_31
+  - first:
+      213: 8973466018068146141
+    second: StateUp1_32
+  - first:
+      213: -1373043497227194908
+    second: StateUp1_33
+  - first:
+      213: 5086070503984589537
+    second: StateUp1_34
+  - first:
+      213: 5287409097634642435
+    second: StateUp1_35
+  - first:
+      213: 7610436246193848428
+    second: StateUp1_36
+  - first:
+      213: 2085969313686338335
+    second: StateUp1_37
+  - first:
+      213: 2646860843548347372
+    second: StateUp1_38
+  - first:
+      213: 6006447553224235005
+    second: StateUp1_39
+  - first:
+      213: -84627935959235873
+    second: StateUp1_40
+  - first:
+      213: 2035774567019566963
+    second: StateUp1_41
+  - first:
+      213: 1512376660695411952
+    second: StateUp1_42
+  - first:
+      213: -3715936371035769712
+    second: StateUp1_43
+  - first:
+      213: 979393522328535877
+    second: StateUp1_44
+  - first:
+      213: -3529464690954470579
+    second: StateUp1_45
+  - first:
+      213: -5957965313999697342
+    second: StateUp1_46
+  - first:
+      213: 8478732629164845659
+    second: StateUp1_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StateUp1_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 621
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608819d29eac48c00800000000000000
+      internalID: 902068928221644806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 630
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6708d6b3b96dcc0800000000000000
+      internalID: -3686588565413660977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 635
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93025ff038b84f350800000000000000
+      internalID: 6049613594490118201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 637
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551003257551e25f0800000000000000
+      internalID: -779662220703301291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 630
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b604eedd53439f580800000000000000
+      internalID: -8792939391502892949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 619
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4102e8ff092671010800000000000000
+      internalID: 1159503803973509140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 587
+        width: 133
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3742b025f3fcc4c0800000000000000
+      internalID: -4265766512885610692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 589
+        width: 183
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a06a84dc7157700800000000000000
+      internalID: 537361900995218031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_8
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 587
+        width: 166
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7deb8c0d3046ea0800000000000000
+      internalID: -5880571018182993954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_9
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 588
+        width: 164
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f55b3616201998d0800000000000000
+      internalID: -2839220334312598026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 612
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6243a65ab6a96350800000000000000
+      internalID: 6010518496950305391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 612
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d75bacbd936d440800000000000000
+      internalID: 4960215655756692773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 604
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba44133689fdc86b0800000000000000
+      internalID: -5292609616474979157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 617
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8042678c184b2a550800000000000000
+      internalID: 6170692908957967368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_14
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 615
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1780ebf4ea37a90800000000000000
+      internalID: -7317313312033050155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 597
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0377f0fde65060c0800000000000000
+      internalID: -4584568840713178355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 599
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5be9b6708eaef20800000000000000
+      internalID: 3452827182900884946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 604
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621db422dcb75ba90800000000000000
+      internalID: -7298791500110114522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 607
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64203a00d8b2ea740800000000000000
+      internalID: 5165113707241603654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 590
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dfdec1f1d1292d0800000000000000
+      internalID: -3273521959678378683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 590
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec2945d9aa136670800000000000000
+      internalID: 8530691435899989224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 594
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e247f7aa074e5a00800000000000000
+      internalID: 747112699283325672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 596
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5208c4bb7056080800000000000000
+      internalID: -9194934563183254087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 587
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7ced2ca2cc9c6e0800000000000000
+      internalID: -1816696490637211729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 590
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c892b9813e10ecd80800000000000000
+      internalID: -8228637394277291636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 396
+        width: 177
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73654ab731caa25a0800000000000000
+      internalID: -6545229908750870985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 399
+        width: 184
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a30c634a1c4272e0800000000000000
+      internalID: -2129555998108810330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 396
+        width: 154
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b153a1529e054c0800000000000000
+      internalID: -4300681298576073915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_28
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 397
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549414e4ec938e2e0800000000000000
+      internalID: -2096362068302018235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_29
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 424
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5afedf2fbe0c800800000000000000
+      internalID: 630763376706823587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_30
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 399
+        width: 139
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef8882d24e381100800000000000000
+      internalID: 78881450199912431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 394
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e8f9fe4d9b7a6f0800000000000000
+      internalID: -673365295064183254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 224
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7adfaccc7288c70800000000000000
+      internalID: 8973466018068146141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 243
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edec96c638f1fce0800000000000000
+      internalID: -1373043497227194908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 210
+        width: 130
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eae79c1d2a559640800000000000000
+      internalID: 5086070503984589537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 211
+        width: 160
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a7ea67f86a06940800000000000000
+      internalID: 5287409097634642435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_36
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 206
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c604420b173bd9960800000000000000
+      internalID: 7610436246193848428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_37
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 240
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bb3a2f90ad2fc10800000000000000
+      internalID: 2085969313686338335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_38
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 208
+        width: 119
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb079dd9e98bb420800000000000000
+      internalID: 2646860843548347372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_39
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 210
+        width: 124
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7d1f3e9303b5350800000000000000
+      internalID: 6006447553224235005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_40
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 210
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd24313375753def0800000000000000
+      internalID: -84627935959235873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_41
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 206
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377d9f5ce26804c10800000000000000
+      internalID: 2035774567019566963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_42
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 214
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc675b5f8a0df410800000000000000
+      internalID: 1512376660695411952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_43
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 204
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0947574fe875e6cc0800000000000000
+      internalID: -3715936371035769712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_44
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 13
+        width: 131
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54306b13831879d00800000000000000
+      internalID: 979393522328535877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 14
+        width: 131
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bff504092d40fc0800000000000000
+      internalID: -3529464690954470579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_46
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 22
+        width: 113
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a03f21d1e015da0800000000000000
+      internalID: -5957965313999697342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateUp1_47
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 41
+        width: 206
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a62ea67628aa570800000000000000
+      internalID: 8478732629164845659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StateUp1_0: 902068928221644806
+      StateUp1_1: -3686588565413660977
+      StateUp1_10: 6010518496950305391
+      StateUp1_11: 4960215655756692773
+      StateUp1_12: -5292609616474979157
+      StateUp1_13: 6170692908957967368
+      StateUp1_14: -7317313312033050155
+      StateUp1_15: -4584568840713178355
+      StateUp1_16: 3452827182900884946
+      StateUp1_17: -7298791500110114522
+      StateUp1_18: 5165113707241603654
+      StateUp1_19: -3273521959678378683
+      StateUp1_2: 6049613594490118201
+      StateUp1_20: 8530691435899989224
+      StateUp1_21: 747112699283325672
+      StateUp1_22: -9194934563183254087
+      StateUp1_23: -1816696490637211729
+      StateUp1_24: -8228637394277291636
+      StateUp1_25: -6545229908750870985
+      StateUp1_26: -2129555998108810330
+      StateUp1_27: -4300681298576073915
+      StateUp1_28: -2096362068302018235
+      StateUp1_29: 630763376706823587
+      StateUp1_3: -779662220703301291
+      StateUp1_30: 78881450199912431
+      StateUp1_31: -673365295064183254
+      StateUp1_32: 8973466018068146141
+      StateUp1_33: -1373043497227194908
+      StateUp1_34: 5086070503984589537
+      StateUp1_35: 5287409097634642435
+      StateUp1_36: 7610436246193848428
+      StateUp1_37: 2085969313686338335
+      StateUp1_38: 2646860843548347372
+      StateUp1_39: 6006447553224235005
+      StateUp1_4: -8792939391502892949
+      StateUp1_40: -84627935959235873
+      StateUp1_41: 2035774567019566963
+      StateUp1_42: 1512376660695411952
+      StateUp1_43: -3715936371035769712
+      StateUp1_44: 979393522328535877
+      StateUp1_45: -3529464690954470579
+      StateUp1_46: -5957965313999697342
+      StateUp1_47: 8478732629164845659
+      StateUp1_5: 1159503803973509140
+      StateUp1_6: -4265766512885610692
+      StateUp1_7: 537361900995218031
+      StateUp1_8: -5880571018182993954
+      StateUp1_9: -2839220334312598026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

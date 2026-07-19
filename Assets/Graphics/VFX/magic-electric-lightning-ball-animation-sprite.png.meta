@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 5eb35cbc5f34c7048abb5520b8d32421
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4135704855552747658
+    second: magic-electric-lightning-ball-animation-sprite_0
+  - first:
+      213: -4886044206362547841
+    second: magic-electric-lightning-ball-animation-sprite_1
+  - first:
+      213: 4356076450237349726
+    second: magic-electric-lightning-ball-animation-sprite_2
+  - first:
+      213: -8802586849049529715
+    second: magic-electric-lightning-ball-animation-sprite_3
+  - first:
+      213: -3871052399715518772
+    second: magic-electric-lightning-ball-animation-sprite_4
+  - first:
+      213: 3694924969243038704
+    second: magic-electric-lightning-ball-animation-sprite_5
+  - first:
+      213: -5437954490036633754
+    second: magic-electric-lightning-ball-animation-sprite_6
+  - first:
+      213: -4328158942460622699
+    second: magic-electric-lightning-ball-animation-sprite_7
+  - first:
+      213: -2836857404298986625
+    second: magic-electric-lightning-ball-animation-sprite_8
+  - first:
+      213: 4058810593875513368
+    second: magic-electric-lightning-ball-animation-sprite_9
+  - first:
+      213: 7369585527212277724
+    second: magic-electric-lightning-ball-animation-sprite_10
+  - first:
+      213: -8332997982010326337
+    second: magic-electric-lightning-ball-animation-sprite_11
+  - first:
+      213: 3840925987981108290
+    second: magic-electric-lightning-ball-animation-sprite_12
+  - first:
+      213: 5378795154453313414
+    second: magic-electric-lightning-ball-animation-sprite_13
+  - first:
+      213: 4657859259304805383
+    second: magic-electric-lightning-ball-animation-sprite_14
+  - first:
+      213: -5674373043795540718
+    second: magic-electric-lightning-ball-animation-sprite_15
+  - first:
+      213: -3531268913718400521
+    second: magic-electric-lightning-ball-animation-sprite_16
+  - first:
+      213: -3446560353467120581
+    second: magic-electric-lightning-ball-animation-sprite_17
+  - first:
+      213: 3090005555256763178
+    second: magic-electric-lightning-ball-animation-sprite_18
+  - first:
+      213: -7492764736140446653
+    second: magic-electric-lightning-ball-animation-sprite_19
+  - first:
+      213: 4679418877896069905
+    second: magic-electric-lightning-ball-animation-sprite_20
+  - first:
+      213: -58035524409023730
+    second: magic-electric-lightning-ball-animation-sprite_21
+  - first:
+      213: 4161359705804424662
+    second: magic-electric-lightning-ball-animation-sprite_22
+  - first:
+      213: -658605315148024836
+    second: magic-electric-lightning-ball-animation-sprite_23
+  - first:
+      213: -363912740878685440
+    second: magic-electric-lightning-ball-animation-sprite_24
+  - first:
+      213: -2406500581673087079
+    second: magic-electric-lightning-ball-animation-sprite_25
+  - first:
+      213: -2525778282659626284
+    second: magic-electric-lightning-ball-animation-sprite_26
+  - first:
+      213: -7776999374751034861
+    second: magic-electric-lightning-ball-animation-sprite_27
+  - first:
+      213: -2067534983154533768
+    second: magic-electric-lightning-ball-animation-sprite_28
+  - first:
+      213: 5259963161398783189
+    second: magic-electric-lightning-ball-animation-sprite_29
+  - first:
+      213: -1528815476875365541
+    second: magic-electric-lightning-ball-animation-sprite_30
+  - first:
+      213: 4955372714129329498
+    second: magic-electric-lightning-ball-animation-sprite_31
+  - first:
+      213: -754786430347344920
+    second: magic-electric-lightning-ball-animation-sprite_32
+  - first:
+      213: 7956172930452331502
+    second: magic-electric-lightning-ball-animation-sprite_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magic-electric-lightning-ball-animation-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 400
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88641b77a9f46930800000000000000
+      internalID: 4135704855552747658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-electric-lightning-ball-animation-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 410
+        width: 400
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79a7e28ea8413cb0800000000000000
+      internalID: -4886044206362547841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-electric-lightning-ball-animation-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 410
+        width: 400
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f77d6b374e37c30800000000000000
+      internalID: 4356076450237349726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-electric-lightning-ball-animation-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 410
+        width: 400
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82b0ed16ede6d580800000000000000
+      internalID: -8802586849049529715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-electric-lightning-ball-animation-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 410
+        width: 400
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc678082a52474ac0800000000000000
+      internalID: -3871052399715518772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-electric-lightning-ball-animation-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 400
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3d377dea2074330800000000000000
+      internalID: 3694924969243038704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-electric-lightning-ball-animation-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1
+        width: 400
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f30ace3318884b0800000000000000
+      internalID: -5437954490036633754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-electric-lightning-ball-animation-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1
+        width: 400
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59844379f5a4fe3c0800000000000000
+      internalID: -4328158942460622699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-electric-lightning-ball-animation-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1
+        width: 400
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b725a983571a8d0800000000000000
+      internalID: -2836857404298986625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-electric-lightning-ball-animation-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1
+        width: 400
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810da8a0bbac35830800000000000000
+      internalID: 4058810593875513368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cc8f3dba5b3942c4283cea78f6bea6ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":2.0},"gridSpriteSize":{"x":400.0,"y":409.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      magic-electric-lightning-ball-animation-sprite_0: 4135704855552747658
+      magic-electric-lightning-ball-animation-sprite_1: -4886044206362547841
+      magic-electric-lightning-ball-animation-sprite_2: 4356076450237349726
+      magic-electric-lightning-ball-animation-sprite_3: -8802586849049529715
+      magic-electric-lightning-ball-animation-sprite_4: -3871052399715518772
+      magic-electric-lightning-ball-animation-sprite_5: 3694924969243038704
+      magic-electric-lightning-ball-animation-sprite_6: -5437954490036633754
+      magic-electric-lightning-ball-animation-sprite_7: -4328158942460622699
+      magic-electric-lightning-ball-animation-sprite_8: -2836857404298986625
+      magic-electric-lightning-ball-animation-sprite_9: 4058810593875513368
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

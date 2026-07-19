@@ -1,0 +1,2899 @@
+fileFormatVersion: 2
+guid: e5e092e8582cc9741be164be1bab84db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7672841913720584351
+    second: sci ball and chain_0
+  - first:
+      213: -9062134571656183154
+    second: sci ball and chain_1
+  - first:
+      213: 5759905140448061299
+    second: sci ball and chain_2
+  - first:
+      213: 5403278937383982476
+    second: sci ball and chain_3
+  - first:
+      213: 6938449031944139016
+    second: sci ball and chain_4
+  - first:
+      213: 11203333954323672
+    second: sci ball and chain_5
+  - first:
+      213: -7465277474582103223
+    second: sci ball and chain_6
+  - first:
+      213: 3293860246822562598
+    second: sci ball and chain_7
+  - first:
+      213: -8408527153119876542
+    second: sci ball and chain_8
+  - first:
+      213: -4972708468188393410
+    second: sci ball and chain_9
+  - first:
+      213: 8531647293885964827
+    second: sci ball and chain_10
+  - first:
+      213: 8040284520737250701
+    second: sci ball and chain_11
+  - first:
+      213: 1087147252198592916
+    second: sci ball and chain_12
+  - first:
+      213: -461491480071455276
+    second: sci ball and chain_13
+  - first:
+      213: -1753494356594648490
+    second: sci ball and chain_14
+  - first:
+      213: -8199241618610987087
+    second: sci ball and chain_15
+  - first:
+      213: -5261430573175149698
+    second: sci ball and chain_16
+  - first:
+      213: 3875314615456513439
+    second: sci ball and chain_17
+  - first:
+      213: 8927990029553881495
+    second: sci ball and chain_18
+  - first:
+      213: -8761512039792939433
+    second: sci ball and chain_19
+  - first:
+      213: -3772422723845553686
+    second: sci ball and chain_20
+  - first:
+      213: -442618430066953770
+    second: sci ball and chain_21
+  - first:
+      213: 7062906704355871771
+    second: sci ball and chain_22
+  - first:
+      213: -6318333197439851554
+    second: sci ball and chain_23
+  - first:
+      213: 7425075116253447533
+    second: sci ball and chain_24
+  - first:
+      213: 2345959099680972629
+    second: sci ball and chain_25
+  - first:
+      213: 7739752964612302155
+    second: sci ball and chain_26
+  - first:
+      213: 5569926441581424217
+    second: sci ball and chain_27
+  - first:
+      213: -8978061762916706959
+    second: sci ball and chain_28
+  - first:
+      213: -7683479811196638363
+    second: sci ball and chain_29
+  - first:
+      213: 2009227794737270426
+    second: sci ball and chain_30
+  - first:
+      213: -2529376791128357768
+    second: sci ball and chain_31
+  - first:
+      213: -1100976124833478023
+    second: sci ball and chain_32
+  - first:
+      213: -7716202916243233751
+    second: sci ball and chain_33
+  - first:
+      213: 3891761574543529542
+    second: sci ball and chain_34
+  - first:
+      213: -5374473479881106769
+    second: sci ball and chain_35
+  - first:
+      213: 6978703668283115286
+    second: sci ball and chain_36
+  - first:
+      213: -4042504219390125644
+    second: sci ball and chain_37
+  - first:
+      213: -6808716699726004047
+    second: sci ball and chain_38
+  - first:
+      213: -2382649568278912466
+    second: sci ball and chain_39
+  - first:
+      213: -3705651883772156312
+    second: sci ball and chain_40
+  - first:
+      213: -6112557242600417620
+    second: sci ball and chain_41
+  - first:
+      213: 1062906455791768142
+    second: sci ball and chain_42
+  - first:
+      213: 7684256396983862359
+    second: sci ball and chain_43
+  - first:
+      213: -6333100032908520051
+    second: sci ball and chain_44
+  - first:
+      213: 4022131075095245874
+    second: sci ball and chain_45
+  - first:
+      213: -1664531704802311439
+    second: sci ball and chain_46
+  - first:
+      213: 8442502352384640121
+    second: sci ball and chain_47
+  - first:
+      213: 714471781383937806
+    second: sci ball and chain_48
+  - first:
+      213: -3758527736452063150
+    second: sci ball and chain_49
+  - first:
+      213: -3778486048448537580
+    second: sci ball and chain_50
+  - first:
+      213: 7433088153263332900
+    second: sci ball and chain_51
+  - first:
+      213: -3941660023761399723
+    second: sci ball and chain_52
+  - first:
+      213: 8088241954861642809
+    second: sci ball and chain_53
+  - first:
+      213: -478241124385530837
+    second: sci ball and chain_54
+  - first:
+      213: 8974244966399610820
+    second: sci ball and chain_55
+  - first:
+      213: -5526918722546884478
+    second: sci ball and chain_56
+  - first:
+      213: -4540384652347753767
+    second: sci ball and chain_57
+  - first:
+      213: -6674470626871375755
+    second: sci ball and chain_58
+  - first:
+      213: 7217547010125148463
+    second: sci ball and chain_59
+  - first:
+      213: -5050666341387016234
+    second: sci ball and chain_60
+  - first:
+      213: -6091444385643709851
+    second: sci ball and chain_61
+  - first:
+      213: -4947179914233942580
+    second: sci ball and chain_62
+  - first:
+      213: -2308702841723730690
+    second: sci ball and chain_63
+  - first:
+      213: -3592150097860509047
+    second: sci ball and chain_64
+  - first:
+      213: -4958393693789677792
+    second: sci ball and chain_65
+  - first:
+      213: -4477482232162292060
+    second: sci ball and chain_66
+  - first:
+      213: 5894105518620714642
+    second: sci ball and chain_67
+  - first:
+      213: 1257606709722078584
+    second: sci ball and chain_68
+  - first:
+      213: 4297160153512429772
+    second: sci ball and chain_69
+  - first:
+      213: -4737757769426049479
+    second: sci ball and chain_70
+  - first:
+      213: -4501965042796422485
+    second: sci ball and chain_71
+  - first:
+      213: 8675617916044385363
+    second: sci ball and chain_72
+  - first:
+      213: 8782926533108077082
+    second: sci ball and chain_73
+  - first:
+      213: 7951972137432672398
+    second: sci ball and chain_74
+  - first:
+      213: -4607090256342714101
+    second: sci ball and chain_75
+  - first:
+      213: 3742158677789279313
+    second: sci ball and chain_76
+  - first:
+      213: -1472732828413280414
+    second: sci ball and chain_77
+  - first:
+      213: -4140091136206759751
+    second: sci ball and chain_78
+  - first:
+      213: 7274245094121569615
+    second: sci ball and chain_79
+  - first:
+      213: -5981080775361709586
+    second: sci ball and chain_80
+  - first:
+      213: 2892166530781790981
+    second: sci ball and chain_81
+  - first:
+      213: 3708499373332618809
+    second: sci ball and chain_82
+  - first:
+      213: 2522235812590252252
+    second: sci ball and chain_83
+  - first:
+      213: 2070449120357972418
+    second: sci ball and chain_84
+  - first:
+      213: -6366301599507837879
+    second: sci ball and chain_85
+  - first:
+      213: 3356092444451119255
+    second: sci ball and chain_86
+  - first:
+      213: 1056298689199569377
+    second: sci ball and chain_87
+  - first:
+      213: 5953492197501222321
+    second: sci ball and chain_88
+  - first:
+      213: -4031133768890917322
+    second: sci ball and chain_89
+  - first:
+      213: 4917846645055611086
+    second: sci ball and chain_90
+  - first:
+      213: 1650671217215712051
+    second: sci ball and chain_91
+  - first:
+      213: 9001959598597931647
+    second: sci ball and chain_92
+  - first:
+      213: 5003469357382184260
+    second: sci ball and chain_93
+  - first:
+      213: 384573008253207058
+    second: sci ball and chain_94
+  - first:
+      213: -3028963376396590866
+    second: sci ball and chain_95
+  - first:
+      213: -5469808634201708984
+    second: sci ball and chain_96
+  - first:
+      213: -4519172936225202831
+    second: sci ball and chain_97
+  - first:
+      213: -3148455403476003936
+    second: sci ball and chain_98
+  - first:
+      213: -6708570951519510879
+    second: sci ball and chain_99
+  - first:
+      213: 3719763158038951429
+    second: sci ball and chain_100
+  - first:
+      213: -4213040115128063258
+    second: sci ball and chain_101
+  - first:
+      213: -994210031453134634
+    second: sci ball and chain_102
+  - first:
+      213: 6579045211217151614
+    second: sci ball and chain_103
+  - first:
+      213: -7704463021149390938
+    second: sci ball and chain_104
+  - first:
+      213: 2255601696066167339
+    second: sci ball and chain_105
+  - first:
+      213: 6809302437512242505
+    second: sci ball and chain_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sci ball and chain_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1036
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f983b0d61196b7a60800000000000000
+      internalID: 7672841913720584351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1036
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8285adce94dc3280800000000000000
+      internalID: -9062134571656183154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1036
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3776a5c353b4fef40800000000000000
+      internalID: 5759905140448061299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1036
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c855f15d09d4cfa40800000000000000
+      internalID: 5403278937383982476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1036
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801fe2112a25a4060800000000000000
+      internalID: 6938449031944139016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1036
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4c5a47f5dc72000800000000000000
+      internalID: 11203333954323672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1036
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bfec980b1066890800000000000000
+      internalID: -7465277474582103223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_7
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1036
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ba3af517426bd20800000000000000
+      internalID: 3293860246822562598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1036
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a2012ca19ee4b80800000000000000
+      internalID: -8408527153119876542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_9
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1036
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30dd06aef36dfab0800000000000000
+      internalID: -4972708468188393410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_10
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1036
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12eefcd200866670800000000000000
+      internalID: 8531647293885964827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_11
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1036
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d9d9f1c24d49f60800000000000000
+      internalID: 8040284520737250701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_12
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1036
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491d6d97aa2561f00800000000000000
+      internalID: 1087147252198592916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_13
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1048
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddb877a1f37899f0800000000000000
+      internalID: -461491480071455276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_14
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1036
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a168f4c265aa7e0800000000000000
+      internalID: -1753494356594648490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_15
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1036
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfd7177031763e80800000000000000
+      internalID: -8199241618610987087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_16
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1036
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7be38b15c4abf6b0800000000000000
+      internalID: -5261430573175149698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_17
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1036
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d3a274c12e7c530800000000000000
+      internalID: 3875314615456513439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 844
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791d9cd11a796eb70800000000000000
+      internalID: 8927990029553881495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 844
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e65d4683bd86680800000000000000
+      internalID: -8761512039792939433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 844
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae103921589a5abc0800000000000000
+      internalID: -3772422723845553686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_21
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 844
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d171d802e08bd9f0800000000000000
+      internalID: -442618430066953770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_22
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 844
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c4bda0a3c740260800000000000000
+      internalID: 7062906704355871771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_23
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 844
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed32a02de65c058a0800000000000000
+      internalID: -6318333197439851554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_24
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 844
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6501ee7a7a2b0760800000000000000
+      internalID: 7425075116253447533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_25
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 844
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f541a2f558e8020800000000000000
+      internalID: 2345959099680972629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_26
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 844
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b452ef87050296b60800000000000000
+      internalID: 7739752964612302155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_27
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 844
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e248f769a5c4d40800000000000000
+      internalID: 5569926441581424217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_28
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 844
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17515d9f464876380800000000000000
+      internalID: -8978061762916706959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_29
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 844
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b2dbe02dbce5590800000000000000
+      internalID: -7683479811196638363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_30
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 844
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e0822b80632eb10800000000000000
+      internalID: 2009227794737270426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_31
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 844
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8744dada539d5ecd0800000000000000
+      internalID: -2529376791128357768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_32
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 844
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a4d153c0c88b0f0800000000000000
+      internalID: -1100976124833478023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_33
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 844
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9242d72745a8ae490800000000000000
+      internalID: -7716202916243233751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_34
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 844
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6469e295880520630800000000000000
+      internalID: 3891761574543529542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_35
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 844
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faadde068d80a65b0800000000000000
+      internalID: -5374473479881106769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 652
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6170bb4f20659d060800000000000000
+      internalID: 6978703668283115286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 652
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9db30a4d326e7c0800000000000000
+      internalID: -4042504219390125644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 652
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0cf885c349281a0800000000000000
+      internalID: -6808716699726004047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 652
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e226f7a67d02feed0800000000000000
+      internalID: -2382649568278912466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_40
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 652
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866e08ebe31e29cc0800000000000000
+      internalID: -3705651883772156312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_41
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 652
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca69f85d295db2ba0800000000000000
+      internalID: -6112557242600417620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_42
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 652
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4210fe3ac330ce00800000000000000
+      internalID: 1062906455791768142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_43
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 652
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7540f39ea76f3aa60800000000000000
+      internalID: 7684256396983862359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_44
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 652
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d851973031f4c18a0800000000000000
+      internalID: -6333100032908520051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_45
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 652
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234bc1317ea71d730800000000000000
+      internalID: 4022131075095245874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_46
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 664
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f202e9cb3566e8e0800000000000000
+      internalID: -1664531704802311439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_47
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 652
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9744941c82bc92570800000000000000
+      internalID: 8442502352384640121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_48
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 652
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f1e6bbc405ae900800000000000000
+      internalID: 714471781383937806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_49
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 664
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250625eefe607dbc0800000000000000
+      internalID: -3758527736452063150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_50
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 652
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c947d45fe109bc0800000000000000
+      internalID: -3778486048448537580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_51
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 652
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42edc6f0b42a72760800000000000000
+      internalID: 7433088153263332900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_52
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 652
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550185a97196c49c0800000000000000
+      internalID: -3941660023761399723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_53
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 652
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93470f064353f3070800000000000000
+      internalID: 8088241954861642809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_54
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 460
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c54003b32fc59f0800000000000000
+      internalID: -478241124385530837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_55
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 472
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf0695df3cea8c70800000000000000
+      internalID: 8974244966399610820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_56
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 460
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280232864b07c43b0800000000000000
+      internalID: -5526918722546884478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_57
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 460
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da3d25f6305df0c0800000000000000
+      internalID: -4540384652347753767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_58
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 460
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5788d85e3548f53a0800000000000000
+      internalID: -6674470626871375755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_59
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 460
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f213138f3c0e92460800000000000000
+      internalID: 7217547010125148463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_60
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 460
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7ea9ad8bd68e9b0800000000000000
+      internalID: -5050666341387016234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_61
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 460
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ab8a8ea97d67ba0800000000000000
+      internalID: -6091444385643709851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_62
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 460
+        width: 70
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd632c4416185bb0800000000000000
+      internalID: -4947179914233942580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_63
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 470
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef44f1b5ff6d5ffd0800000000000000
+      internalID: -2308702841723730690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_64
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 460
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982c32d948e162ec0800000000000000
+      internalID: -3592150097860509047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_65
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 455
+        width: 99
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0271129c43f303bb0800000000000000
+      internalID: -4958393693789677792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_66
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 460
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aee7dfe1a9ccd1c0800000000000000
+      internalID: -4477482232162292060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_67
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 455
+        width: 100
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296ae0aadb11cc150800000000000000
+      internalID: 5894105518620714642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_68
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 460
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dd120b3aae37110800000000000000
+      internalID: 1257606709722078584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_69
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 457
+        width: 101
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8421d646492ab30800000000000000
+      internalID: 4297160153512429772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_70
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 456
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9366381196a104eb0800000000000000
+      internalID: -4737757769426049479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_71
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 268
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa94e065aec581c0800000000000000
+      internalID: -4501965042796422485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 280
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c17dc778cf56870800000000000000
+      internalID: 8675617916044385363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_73
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 269
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12924ed52933e970800000000000000
+      internalID: 8782926533108077082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_74
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 264
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e886a7317841b5e60800000000000000
+      internalID: 7951972137432672398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_75
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 268
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09778e32d35010c0800000000000000
+      internalID: -4607090256342714101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_76
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 268
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15486ca9d71dee330800000000000000
+      internalID: 3742158677789279313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_77
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 269
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fbe51ab4dcf8be0800000000000000
+      internalID: -1472732828413280414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_78
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 262
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b817a8fb017b86c0800000000000000
+      internalID: -4140091136206759751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_79
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 268
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d7e3c5f5f43f460800000000000000
+      internalID: 7274245094121569615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_80
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 268
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9b5a359beeefca0800000000000000
+      internalID: -5981080775361709586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_81
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 262
+        width: 76
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503c58ae22a032820800000000000000
+      internalID: 2892166530781790981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_82
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 268
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93edf35188c377330800000000000000
+      internalID: 3708499373332618809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_83
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 280
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0f531bb18c00320800000000000000
+      internalID: 2522235812590252252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_84
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 262
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9f4785186bbbc10800000000000000
+      internalID: 2070449120357972418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_85
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 268
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c8554ec6a56a7a0800000000000000
+      internalID: -6366301599507837879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_86
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 268
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790a1e00c4c339e20800000000000000
+      internalID: 3356092444451119255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_87
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 268
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e97372bf0ab8ae00800000000000000
+      internalID: 1056298689199569377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_88
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 268
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdbe155c9d0f9250800000000000000
+      internalID: 5953492197501222321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_89
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 280
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63edc2fe1398e08c0800000000000000
+      internalID: -4031133768890917322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_90
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 268
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0e262c773bf3440800000000000000
+      internalID: 4917846645055611086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_91
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 268
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33baa17f9bc58e610800000000000000
+      internalID: 1650671217215712051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_92
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 76
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7209dc7f826dec70800000000000000
+      internalID: 9001959598597931647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_93
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 88
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d215bfed4ef6540800000000000000
+      internalID: 5003469357382184260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_94
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 75
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212c22b0d17465500800000000000000
+      internalID: 384573008253207058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_95
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 76
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0a6387bd5f6f5d0800000000000000
+      internalID: -3028963376396590866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_96
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 88
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846ea0907065714b0800000000000000
+      internalID: -5469808634201708984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_97
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 75
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ddcb9782ca841c0800000000000000
+      internalID: -4519172936225202831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_98
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 76
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a357a4ed707e44d0800000000000000
+      internalID: -3148455403476003936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_99
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 88
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aedc2c534e56e2a0800000000000000
+      internalID: -6708570951519510879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_100
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 75
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5063f7352e04f9330800000000000000
+      internalID: 3719763158038951429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_101
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 76
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea225146564885c0800000000000000
+      internalID: -4213040115128063258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_102
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 88
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d02b137e3bd332f0800000000000000
+      internalID: -994210031453134634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_103
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 75
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7645d723c67d4b50800000000000000
+      internalID: 6579045211217151614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_104
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 76
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7f147c3bf341590800000000000000
+      internalID: -7704463021149390938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_105
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 88
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22eac8bac18d4f10800000000000000
+      internalID: 2255601696066167339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci ball and chain_106
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 75
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9456e1c5d708f7e50800000000000000
+      internalID: 6809302437512242505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sci ball and chain_0: 7672841913720584351
+      sci ball and chain_1: -9062134571656183154
+      sci ball and chain_10: 8531647293885964827
+      sci ball and chain_100: 3719763158038951429
+      sci ball and chain_101: -4213040115128063258
+      sci ball and chain_102: -994210031453134634
+      sci ball and chain_103: 6579045211217151614
+      sci ball and chain_104: -7704463021149390938
+      sci ball and chain_105: 2255601696066167339
+      sci ball and chain_106: 6809302437512242505
+      sci ball and chain_11: 8040284520737250701
+      sci ball and chain_12: 1087147252198592916
+      sci ball and chain_13: -461491480071455276
+      sci ball and chain_14: -1753494356594648490
+      sci ball and chain_15: -8199241618610987087
+      sci ball and chain_16: -5261430573175149698
+      sci ball and chain_17: 3875314615456513439
+      sci ball and chain_18: 8927990029553881495
+      sci ball and chain_19: -8761512039792939433
+      sci ball and chain_2: 5759905140448061299
+      sci ball and chain_20: -3772422723845553686
+      sci ball and chain_21: -442618430066953770
+      sci ball and chain_22: 7062906704355871771
+      sci ball and chain_23: -6318333197439851554
+      sci ball and chain_24: 7425075116253447533
+      sci ball and chain_25: 2345959099680972629
+      sci ball and chain_26: 7739752964612302155
+      sci ball and chain_27: 5569926441581424217
+      sci ball and chain_28: -8978061762916706959
+      sci ball and chain_29: -7683479811196638363
+      sci ball and chain_3: 5403278937383982476
+      sci ball and chain_30: 2009227794737270426
+      sci ball and chain_31: -2529376791128357768
+      sci ball and chain_32: -1100976124833478023
+      sci ball and chain_33: -7716202916243233751
+      sci ball and chain_34: 3891761574543529542
+      sci ball and chain_35: -5374473479881106769
+      sci ball and chain_36: 6978703668283115286
+      sci ball and chain_37: -4042504219390125644
+      sci ball and chain_38: -6808716699726004047
+      sci ball and chain_39: -2382649568278912466
+      sci ball and chain_4: 6938449031944139016
+      sci ball and chain_40: -3705651883772156312
+      sci ball and chain_41: -6112557242600417620
+      sci ball and chain_42: 1062906455791768142
+      sci ball and chain_43: 7684256396983862359
+      sci ball and chain_44: -6333100032908520051
+      sci ball and chain_45: 4022131075095245874
+      sci ball and chain_46: -1664531704802311439
+      sci ball and chain_47: 8442502352384640121
+      sci ball and chain_48: 714471781383937806
+      sci ball and chain_49: -3758527736452063150
+      sci ball and chain_5: 11203333954323672
+      sci ball and chain_50: -3778486048448537580
+      sci ball and chain_51: 7433088153263332900
+      sci ball and chain_52: -3941660023761399723
+      sci ball and chain_53: 8088241954861642809
+      sci ball and chain_54: -478241124385530837
+      sci ball and chain_55: 8974244966399610820
+      sci ball and chain_56: -5526918722546884478
+      sci ball and chain_57: -4540384652347753767
+      sci ball and chain_58: -6674470626871375755
+      sci ball and chain_59: 7217547010125148463
+      sci ball and chain_6: -7465277474582103223
+      sci ball and chain_60: -5050666341387016234
+      sci ball and chain_61: -6091444385643709851
+      sci ball and chain_62: -4947179914233942580
+      sci ball and chain_63: -2308702841723730690
+      sci ball and chain_64: -3592150097860509047
+      sci ball and chain_65: -4958393693789677792
+      sci ball and chain_66: -4477482232162292060
+      sci ball and chain_67: 5894105518620714642
+      sci ball and chain_68: 1257606709722078584
+      sci ball and chain_69: 4297160153512429772
+      sci ball and chain_7: 3293860246822562598
+      sci ball and chain_70: -4737757769426049479
+      sci ball and chain_71: -4501965042796422485
+      sci ball and chain_72: 8675617916044385363
+      sci ball and chain_73: 8782926533108077082
+      sci ball and chain_74: 7951972137432672398
+      sci ball and chain_75: -4607090256342714101
+      sci ball and chain_76: 3742158677789279313
+      sci ball and chain_77: -1472732828413280414
+      sci ball and chain_78: -4140091136206759751
+      sci ball and chain_79: 7274245094121569615
+      sci ball and chain_8: -8408527153119876542
+      sci ball and chain_80: -5981080775361709586
+      sci ball and chain_81: 2892166530781790981
+      sci ball and chain_82: 3708499373332618809
+      sci ball and chain_83: 2522235812590252252
+      sci ball and chain_84: 2070449120357972418
+      sci ball and chain_85: -6366301599507837879
+      sci ball and chain_86: 3356092444451119255
+      sci ball and chain_87: 1056298689199569377
+      sci ball and chain_88: 5953492197501222321
+      sci ball and chain_89: -4031133768890917322
+      sci ball and chain_9: -4972708468188393410
+      sci ball and chain_90: 4917846645055611086
+      sci ball and chain_91: 1650671217215712051
+      sci ball and chain_92: 9001959598597931647
+      sci ball and chain_93: 5003469357382184260
+      sci ball and chain_94: 384573008253207058
+      sci ball and chain_95: -3028963376396590866
+      sci ball and chain_96: -5469808634201708984
+      sci ball and chain_97: -4519172936225202831
+      sci ball and chain_98: -3148455403476003936
+      sci ball and chain_99: -6708570951519510879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

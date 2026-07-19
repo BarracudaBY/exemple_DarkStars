@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: caef1dd555bec084aad71871ab25b456
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4569769778103502089
+    second: StateDown3_0
+  - first:
+      213: -8251818235904905610
+    second: StateDown3_1
+  - first:
+      213: -8699264745136114894
+    second: StateDown3_2
+  - first:
+      213: 4220185133806144249
+    second: StateDown3_3
+  - first:
+      213: -2178071575883590876
+    second: StateDown3_4
+  - first:
+      213: -3866067054233762616
+    second: StateDown3_5
+  - first:
+      213: -2765849961876645025
+    second: StateDown3_6
+  - first:
+      213: 8327604414074800825
+    second: StateDown3_7
+  - first:
+      213: 6517637751558947684
+    second: StateDown3_8
+  - first:
+      213: 5041613172074169752
+    second: StateDown3_9
+  - first:
+      213: -5433577880526881884
+    second: StateDown3_10
+  - first:
+      213: -6474152301609542110
+    second: StateDown3_11
+  - first:
+      213: 4398295445096046471
+    second: StateDown3_12
+  - first:
+      213: 4495422489633340683
+    second: StateDown3_13
+  - first:
+      213: 1193803136935094510
+    second: StateDown3_14
+  - first:
+      213: -1690795096681673788
+    second: StateDown3_15
+  - first:
+      213: 7153133372274943606
+    second: StateDown3_16
+  - first:
+      213: 4246333536944483585
+    second: StateDown3_17
+  - first:
+      213: 1888496493405186849
+    second: StateDown3_18
+  - first:
+      213: 298787580624875838
+    second: StateDown3_19
+  - first:
+      213: 3512479117244181413
+    second: StateDown3_20
+  - first:
+      213: -7709494451121174780
+    second: StateDown3_21
+  - first:
+      213: -3794274980895239339
+    second: StateDown3_22
+  - first:
+      213: -9118434634224327228
+    second: StateDown3_23
+  - first:
+      213: -7394819089861440654
+    second: StateDown3_24
+  - first:
+      213: 1371706619192093294
+    second: StateDown3_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StateDown3_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 979
+        width: 154
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905cc29c6651b6f30800000000000000
+      internalID: 4569769778103502089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 976
+        width: 155
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e2cc1d807ab7d80800000000000000
+      internalID: -8251818235904905610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 976
+        width: 155
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23335131ec0064780800000000000000
+      internalID: -8699264745136114894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_3
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 975
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa46ea050c119a30800000000000000
+      internalID: 4220185133806144249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_4
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 975
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4235510117fe5c1e0800000000000000
+      internalID: -2178071575883590876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 776
+        width: 174
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c44e8a5f78f85ac0800000000000000
+      internalID: -3866067054233762616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 808
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b90502d1abd99d0800000000000000
+      internalID: -2765849961876645025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_7
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 795
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba47e2d718919370800000000000000
+      internalID: 8327604414074800825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_8
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 786
+        width: 150
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463c85cc00d437a50800000000000000
+      internalID: 6517637751558947684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_9
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 781
+        width: 159
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8954968e77867f540800000000000000
+      internalID: 5041613172074169752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 587
+        width: 163
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab76cbb4bd0894b0800000000000000
+      internalID: -5433577880526881884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 584
+        width: 168
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e19c088c03726a0800000000000000
+      internalID: -6474152301609542110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 582
+        width: 173
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f1b267762e90d30800000000000000
+      internalID: 4398295445096046471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_13
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 580
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0db5e1cfe2f26e30800000000000000
+      internalID: 4495422489633340683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_14
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 577
+        width: 182
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee863c4c0ad319010800000000000000
+      internalID: 1193803136935094510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 384
+        width: 184
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb015a51d61988e0800000000000000
+      internalID: -1690795096681673788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_16
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 551
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676a07537e8054360800000000000000
+      internalID: 7153133372274943606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_17
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 397
+        width: 166
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d67639ad10eea30800000000000000
+      internalID: 4246333536944483585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_18
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 390
+        width: 179
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bacf81e89453a10800000000000000
+      internalID: 1888496493405186849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_19
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 386
+        width: 189
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31b176b8b1852400800000000000000
+      internalID: 298787580624875838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 538
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab2150b525deb030800000000000000
+      internalID: 3512479117244181413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_21
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 426
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407c313b4af520590800000000000000
+      internalID: -7709494451121174780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_22
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 412
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553569ff107085bc0800000000000000
+      internalID: -3794274980895239339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 399
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5a07ff200d47180800000000000000
+      internalID: -9118434634224327228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 960
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b088a9733506990800000000000000
+      internalID: -7394819089861440654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown3_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 193
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a2ffc07e7490310800000000000000
+      internalID: 1371706619192093294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StateDown3_0: 4569769778103502089
+      StateDown3_1: -8251818235904905610
+      StateDown3_10: -5433577880526881884
+      StateDown3_11: -6474152301609542110
+      StateDown3_12: 4398295445096046471
+      StateDown3_13: 4495422489633340683
+      StateDown3_14: 1193803136935094510
+      StateDown3_15: -1690795096681673788
+      StateDown3_16: 7153133372274943606
+      StateDown3_17: 4246333536944483585
+      StateDown3_18: 1888496493405186849
+      StateDown3_19: 298787580624875838
+      StateDown3_2: -8699264745136114894
+      StateDown3_20: 3512479117244181413
+      StateDown3_21: -7709494451121174780
+      StateDown3_22: -3794274980895239339
+      StateDown3_23: -9118434634224327228
+      StateDown3_24: -7394819089861440654
+      StateDown3_25: 1371706619192093294
+      StateDown3_3: 4220185133806144249
+      StateDown3_4: -2178071575883590876
+      StateDown3_5: -3866067054233762616
+      StateDown3_6: -2765849961876645025
+      StateDown3_7: 8327604414074800825
+      StateDown3_8: 6517637751558947684
+      StateDown3_9: 5041613172074169752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

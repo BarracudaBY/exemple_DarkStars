@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 070ffe916ddb274469399bc15799d12f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7638213137645332307
+    second: StickPhoton_0
+  - first:
+      213: 659455811092788777
+    second: StickPhoton_1
+  - first:
+      213: 7843925757513522126
+    second: StickPhoton_2
+  - first:
+      213: 1901860408302082011
+    second: StickPhoton_3
+  - first:
+      213: 6465452346207356494
+    second: StickPhoton_4
+  - first:
+      213: -209161802534785780
+    second: StickPhoton_5
+  - first:
+      213: 794168346060121093
+    second: StickPhoton_6
+  - first:
+      213: 3290582234017164615
+    second: StickPhoton_7
+  - first:
+      213: -8668037083228933646
+    second: StickPhoton_8
+  - first:
+      213: 2867312608737162484
+    second: StickPhoton_9
+  - first:
+      213: -1833832780950511655
+    second: StickPhoton_10
+  - first:
+      213: -6230742067317119383
+    second: StickPhoton_11
+  - first:
+      213: -94064505968912214
+    second: StickPhoton_12
+  - first:
+      213: 269827976717378655
+    second: StickPhoton_13
+  - first:
+      213: 1278314513573110827
+    second: StickPhoton_14
+  - first:
+      213: -6481999482112774724
+    second: StickPhoton_15
+  - first:
+      213: 7766607690347842722
+    second: StickPhoton_16
+  - first:
+      213: -1217241246964522920
+    second: StickPhoton_17
+  - first:
+      213: -4278601953628955587
+    second: StickPhoton_18
+  - first:
+      213: -4753387708887901743
+    second: StickPhoton_19
+  - first:
+      213: 1202998804858153523
+    second: StickPhoton_20
+  - first:
+      213: -7086260149404486976
+    second: StickPhoton_21
+  - first:
+      213: -3485924267932649225
+    second: StickPhoton_22
+  - first:
+      213: 119773058278735229
+    second: StickPhoton_23
+  - first:
+      213: -188288895534106653
+    second: StickPhoton_24
+  - first:
+      213: -249200978800275280
+    second: StickPhoton_25
+  - first:
+      213: 2227257098559455207
+    second: StickPhoton_26
+  - first:
+      213: 1587244225143594874
+    second: StickPhoton_27
+  - first:
+      213: 206476272549051920
+    second: StickPhoton_28
+  - first:
+      213: 5046323560007882619
+    second: StickPhoton_29
+  - first:
+      213: -3234939072463187946
+    second: StickPhoton_30
+  - first:
+      213: 3820403902332130502
+    second: StickPhoton_31
+  - first:
+      213: 8977208971171857435
+    second: StickPhoton_32
+  - first:
+      213: -3591195770832531966
+    second: StickPhoton_33
+  - first:
+      213: 3433908258262653147
+    second: StickPhoton_34
+  - first:
+      213: -1544952614694799712
+    second: StickPhoton_35
+  - first:
+      213: -5183813028790948074
+    second: StickPhoton_36
+  - first:
+      213: 6614878104605219818
+    second: StickPhoton_37
+  - first:
+      213: -4958851640086812577
+    second: StickPhoton_38
+  - first:
+      213: -5816098789492943388
+    second: StickPhoton_39
+  - first:
+      213: -2526859905240318364
+    second: StickPhoton_40
+  - first:
+      213: 2827545907679845865
+    second: StickPhoton_41
+  - first:
+      213: 4765127542907913118
+    second: StickPhoton_42
+  - first:
+      213: -4435237584150453432
+    second: StickPhoton_43
+  - first:
+      213: 5896319792330162594
+    second: StickPhoton_44
+  - first:
+      213: -2768761257632000702
+    second: StickPhoton_45
+  - first:
+      213: -3402887833397688958
+    second: StickPhoton_46
+  - first:
+      213: 505636715038117349
+    second: StickPhoton_47
+  - first:
+      213: -8795893156785254655
+    second: StickPhoton_48
+  - first:
+      213: -6260599685745445667
+    second: StickPhoton_49
+  - first:
+      213: -7982231227933502
+    second: StickPhoton_50
+  - first:
+      213: -8751937703909184050
+    second: StickPhoton_51
+  - first:
+      213: -8666309849158520170
+    second: StickPhoton_52
+  - first:
+      213: 3791962932250064310
+    second: StickPhoton_53
+  - first:
+      213: 7828103181533881115
+    second: StickPhoton_54
+  - first:
+      213: 2814178781929636693
+    second: StickPhoton_55
+  - first:
+      213: -9150224704071663313
+    second: StickPhoton_56
+  - first:
+      213: 4271463183555466879
+    second: StickPhoton_57
+  - first:
+      213: 9190774429298753265
+    second: StickPhoton_58
+  - first:
+      213: 6890950004769614974
+    second: StickPhoton_59
+  - first:
+      213: 8277689159419390490
+    second: StickPhoton_60
+  - first:
+      213: -2052699483043024770
+    second: StickPhoton_61
+  - first:
+      213: 316462653783458691
+    second: StickPhoton_62
+  - first:
+      213: 4656433826359971312
+    second: StickPhoton_63
+  - first:
+      213: 2282655736018124689
+    second: StickPhoton_64
+  - first:
+      213: -3277806914771904820
+    second: StickPhoton_65
+  - first:
+      213: -6853447915960198836
+    second: StickPhoton_66
+  - first:
+      213: -8821951020325506784
+    second: StickPhoton_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StickPhoton_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 340
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da89debce9d9ff590800000000000000
+      internalID: -7638213137645332307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 348
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926b045f09bd62900800000000000000
+      internalID: 659455811092788777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 316
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb5125eae83bdc60800000000000000
+      internalID: 7843925757513522126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 330
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7993107f3c46a10800000000000000
+      internalID: 1901860408302082011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 328
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46c7e747a6e9b950800000000000000
+      internalID: 6465452346207356494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 317
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d6553e278e81df0800000000000000
+      internalID: -209161802534785780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 328
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504e5ce27e3750b00800000000000000
+      internalID: 794168346060121093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 316
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dedca8b1f7aad20800000000000000
+      internalID: 3290582234017164615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 310
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1f932b232f4b780800000000000000
+      internalID: -8668037083228933646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 293
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4f6cf30adbac720800000000000000
+      internalID: 2867312608737162484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 312
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df5af14dcaec86e0800000000000000
+      internalID: -1833832780950511655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 304
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966ea760a15f789a0800000000000000
+      internalID: -6230742067317119383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_12
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 303
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa810c784d0d1bef0800000000000000
+      internalID: -94064505968912214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 301
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54a3be7d1f9eb300800000000000000
+      internalID: 269827976717378655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_14
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 308
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2460ccf64c7db110800000000000000
+      internalID: 1278314513573110827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_15
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 302
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbde66a60df4b06a0800000000000000
+      internalID: -6481999482112774724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_16
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 286
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac000d8b8888cb60800000000000000
+      internalID: 7766607690347842722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_17
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 294
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850e9bcf88d7b1fe0800000000000000
+      internalID: -1217241246964522920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_18
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 291
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c57a2313a5f94c0800000000000000
+      internalID: -4278601953628955587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_19
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 271
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d957043013980eb0800000000000000
+      internalID: -4753387708887901743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_20
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 268
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a2acc0a09e1b010800000000000000
+      internalID: 1202998804858153523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 274
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c23db050fb88ad90800000000000000
+      internalID: -7086260149404486976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 259
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8f5f7f8528f9fc0800000000000000
+      internalID: -3485924267932649225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 274
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dbd5046f489a100800000000000000
+      internalID: 119773058278735229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 259
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7f9824f30136df0800000000000000
+      internalID: -188288895534106653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_25
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 271
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b01ee4b709aa8cf0800000000000000
+      internalID: -249200978800275280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_26
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 263
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef7a17d78ec8ee10800000000000000
+      internalID: 2227257098559455207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_27
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 269
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f59739636070610800000000000000
+      internalID: 1587244225143594874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_28
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 249
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e35df631d8dd200800000000000000
+      internalID: 206476272549051920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_29
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 274
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7754ff8a84280640800000000000000
+      internalID: 5046323560007882619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_30
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610dcc39d003b13d0800000000000000
+      internalID: -3234939072463187946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_31
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 272
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4d5099b1dc40530800000000000000
+      internalID: 3820403902332130502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_32
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 268
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b140629fef3759c70800000000000000
+      internalID: 8977208971171857435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_33
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 247
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e44a03972892ec0800000000000000
+      internalID: -3591195770832531966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_34
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 249
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd896050e51b7af20800000000000000
+      internalID: 3433908258262653147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_35
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 256
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a63e4e48c93f8ae0800000000000000
+      internalID: -1544952614694799712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_36
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 227
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fafdce3856f08b0800000000000000
+      internalID: -5183813028790948074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_37
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 228
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebd089c694cccb50800000000000000
+      internalID: 6614878104605219818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_38
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 238
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5823cad4be9e2bb0800000000000000
+      internalID: -4958851640086812577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 205
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e591b947f0194fa0800000000000000
+      internalID: -5816098789492943388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 218
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e39f6dd4aceecd0800000000000000
+      internalID: -2526859905240318364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_41
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 211
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eddd55a5067d3720800000000000000
+      internalID: 2827545907679845865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_42
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 116
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93c478e042212240800000000000000
+      internalID: 4765127542907913118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_43
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 124
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84320468aeed272c0800000000000000
+      internalID: -4435237584150453432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_44
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 128
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1c1ff6c9fe3d150800000000000000
+      internalID: 5896319792330162594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2451bf24e426399d0800000000000000
+      internalID: -2768761257632000702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_46
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 94
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28505d77b8386c0d0800000000000000
+      internalID: -3402887833397688958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_47
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 93
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed0e31d9e1640700800000000000000
+      internalID: 505636715038117349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_48
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 95
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f868bc6c5bee580800000000000000
+      internalID: -8795893156785254655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_49
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 100
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4783281c1ed19a0800000000000000
+      internalID: -6260599685745445667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_50
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 98
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccd427f334a3eff0800000000000000
+      internalID: -7982231227933502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_51
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 97
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd252e270fda8680800000000000000
+      internalID: -8751937703909184050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_52
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 105
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692ff67bb151bb780800000000000000
+      internalID: -8666309849158520170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_53
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 102
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5b63a3232cf9430800000000000000
+      internalID: 3791962932250064310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 69
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13ae685e5203ac60800000000000000
+      internalID: 7828103181533881115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_55
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 90
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5538b5721b8fd0720800000000000000
+      internalID: 2814178781929636693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_56
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 79
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f210ec29c1fd30180800000000000000
+      internalID: -9150224704071663313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_57
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 62
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f769bfe5229474b30800000000000000
+      internalID: 4271463183555466879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_58
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 67
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe781d06a03c8f70800000000000000
+      internalID: 9190774429298753265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_59
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 72
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ce44ff48291af50800000000000000
+      internalID: 6890950004769614974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_60
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 58
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a6b44fe6240e270800000000000000
+      internalID: 8277689159419390490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_61
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 57
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70b79222b85383e0800000000000000
+      internalID: -2052699483043024770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_62
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 67
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383c07f5b1d446400800000000000000
+      internalID: 316462653783458691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_63
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd8c4ce4e9fe9040800000000000000
+      internalID: 4656433826359971312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_64
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 52
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f3ed14c4f9daf10800000000000000
+      internalID: 2282655736018124689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_65
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 38
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc693b24af3e282d0800000000000000
+      internalID: -3277806914771904820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_66
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 46
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c491d8a7e69a3e0a0800000000000000
+      internalID: -6853447915960198836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickPhoton_67
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 46
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0217a97a942229580800000000000000
+      internalID: -8821951020325506784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StickPhoton_0: -7638213137645332307
+      StickPhoton_1: 659455811092788777
+      StickPhoton_10: -1833832780950511655
+      StickPhoton_11: -6230742067317119383
+      StickPhoton_12: -94064505968912214
+      StickPhoton_13: 269827976717378655
+      StickPhoton_14: 1278314513573110827
+      StickPhoton_15: -6481999482112774724
+      StickPhoton_16: 7766607690347842722
+      StickPhoton_17: -1217241246964522920
+      StickPhoton_18: -4278601953628955587
+      StickPhoton_19: -4753387708887901743
+      StickPhoton_2: 7843925757513522126
+      StickPhoton_20: 1202998804858153523
+      StickPhoton_21: -7086260149404486976
+      StickPhoton_22: -3485924267932649225
+      StickPhoton_23: 119773058278735229
+      StickPhoton_24: -188288895534106653
+      StickPhoton_25: -249200978800275280
+      StickPhoton_26: 2227257098559455207
+      StickPhoton_27: 1587244225143594874
+      StickPhoton_28: 206476272549051920
+      StickPhoton_29: 5046323560007882619
+      StickPhoton_3: 1901860408302082011
+      StickPhoton_30: -3234939072463187946
+      StickPhoton_31: 3820403902332130502
+      StickPhoton_32: 8977208971171857435
+      StickPhoton_33: -3591195770832531966
+      StickPhoton_34: 3433908258262653147
+      StickPhoton_35: -1544952614694799712
+      StickPhoton_36: -5183813028790948074
+      StickPhoton_37: 6614878104605219818
+      StickPhoton_38: -4958851640086812577
+      StickPhoton_39: -5816098789492943388
+      StickPhoton_4: 6465452346207356494
+      StickPhoton_40: -2526859905240318364
+      StickPhoton_41: 2827545907679845865
+      StickPhoton_42: 4765127542907913118
+      StickPhoton_43: -4435237584150453432
+      StickPhoton_44: 5896319792330162594
+      StickPhoton_45: -2768761257632000702
+      StickPhoton_46: -3402887833397688958
+      StickPhoton_47: 505636715038117349
+      StickPhoton_48: -8795893156785254655
+      StickPhoton_49: -6260599685745445667
+      StickPhoton_5: -209161802534785780
+      StickPhoton_50: -7982231227933502
+      StickPhoton_51: -8751937703909184050
+      StickPhoton_52: -8666309849158520170
+      StickPhoton_53: 3791962932250064310
+      StickPhoton_54: 7828103181533881115
+      StickPhoton_55: 2814178781929636693
+      StickPhoton_56: -9150224704071663313
+      StickPhoton_57: 4271463183555466879
+      StickPhoton_58: 9190774429298753265
+      StickPhoton_59: 6890950004769614974
+      StickPhoton_6: 794168346060121093
+      StickPhoton_60: 8277689159419390490
+      StickPhoton_61: -2052699483043024770
+      StickPhoton_62: 316462653783458691
+      StickPhoton_63: 4656433826359971312
+      StickPhoton_64: 2282655736018124689
+      StickPhoton_65: -3277806914771904820
+      StickPhoton_66: -6853447915960198836
+      StickPhoton_67: -8821951020325506784
+      StickPhoton_7: 3290582234017164615
+      StickPhoton_8: -8668037083228933646
+      StickPhoton_9: 2867312608737162484
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

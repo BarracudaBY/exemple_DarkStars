@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 1b8fe1acc7c79aa4d8b4cb64c84cccec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8670698814935799332
+    second: SlashPhoton_0
+  - first:
+      213: -6536652001938900160
+    second: SlashPhoton_1
+  - first:
+      213: 1228054380312366472
+    second: SlashPhoton_2
+  - first:
+      213: -3927699114561406533
+    second: SlashPhoton_3
+  - first:
+      213: -7649212428377252960
+    second: SlashPhoton_4
+  - first:
+      213: -7720417415284167537
+    second: SlashPhoton_5
+  - first:
+      213: -1721885499011279608
+    second: SlashPhoton_6
+  - first:
+      213: -3471525908837433270
+    second: SlashPhoton_7
+  - first:
+      213: 1519153651356625915
+    second: SlashPhoton_8
+  - first:
+      213: -6481072692290441260
+    second: SlashPhoton_9
+  - first:
+      213: -4576320384860545445
+    second: SlashPhoton_10
+  - first:
+      213: 8323948400762700960
+    second: SlashPhoton_11
+  - first:
+      213: -5990179751409279103
+    second: SlashPhoton_12
+  - first:
+      213: 7726901984173547975
+    second: SlashPhoton_13
+  - first:
+      213: -8439587613499589670
+    second: SlashPhoton_14
+  - first:
+      213: -2262305512527771262
+    second: SlashPhoton_15
+  - first:
+      213: -4378407732936841207
+    second: SlashPhoton_16
+  - first:
+      213: 6119447168672813849
+    second: SlashPhoton_17
+  - first:
+      213: -3074377989564119044
+    second: SlashPhoton_18
+  - first:
+      213: -4075927863682431206
+    second: SlashPhoton_19
+  - first:
+      213: 4864444769378767013
+    second: SlashPhoton_20
+  - first:
+      213: 2503706942017457214
+    second: SlashPhoton_21
+  - first:
+      213: 833800346358684123
+    second: SlashPhoton_22
+  - first:
+      213: 4267419594277021253
+    second: SlashPhoton_23
+  - first:
+      213: -1377434767445454162
+    second: SlashPhoton_24
+  - first:
+      213: 4422095245870432081
+    second: SlashPhoton_25
+  - first:
+      213: -5071943016435528785
+    second: SlashPhoton_26
+  - first:
+      213: -787941043141823718
+    second: SlashPhoton_27
+  - first:
+      213: -1929354775213674941
+    second: SlashPhoton_28
+  - first:
+      213: 515083592099979758
+    second: SlashPhoton_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlashPhoton_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 137
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9e95dfd5d7ba780800000000000000
+      internalID: -8670698814935799332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 137
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bf51c03a52945a0800000000000000
+      internalID: -6536652001938900160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 157
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d816fc3fcea0110800000000000000
+      internalID: 1228054380312366472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 156
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb973f317720e79c0800000000000000
+      internalID: -3927699114561406533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_4
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 126
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab121bd2d988d590800000000000000
+      internalID: -7649212428377252960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 117
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c6f3ce3419bd490800000000000000
+      internalID: -7720417415284167537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 107
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8055987f242aa18e0800000000000000
+      internalID: -1721885499011279608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 121
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a400e2f2499a2dfc0800000000000000
+      internalID: -3471525908837433270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_8
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 135
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb6954723e151510800000000000000
+      internalID: 1519153651356625915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 91
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df2b8c79ba9e06a0800000000000000
+      internalID: -6481072692290441260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_10
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 98
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e120a3bd4ad70c0800000000000000
+      internalID: -4576320384860545445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_11
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 114
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a44424e7fa948370800000000000000
+      internalID: 8323948400762700960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 92
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f1380e04b9edca0800000000000000
+      internalID: -5990179751409279103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 80
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1ecec6a687b3b60800000000000000
+      internalID: 7726901984173547975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 96
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbf196c7cf80ea80800000000000000
+      internalID: -8439587613499589670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_15
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 83
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289cf506f1daa90e0800000000000000
+      internalID: -2262305512527771262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_16
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 90
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908e97c5d55cc33c0800000000000000
+      internalID: -4378407732936841207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913538617c4ace450800000000000000
+      internalID: 6119447168672813849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 64
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf740cad18d9555d0800000000000000
+      internalID: -3074377989564119044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 70
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17871304356f67c0800000000000000
+      internalID: -4075927863682431206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 74
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0145caebaf18340800000000000000
+      internalID: 4864444769378767013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 68
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c41a4d234feb220800000000000000
+      internalID: 2503706942017457214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_22
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 69
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd99e425ff0429b00800000000000000
+      internalID: 833800346358684123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 57
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5466c60e28be83b30800000000000000
+      internalID: 4267419594277021253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_24
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 42
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea21421806e52ece0800000000000000
+      internalID: -1377434767445454162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 57
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ffc0562307e5d30800000000000000
+      internalID: 4422095245870432081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_26
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 50
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab4658e2b6dc99b0800000000000000
+      internalID: -5071943016435528785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_27
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 56
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13b493cbcba015f0800000000000000
+      internalID: -787941043141823718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_28
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 57
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e6fa9dd0e8935e0800000000000000
+      internalID: -1929354775213674941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashPhoton_29
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 53
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee160c84cc1f52700800000000000000
+      internalID: 515083592099979758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SlashPhoton_0: -8670698814935799332
+      SlashPhoton_1: -6536652001938900160
+      SlashPhoton_10: -4576320384860545445
+      SlashPhoton_11: 8323948400762700960
+      SlashPhoton_12: -5990179751409279103
+      SlashPhoton_13: 7726901984173547975
+      SlashPhoton_14: -8439587613499589670
+      SlashPhoton_15: -2262305512527771262
+      SlashPhoton_16: -4378407732936841207
+      SlashPhoton_17: 6119447168672813849
+      SlashPhoton_18: -3074377989564119044
+      SlashPhoton_19: -4075927863682431206
+      SlashPhoton_2: 1228054380312366472
+      SlashPhoton_20: 4864444769378767013
+      SlashPhoton_21: 2503706942017457214
+      SlashPhoton_22: 833800346358684123
+      SlashPhoton_23: 4267419594277021253
+      SlashPhoton_24: -1377434767445454162
+      SlashPhoton_25: 4422095245870432081
+      SlashPhoton_26: -5071943016435528785
+      SlashPhoton_27: -787941043141823718
+      SlashPhoton_28: -1929354775213674941
+      SlashPhoton_29: 515083592099979758
+      SlashPhoton_3: -3927699114561406533
+      SlashPhoton_4: -7649212428377252960
+      SlashPhoton_5: -7720417415284167537
+      SlashPhoton_6: -1721885499011279608
+      SlashPhoton_7: -3471525908837433270
+      SlashPhoton_8: 1519153651356625915
+      SlashPhoton_9: -6481072692290441260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

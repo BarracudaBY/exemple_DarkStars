@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: b7643422e054cee44acb8e4bb9a0c016
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1290272176859899772
+    second: ClawSpecial1_0
+  - first:
+      213: 5723778749588487389
+    second: ClawSpecial1_1
+  - first:
+      213: 4653585222147419353
+    second: ClawSpecial1_2
+  - first:
+      213: -3830550797863925413
+    second: ClawSpecial1_3
+  - first:
+      213: -4488476061134291725
+    second: ClawSpecial1_4
+  - first:
+      213: 2602042895427337857
+    second: ClawSpecial1_5
+  - first:
+      213: -1448367928287832233
+    second: ClawSpecial1_6
+  - first:
+      213: -2011607800302324398
+    second: ClawSpecial1_7
+  - first:
+      213: 8441200656947325765
+    second: ClawSpecial1_8
+  - first:
+      213: 1392783671614823013
+    second: ClawSpecial1_9
+  - first:
+      213: -3486406337996794410
+    second: ClawSpecial1_10
+  - first:
+      213: -3232246288731574775
+    second: ClawSpecial1_11
+  - first:
+      213: 2160586015600347234
+    second: ClawSpecial1_12
+  - first:
+      213: -8880500404153504574
+    second: ClawSpecial1_13
+  - first:
+      213: -6164442254565009495
+    second: ClawSpecial1_14
+  - first:
+      213: -1031920014315195168
+    second: ClawSpecial1_15
+  - first:
+      213: -6008182101111979582
+    second: ClawSpecial1_16
+  - first:
+      213: -8272918575480878328
+    second: ClawSpecial1_17
+  - first:
+      213: 3275534741069464376
+    second: ClawSpecial1_18
+  - first:
+      213: -5801326857719026043
+    second: ClawSpecial1_19
+  - first:
+      213: -3442526068371038919
+    second: ClawSpecial1_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ClawSpecial1_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 871
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48812b29a48081ee0800000000000000
+      internalID: -1290272176859899772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 816
+        width: 142
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcb6266272fe6f40800000000000000
+      internalID: 5723778749588487389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 804
+        width: 530
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcaa129a1bd49040800000000000000
+      internalID: 4653585222147419353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 960
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b594b3f285627dac0800000000000000
+      internalID: -3830550797863925413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 568
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcfe39adcab5b1c0800000000000000
+      internalID: -4488476061134291725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_5
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 412
+        width: 185
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e76482a305c1420800000000000000
+      internalID: 2602042895427337857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_6
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 412
+        width: 180
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757d5520b0d56ebe0800000000000000
+      internalID: -1448367928287832233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 178
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25533931d555514e0800000000000000
+      internalID: -2011607800302324398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 220
+        width: 177
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ba32b264b252570800000000000000
+      internalID: 8441200656947325765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 232
+        width: 141
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ad09bbe59245310800000000000000
+      internalID: 1392783671614823013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 220
+        width: 121
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5d70948ebcd9fc0800000000000000
+      internalID: -3486406337996794410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_11
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 232
+        width: 138
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e64952021c423d0800000000000000
+      internalID: -3232246288731574775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_12
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 228
+        width: 119
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268098ea881fbfd10800000000000000
+      internalID: 2160586015600347234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_13
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 232
+        width: 136
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cca7beeeef12c480800000000000000
+      internalID: -8880500404153504574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_14
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 228
+        width: 112
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a79e3a1e60837aa0800000000000000
+      internalID: -6164442254565009495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_15
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 236
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4702ed632eda1f0800000000000000
+      internalID: -1031920014315195168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 132
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c14c553636ae9ca0800000000000000
+      internalID: -6008182101111979582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 40
+        width: 125
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b4bbc2360b03d80800000000000000
+      internalID: -8272918575480878328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 48
+        width: 117
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83385e21e79057d20800000000000000
+      internalID: 3275534741069464376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_19
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 41
+        width: 124
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e69bba5fb8d7fa0800000000000000
+      internalID: -5801326857719026043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClawSpecial1_20
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 48
+        width: 117
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dd8b4b7c0b930d0800000000000000
+      internalID: -3442526068371038919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ClawSpecial1_0: -1290272176859899772
+      ClawSpecial1_1: 5723778749588487389
+      ClawSpecial1_10: -3486406337996794410
+      ClawSpecial1_11: -3232246288731574775
+      ClawSpecial1_12: 2160586015600347234
+      ClawSpecial1_13: -8880500404153504574
+      ClawSpecial1_14: -6164442254565009495
+      ClawSpecial1_15: -1031920014315195168
+      ClawSpecial1_16: -6008182101111979582
+      ClawSpecial1_17: -8272918575480878328
+      ClawSpecial1_18: 3275534741069464376
+      ClawSpecial1_19: -5801326857719026043
+      ClawSpecial1_2: 4653585222147419353
+      ClawSpecial1_20: -3442526068371038919
+      ClawSpecial1_3: -3830550797863925413
+      ClawSpecial1_4: -4488476061134291725
+      ClawSpecial1_5: 2602042895427337857
+      ClawSpecial1_6: -1448367928287832233
+      ClawSpecial1_7: -2011607800302324398
+      ClawSpecial1_8: 8441200656947325765
+      ClawSpecial1_9: 1392783671614823013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

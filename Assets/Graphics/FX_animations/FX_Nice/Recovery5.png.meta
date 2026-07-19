@@ -1,0 +1,2743 @@
+fileFormatVersion: 2
+guid: 3142152daa22185499e775fb6b401a59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6608705755399309300
+    second: Recovery5_0
+  - first:
+      213: -1846326395263475127
+    second: Recovery5_1
+  - first:
+      213: -5723347385336249136
+    second: Recovery5_2
+  - first:
+      213: 1281233553754283693
+    second: Recovery5_3
+  - first:
+      213: -7217136880209394718
+    second: Recovery5_4
+  - first:
+      213: 2369831428018421410
+    second: Recovery5_5
+  - first:
+      213: -1002757070448174076
+    second: Recovery5_6
+  - first:
+      213: -5219865886840704657
+    second: Recovery5_7
+  - first:
+      213: 7793503499619154005
+    second: Recovery5_8
+  - first:
+      213: -7397297527664131535
+    second: Recovery5_9
+  - first:
+      213: -5183986793936682355
+    second: Recovery5_10
+  - first:
+      213: -8923156853579111880
+    second: Recovery5_11
+  - first:
+      213: 1222908637909479704
+    second: Recovery5_12
+  - first:
+      213: -2919418847328725349
+    second: Recovery5_13
+  - first:
+      213: 1675914993244050859
+    second: Recovery5_14
+  - first:
+      213: 5901592945632511489
+    second: Recovery5_15
+  - first:
+      213: -3160950068583725309
+    second: Recovery5_16
+  - first:
+      213: 1774757670263639789
+    second: Recovery5_17
+  - first:
+      213: 3868425335095746938
+    second: Recovery5_18
+  - first:
+      213: -684723001295009953
+    second: Recovery5_19
+  - first:
+      213: 7528437378484840330
+    second: Recovery5_20
+  - first:
+      213: -3787935932884175471
+    second: Recovery5_21
+  - first:
+      213: 984263287911154174
+    second: Recovery5_22
+  - first:
+      213: -4952607372082396302
+    second: Recovery5_23
+  - first:
+      213: -2738263815323753823
+    second: Recovery5_24
+  - first:
+      213: -1121039688915880270
+    second: Recovery5_25
+  - first:
+      213: -454439675281403059
+    second: Recovery5_26
+  - first:
+      213: -384534096771938886
+    second: Recovery5_27
+  - first:
+      213: 3419086892461116804
+    second: Recovery5_28
+  - first:
+      213: -6652213368057259361
+    second: Recovery5_29
+  - first:
+      213: 1320628059031803768
+    second: Recovery5_30
+  - first:
+      213: -8330055440011687753
+    second: Recovery5_31
+  - first:
+      213: 5772416721564937683
+    second: Recovery5_32
+  - first:
+      213: 6733287386015920710
+    second: Recovery5_33
+  - first:
+      213: -7562542398797579602
+    second: Recovery5_34
+  - first:
+      213: -4722745490067088187
+    second: Recovery5_35
+  - first:
+      213: -4282655996476531844
+    second: Recovery5_36
+  - first:
+      213: 6566783546849551953
+    second: Recovery5_37
+  - first:
+      213: 8473542189274890772
+    second: Recovery5_38
+  - first:
+      213: 1844519487975637591
+    second: Recovery5_39
+  - first:
+      213: -4036456198231690267
+    second: Recovery5_40
+  - first:
+      213: -6249530270395428305
+    second: Recovery5_41
+  - first:
+      213: -1167696648468756327
+    second: Recovery5_42
+  - first:
+      213: 264665397524661400
+    second: Recovery5_43
+  - first:
+      213: -9197705158709599277
+    second: Recovery5_44
+  - first:
+      213: 3915228307220642972
+    second: Recovery5_45
+  - first:
+      213: -1565944209935634998
+    second: Recovery5_46
+  - first:
+      213: 5543371791746358907
+    second: Recovery5_47
+  - first:
+      213: -8992567707909156321
+    second: Recovery5_48
+  - first:
+      213: 5249568252919073244
+    second: Recovery5_49
+  - first:
+      213: -2099834573089364537
+    second: Recovery5_50
+  - first:
+      213: 4739185261174164675
+    second: Recovery5_51
+  - first:
+      213: -8217819870520554488
+    second: Recovery5_52
+  - first:
+      213: -108855442936023054
+    second: Recovery5_53
+  - first:
+      213: -6915133093403994815
+    second: Recovery5_54
+  - first:
+      213: 8320665904669373823
+    second: Recovery5_55
+  - first:
+      213: -5293749091824521613
+    second: Recovery5_56
+  - first:
+      213: 2727913093024895708
+    second: Recovery5_57
+  - first:
+      213: -198055292400389969
+    second: Recovery5_58
+  - first:
+      213: -80513680613618113
+    second: Recovery5_59
+  - first:
+      213: 8311850944936756972
+    second: Recovery5_60
+  - first:
+      213: -1396464051163389337
+    second: Recovery5_61
+  - first:
+      213: 5503298683302090239
+    second: Recovery5_62
+  - first:
+      213: -1868550464587342622
+    second: Recovery5_63
+  - first:
+      213: -3903923288583072386
+    second: Recovery5_64
+  - first:
+      213: -1012037155515909287
+    second: Recovery5_65
+  - first:
+      213: -4394883448545852549
+    second: Recovery5_66
+  - first:
+      213: -3722614331989139953
+    second: Recovery5_67
+  - first:
+      213: 2132074395945297396
+    second: Recovery5_68
+  - first:
+      213: 2482094409030167764
+    second: Recovery5_69
+  - first:
+      213: 6002024769683411850
+    second: Recovery5_70
+  - first:
+      213: 319435619462882231
+    second: Recovery5_71
+  - first:
+      213: 3927228242382358828
+    second: Recovery5_72
+  - first:
+      213: -2656530675347668960
+    second: Recovery5_73
+  - first:
+      213: 1999267172981351676
+    second: Recovery5_74
+  - first:
+      213: 1174832035956582806
+    second: Recovery5_75
+  - first:
+      213: 1606241301849372483
+    second: Recovery5_76
+  - first:
+      213: -7565329487193238489
+    second: Recovery5_77
+  - first:
+      213: -1851753567679278009
+    second: Recovery5_78
+  - first:
+      213: 4993131289022796859
+    second: Recovery5_79
+  - first:
+      213: 7432806307163832071
+    second: Recovery5_80
+  - first:
+      213: 6678444066818550028
+    second: Recovery5_81
+  - first:
+      213: -2378724468674902340
+    second: Recovery5_82
+  - first:
+      213: -8691252602392322756
+    second: Recovery5_83
+  - first:
+      213: -4955363483195361723
+    second: Recovery5_84
+  - first:
+      213: -5172354490313734069
+    second: Recovery5_85
+  - first:
+      213: -5914901246963114100
+    second: Recovery5_86
+  - first:
+      213: -4544967274945585835
+    second: Recovery5_87
+  - first:
+      213: -2238269174570572558
+    second: Recovery5_88
+  - first:
+      213: -650025218827151813
+    second: Recovery5_89
+  - first:
+      213: 2117997676945938787
+    second: Recovery5_90
+  - first:
+      213: 721084520854776171
+    second: Recovery5_91
+  - first:
+      213: 6840712963815831246
+    second: Recovery5_92
+  - first:
+      213: -6700376855196682489
+    second: Recovery5_93
+  - first:
+      213: -8931942003911727195
+    second: Recovery5_94
+  - first:
+      213: 7650821073665586777
+    second: Recovery5_95
+  - first:
+      213: -7274444749344839935
+    second: Recovery5_96
+  - first:
+      213: -5072894399457400141
+    second: Recovery5_97
+  - first:
+      213: 9210280156564219382
+    second: Recovery5_98
+  - first:
+      213: 69354063972867352
+    second: Recovery5_99
+  - first:
+      213: -2938356551331463696
+    second: Recovery5_100
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Recovery5_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1043
+        width: 107
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7c7afbed6d6bb50800000000000000
+      internalID: 6608705755399309300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1043
+        width: 122
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942a4eefce78066e0800000000000000
+      internalID: -1846326395263475127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1045
+        width: 154
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d44fda60e59290b0800000000000000
+      internalID: -5723347385336249136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_3
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1049
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daed5ddf02bd7c110800000000000000
+      internalID: 1281233553754283693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_4
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1043
+        width: 158
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e38fb7de3497db90800000000000000
+      internalID: -7217136880209394718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 853
+        width: 149
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae389cb02553e020800000000000000
+      internalID: 2369831428018421410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 855
+        width: 150
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cdcebd1cd7512f0800000000000000
+      internalID: -1002757070448174076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 859
+        width: 156
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f613ea7c1af4f87b0800000000000000
+      internalID: -5219865886840704657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_8
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 865
+        width: 154
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55830922426182c60800000000000000
+      internalID: 7793503499619154005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_9
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 870
+        width: 149
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13244b55715875990800000000000000
+      internalID: -7397297527664131535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 576
+        width: 123
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8286131a77ce08b0800000000000000
+      internalID: -5183986793936682355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 576
+        width: 136
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832235b5e149a2480800000000000000
+      internalID: -8923156853579111880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 576
+        width: 122
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811f95b4de4a8f010800000000000000
+      internalID: 1222908637909479704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_13
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 576
+        width: 116
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96146ea6042c77d0800000000000000
+      internalID: -2919418847328725349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_14
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 576
+        width: 130
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba510169ecb024710800000000000000
+      internalID: 1675914993244050859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 395
+        width: 122
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106806d148ba6e150800000000000000
+      internalID: 5901592945632511489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 398
+        width: 128
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3070259f8ac0224d0800000000000000
+      internalID: -3160950068583725309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 397
+        width: 134
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deec672b2b431a810800000000000000
+      internalID: 1774757670263639789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_18
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 400
+        width: 128
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71e082b8586fa530800000000000000
+      internalID: 3868425335095746938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_19
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 406
+        width: 107
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f578542ee006f76f0800000000000000
+      internalID: -684723001295009953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_20
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 488
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87ac5a88e16a7860800000000000000
+      internalID: 7528437378484840330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 357
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1953080a65c8e6bc0800000000000000
+      internalID: -3787935932884175471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_22
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 349
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef10769de3ec8ad00800000000000000
+      internalID: 984263287911154174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_23
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 350
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2734c0bc5ddc44bb0800000000000000
+      internalID: -4952607372082396302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 328
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a26252619bbff9d0800000000000000
+      internalID: -2738263815323753823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 275
+        width: 107
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6fd0ba7544170f0800000000000000
+      internalID: -1121039688915880270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_26
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 327
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d431207e58181b9f0800000000000000
+      internalID: -454439675281403059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 228
+        width: 66
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab502edb64cd9aaf0800000000000000
+      internalID: -384534096771938886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 336
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dc651e969037f20800000000000000
+      internalID: 3419086892461116804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_29
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 328
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a97dacf279ea3a0800000000000000
+      internalID: -6652213368057259361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_30
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 313
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87711030930d35210800000000000000
+      internalID: 1320628059031803768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_31
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 312
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b80bca36b2b56c80800000000000000
+      internalID: -8330055440011687753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_32
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 277
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd2768bc6ebb1050800000000000000
+      internalID: 5772416721564937683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_33
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 328
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642f81ef331717d50800000000000000
+      internalID: 6733287386015920710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_34
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 326
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaf6d0a1c37c0790800000000000000
+      internalID: -7562542398797579602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_35
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 326
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc19fbbfff657eb0800000000000000
+      internalID: -4722745490067088187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_36
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 327
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bd1dacf03f094c0800000000000000
+      internalID: -4282655996476531844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_37
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 325
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156e8d2f7d6e12b50800000000000000
+      internalID: 6566783546849551953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_38
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 309
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4120405f9b1189570800000000000000
+      internalID: 8473542189274890772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_39
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 326
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752c21e93bc099910800000000000000
+      internalID: 1844519487975637591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_40
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 309
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3f9f84970abf7c0800000000000000
+      internalID: -4036456198231690267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_41
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 306
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22970c94553549a0800000000000000
+      internalID: -6249530270395428305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_42
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 291
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9980b9eb5128bcfe0800000000000000
+      internalID: -1167696648468756327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_43
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 312
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8948bcbd6c74ca300800000000000000
+      internalID: 264665397524661400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_44
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 253
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d32652c3ef2b5080800000000000000
+      internalID: -9197705158709599277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_45
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 302
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cb072d66fa55630800000000000000
+      internalID: 3915228307220642972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_46
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 277
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acde4bca906a44ae0800000000000000
+      internalID: -1565944209935634998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_47
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 298
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e56f846430eec40800000000000000
+      internalID: 5543371791746358907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_48
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 260
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f121d67705bf33380800000000000000
+      internalID: -8992567707909156321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_49
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 239
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9c86b33863ad840800000000000000
+      internalID: 5249568252919073244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_50
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 277
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5ace7c493ebd2e0800000000000000
+      internalID: -2099834573089364537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_51
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 261
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc8d01c2e7f4c140800000000000000
+      internalID: 4739185261174164675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_52
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 265
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cc97d1e5074fd80800000000000000
+      internalID: -8217819870520554488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_53
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 276
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f73ee72d844d7ef0800000000000000
+      internalID: -108855442936023054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_54
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1455b19e6138800a0800000000000000
+      internalID: -6915133093403994815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_55
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 268
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75b5863e81f87370800000000000000
+      internalID: 8320665904669373823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_56
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 260
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ea0cb9f33d886b0800000000000000
+      internalID: -5293749091824521613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_57
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 231
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2d2e7418e7bd520800000000000000
+      internalID: 2727913093024895708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_58
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0b69ac2cd504df0800000000000000
+      internalID: -198055292400389969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_59
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 234
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e477beb35f1eef0800000000000000
+      internalID: -80513680613618113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_60
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 228
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce643f67560a95370800000000000000
+      internalID: 8311850944936756972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_61
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 230
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762adc02853ce9ce0800000000000000
+      internalID: -1396464051163389337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_62
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 228
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff59817aef4af5c40800000000000000
+      internalID: 5503298683302090239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_63
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 233
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec5161a0439116e0800000000000000
+      internalID: -1868550464587342622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_64
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7591a1f37a72d9c0800000000000000
+      internalID: -3903923288583072386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_65
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 134
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b3afda19584f1f0800000000000000
+      internalID: -1012037155515909287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_66
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 131
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b734e24e9cc3203c0800000000000000
+      internalID: -4394883448545852549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_67
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 109
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e52020dfd965cc0800000000000000
+      internalID: -3722614331989139953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_68
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 128
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5660ded56a69d10800000000000000
+      internalID: 2132074395945297396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_69
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 130
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dce93dd6bb227220800000000000000
+      internalID: 2482094409030167764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_70
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 125
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83531a5ab97b4350800000000000000
+      internalID: 6002024769683411850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_71
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 129
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b321b2e00dde6400800000000000000
+      internalID: 319435619462882231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_72
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 112
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2905137741508630800000000000000
+      internalID: 3927228242382358828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_73
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 128
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02049f8fc6b122bd0800000000000000
+      internalID: -2656530675347668960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_74
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 115
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf427a8b6e2debb10800000000000000
+      internalID: 1999267172981351676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_75
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 57
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699e0fd1387dd4010800000000000000
+      internalID: 1174832035956582806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_76
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 113
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347fa4c24f38a4610800000000000000
+      internalID: 1606241301849372483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_77
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 76
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7241f0b0aec820790800000000000000
+      internalID: -7565329487193238489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_78
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 86
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7441ae2f0ff3d46e0800000000000000
+      internalID: -1851753567679278009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_79
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 66
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34971fd37a2b4540800000000000000
+      internalID: 4993131289022796859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_80
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 36
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f78c6a4f1a62760800000000000000
+      internalID: 7432806307163832071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_81
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 65
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09e80fae799eac50800000000000000
+      internalID: 6678444066818550028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_82
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 92
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb64a12e2b21dfed0800000000000000
+      internalID: -2378724468674902340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_83
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d573d6ec7726780800000000000000
+      internalID: -8691252602392322756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_84
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 77
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546b23baa230b3bb0800000000000000
+      internalID: -4955363483195361723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_85
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 86
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b480470defa1838b0800000000000000
+      internalID: -5172354490313734069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_86
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 79
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f9f3587ac0aeda0800000000000000
+      internalID: -5914901246963114100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_87
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 85
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dd71df7580de0c0800000000000000
+      internalID: -4544967274945585835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_88
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 77
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4a30a6b0210f0e0800000000000000
+      internalID: -2238269174570572558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_89
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 77
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3613c8e185aaf6f0800000000000000
+      internalID: -650025218827151813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_90
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 67
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36917716aa3a46d10800000000000000
+      internalID: 2117997676945938787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_91
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 64
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69e49e1d8ec10a00800000000000000
+      internalID: 721084520854776171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_92
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 62
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6f6aa62381fee50800000000000000
+      internalID: 6840712963815831246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 18
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707b0c410ca7303a0800000000000000
+      internalID: -6700376855196682489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_94
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 18
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a76376221e5b0480800000000000000
+      internalID: -8931942003911727195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_95
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 17
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956f8ef0b3d2d2a60800000000000000
+      internalID: 7650821073665586777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_96
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 26
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1076819ca0bfb0b90800000000000000
+      internalID: -7274444749344839935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_97
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 6
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bae549cb657999b0800000000000000
+      internalID: -5072894399457400141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_98
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5e6d5110d71df70800000000000000
+      internalID: 9210280156564219382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_99
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 21
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d15da572566f000800000000000000
+      internalID: 69354063972867352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovery5_100
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd327ed84cd837d0800000000000000
+      internalID: -2938356551331463696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Recovery5_0: 6608705755399309300
+      Recovery5_1: -1846326395263475127
+      Recovery5_10: -5183986793936682355
+      Recovery5_100: -2938356551331463696
+      Recovery5_11: -8923156853579111880
+      Recovery5_12: 1222908637909479704
+      Recovery5_13: -2919418847328725349
+      Recovery5_14: 1675914993244050859
+      Recovery5_15: 5901592945632511489
+      Recovery5_16: -3160950068583725309
+      Recovery5_17: 1774757670263639789
+      Recovery5_18: 3868425335095746938
+      Recovery5_19: -684723001295009953
+      Recovery5_2: -5723347385336249136
+      Recovery5_20: 7528437378484840330
+      Recovery5_21: -3787935932884175471
+      Recovery5_22: 984263287911154174
+      Recovery5_23: -4952607372082396302
+      Recovery5_24: -2738263815323753823
+      Recovery5_25: -1121039688915880270
+      Recovery5_26: -454439675281403059
+      Recovery5_27: -384534096771938886
+      Recovery5_28: 3419086892461116804
+      Recovery5_29: -6652213368057259361
+      Recovery5_3: 1281233553754283693
+      Recovery5_30: 1320628059031803768
+      Recovery5_31: -8330055440011687753
+      Recovery5_32: 5772416721564937683
+      Recovery5_33: 6733287386015920710
+      Recovery5_34: -7562542398797579602
+      Recovery5_35: -4722745490067088187
+      Recovery5_36: -4282655996476531844
+      Recovery5_37: 6566783546849551953
+      Recovery5_38: 8473542189274890772
+      Recovery5_39: 1844519487975637591
+      Recovery5_4: -7217136880209394718
+      Recovery5_40: -4036456198231690267
+      Recovery5_41: -6249530270395428305
+      Recovery5_42: -1167696648468756327
+      Recovery5_43: 264665397524661400
+      Recovery5_44: -9197705158709599277
+      Recovery5_45: 3915228307220642972
+      Recovery5_46: -1565944209935634998
+      Recovery5_47: 5543371791746358907
+      Recovery5_48: -8992567707909156321
+      Recovery5_49: 5249568252919073244
+      Recovery5_5: 2369831428018421410
+      Recovery5_50: -2099834573089364537
+      Recovery5_51: 4739185261174164675
+      Recovery5_52: -8217819870520554488
+      Recovery5_53: -108855442936023054
+      Recovery5_54: -6915133093403994815
+      Recovery5_55: 8320665904669373823
+      Recovery5_56: -5293749091824521613
+      Recovery5_57: 2727913093024895708
+      Recovery5_58: -198055292400389969
+      Recovery5_59: -80513680613618113
+      Recovery5_6: -1002757070448174076
+      Recovery5_60: 8311850944936756972
+      Recovery5_61: -1396464051163389337
+      Recovery5_62: 5503298683302090239
+      Recovery5_63: -1868550464587342622
+      Recovery5_64: -3903923288583072386
+      Recovery5_65: -1012037155515909287
+      Recovery5_66: -4394883448545852549
+      Recovery5_67: -3722614331989139953
+      Recovery5_68: 2132074395945297396
+      Recovery5_69: 2482094409030167764
+      Recovery5_7: -5219865886840704657
+      Recovery5_70: 6002024769683411850
+      Recovery5_71: 319435619462882231
+      Recovery5_72: 3927228242382358828
+      Recovery5_73: -2656530675347668960
+      Recovery5_74: 1999267172981351676
+      Recovery5_75: 1174832035956582806
+      Recovery5_76: 1606241301849372483
+      Recovery5_77: -7565329487193238489
+      Recovery5_78: -1851753567679278009
+      Recovery5_79: 4993131289022796859
+      Recovery5_8: 7793503499619154005
+      Recovery5_80: 7432806307163832071
+      Recovery5_81: 6678444066818550028
+      Recovery5_82: -2378724468674902340
+      Recovery5_83: -8691252602392322756
+      Recovery5_84: -4955363483195361723
+      Recovery5_85: -5172354490313734069
+      Recovery5_86: -5914901246963114100
+      Recovery5_87: -4544967274945585835
+      Recovery5_88: -2238269174570572558
+      Recovery5_89: -650025218827151813
+      Recovery5_9: -7397297527664131535
+      Recovery5_90: 2117997676945938787
+      Recovery5_91: 721084520854776171
+      Recovery5_92: 6840712963815831246
+      Recovery5_93: -6700376855196682489
+      Recovery5_94: -8931942003911727195
+      Recovery5_95: 7650821073665586777
+      Recovery5_96: -7274444749344839935
+      Recovery5_97: -5072894399457400141
+      Recovery5_98: 9210280156564219382
+      Recovery5_99: 69354063972867352
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

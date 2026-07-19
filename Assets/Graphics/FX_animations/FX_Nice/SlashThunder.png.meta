@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 3ab61c832b21bbb468a84e1c6fc71917
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2728962850824911112
+    second: SlashThunder_0
+  - first:
+      213: 8057069291682782594
+    second: SlashThunder_1
+  - first:
+      213: -8188316967408885401
+    second: SlashThunder_2
+  - first:
+      213: -3425161108954298667
+    second: SlashThunder_3
+  - first:
+      213: 2749114130587345019
+    second: SlashThunder_4
+  - first:
+      213: 4259332852647240710
+    second: SlashThunder_5
+  - first:
+      213: -338231405730690990
+    second: SlashThunder_6
+  - first:
+      213: 2420728448729839906
+    second: SlashThunder_7
+  - first:
+      213: -3225425873588433997
+    second: SlashThunder_8
+  - first:
+      213: -4011925098939907766
+    second: SlashThunder_9
+  - first:
+      213: 3423618990949841299
+    second: SlashThunder_10
+  - first:
+      213: 3839916584195867578
+    second: SlashThunder_11
+  - first:
+      213: -1125997672565920280
+    second: SlashThunder_12
+  - first:
+      213: -9088451970496920984
+    second: SlashThunder_13
+  - first:
+      213: -6670905084335543095
+    second: SlashThunder_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlashThunder_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 451
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6085feeb6c02ad0800000000000000
+      internalID: -2728962850824911112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashThunder_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 386
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dd57525d570df60800000000000000
+      internalID: 8057069291682782594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashThunder_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 386
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7612a490a114d5e80800000000000000
+      internalID: -8188316967408885401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashThunder_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 386
+        width: 102
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6cb426e126770d0800000000000000
+      internalID: -3425161108954298667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashThunder_4
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 386
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b706aa08cb0d62620800000000000000
+      internalID: 2749114130587345019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashThunder_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 278
+        width: 106
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604a03e99a03c1b30800000000000000
+      internalID: 4259332852647240710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashThunder_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 198
+        width: 172
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2588a89145c5e4bf0800000000000000
+      internalID: -338231405730690990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashThunder_7
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 198
+        width: 177
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2297934d2b7289120800000000000000
+      internalID: 2420728448729839906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashThunder_8
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 192
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb486bc14cfc33d0800000000000000
+      internalID: -3225425873588433997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashThunder_9
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 279
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41863ce067c258c0800000000000000
+      internalID: -4011925098939907766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashThunder_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 194
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399b8d94553238f20800000000000000
+      internalID: 3423618990949841299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashThunder_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1
+        width: 151
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab34020e9cf1a4530800000000000000
+      internalID: 3839916584195867578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashThunder_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 23
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edaac42517af50f0800000000000000
+      internalID: -1125997672565920280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashThunder_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 23
+        width: 135
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8620554e5155fd180800000000000000
+      internalID: -9088451970496920984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlashThunder_14
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 32
+        width: 138
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc25d57b2f2c63a0800000000000000
+      internalID: -6670905084335543095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SlashThunder_0: -2728962850824911112
+      SlashThunder_1: 8057069291682782594
+      SlashThunder_10: 3423618990949841299
+      SlashThunder_11: 3839916584195867578
+      SlashThunder_12: -1125997672565920280
+      SlashThunder_13: -9088451970496920984
+      SlashThunder_14: -6670905084335543095
+      SlashThunder_2: -8188316967408885401
+      SlashThunder_3: -3425161108954298667
+      SlashThunder_4: 2749114130587345019
+      SlashThunder_5: 4259332852647240710
+      SlashThunder_6: -338231405730690990
+      SlashThunder_7: 2420728448729839906
+      SlashThunder_8: -3225425873588433997
+      SlashThunder_9: -4011925098939907766
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

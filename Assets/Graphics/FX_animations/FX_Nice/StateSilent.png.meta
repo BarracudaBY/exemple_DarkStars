@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: a06c032a9b2c7c34da515fd64b2869f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 331628244835697322
+    second: StateSilent_0
+  - first:
+      213: -4479247380185593709
+    second: StateSilent_1
+  - first:
+      213: 6208010599215339751
+    second: StateSilent_2
+  - first:
+      213: -5463274495160976374
+    second: StateSilent_3
+  - first:
+      213: 2294132533915332130
+    second: StateSilent_4
+  - first:
+      213: -7329587779185098182
+    second: StateSilent_5
+  - first:
+      213: 6751697364073349196
+    second: StateSilent_6
+  - first:
+      213: 1183747914358343088
+    second: StateSilent_7
+  - first:
+      213: 458958801298001327
+    second: StateSilent_8
+  - first:
+      213: 2329658185016171788
+    second: StateSilent_9
+  - first:
+      213: 6374544767961898934
+    second: StateSilent_10
+  - first:
+      213: 1984830806605728499
+    second: StateSilent_11
+  - first:
+      213: -4052344966057956839
+    second: StateSilent_12
+  - first:
+      213: -2325901515002680713
+    second: StateSilent_13
+  - first:
+      213: 5795277904432777761
+    second: StateSilent_14
+  - first:
+      213: -3438732872521029005
+    second: StateSilent_15
+  - first:
+      213: 68491168629764805
+    second: StateSilent_16
+  - first:
+      213: 3175411805471572337
+    second: StateSilent_17
+  - first:
+      213: -7257409049479715488
+    second: StateSilent_18
+  - first:
+      213: -72386937155760510
+    second: StateSilent_19
+  - first:
+      213: -7556741000693586381
+    second: StateSilent_20
+  - first:
+      213: 7435573809742580843
+    second: StateSilent_21
+  - first:
+      213: 3103046131057804650
+    second: StateSilent_22
+  - first:
+      213: 5891461581008230482
+    second: StateSilent_23
+  - first:
+      213: -5456604420393116459
+    second: StateSilent_24
+  - first:
+      213: 5448293985023765593
+    second: StateSilent_25
+  - first:
+      213: 7288679535423012170
+    second: StateSilent_26
+  - first:
+      213: 4047165077689260290
+    second: StateSilent_27
+  - first:
+      213: 706487907727764799
+    second: StateSilent_28
+  - first:
+      213: -9204281286380429508
+    second: StateSilent_29
+  - first:
+      213: -5476340369636216817
+    second: StateSilent_30
+  - first:
+      213: -9129684798889008318
+    second: StateSilent_31
+  - first:
+      213: 2203852988261856856
+    second: StateSilent_32
+  - first:
+      213: -1705539944793586570
+    second: StateSilent_33
+  - first:
+      213: -8878067574626070417
+    second: StateSilent_34
+  - first:
+      213: 3222818761153308249
+    second: StateSilent_35
+  - first:
+      213: 4138749715534007341
+    second: StateSilent_36
+  - first:
+      213: -6852650179940589033
+    second: StateSilent_37
+  - first:
+      213: 5298557974388275088
+    second: StateSilent_38
+  - first:
+      213: -1284130726087222141
+    second: StateSilent_39
+  - first:
+      213: -6934873811887613218
+    second: StateSilent_40
+  - first:
+      213: 3616879360510479940
+    second: StateSilent_41
+  - first:
+      213: 5962652974877204761
+    second: StateSilent_42
+  - first:
+      213: -3515195879104713875
+    second: StateSilent_43
+  - first:
+      213: -7344164718010700107
+    second: StateSilent_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StateSilent_0
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 757
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa20be2b12e2a9400800000000000000
+      internalID: 331628244835697322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 759
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39840f26d3486d1c0800000000000000
+      internalID: -4479247380185593709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 747
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e81710afb8472650800000000000000
+      internalID: 6208010599215339751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 590
+        width: 146
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c7a75dacc8e24b0800000000000000
+      internalID: -5463274495160976374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 739
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ea0bf726566df10800000000000000
+      internalID: 2294132533915332130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 593
+        width: 172
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32c0a7afb2184a90800000000000000
+      internalID: -7329587779185098182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 611
+        width: 163
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4088880bf8d2bd50800000000000000
+      internalID: 6751697364073349196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_7
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 728
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b540f2d4748d6010800000000000000
+      internalID: 1183747914358343088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_8
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 732
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad08ed199c8e5600800000000000000
+      internalID: 458958801298001327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 703
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d58f5b6cb945020800000000000000
+      internalID: 2329658185016171788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_10
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 621
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf913351bee67850800000000000000
+      internalID: 6374544767961898934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_11
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 628
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa8cfe3a198b8b10800000000000000
+      internalID: 1984830806605728499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_12
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 726
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ae5ce39bd23c7c0800000000000000
+      internalID: -4052344966057956839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 715
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ae8bf25ecb8bfd0800000000000000
+      internalID: -2325901515002680713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 657
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ac264ac86fc6050800000000000000
+      internalID: 5795277904432777761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 675
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37aecefebaa2740d0800000000000000
+      internalID: -3438732872521029005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_16
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 660
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2bd60ea5453f000800000000000000
+      internalID: 68491168629764805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 653
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17107b88634511c20800000000000000
+      internalID: 3175411805471572337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 618
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0656e00cbe0884b90800000000000000
+      internalID: -7257409049479715488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 616
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ec374d674defef0800000000000000
+      internalID: -72386937155760510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_20
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 612
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3366702e810112790800000000000000
+      internalID: -7556741000693586381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_21
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 621
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c87ee0cf6703760800000000000000
+      internalID: 7435573809742580843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 602
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65c95bf30c301b20800000000000000
+      internalID: 3103046131057804650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 583
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2585bd7f71da2c150800000000000000
+      internalID: 5891461581008230482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 476
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc54a2a03f3644b0800000000000000
+      internalID: -5456604420393116459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 466
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c2d39538a3c9b40800000000000000
+      internalID: 5448293985023765593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 497
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d3c8e9b67962560800000000000000
+      internalID: 7288679535423012170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 500
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209d803023b6a2830800000000000000
+      internalID: 4047165077689260290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_28
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 456
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3de83a4203fdc900800000000000000
+      internalID: 706487907727764799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_29
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 429
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fd488bfe2d34080800000000000000
+      internalID: -9204281286380429508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_30
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 500
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00b3bed2712004b0800000000000000
+      internalID: -5476340369636216817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_31
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 423
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243efeaeb08dc4180800000000000000
+      internalID: -9129684798889008318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_32
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 468
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856f786cd98a59e10800000000000000
+      internalID: 2203852988261856856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_33
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 450
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674c650e474b458e0800000000000000
+      internalID: -1705539944793586570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 444
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60df723494cac480800000000000000
+      internalID: -8878067574626070417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_35
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 439
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956e10a8690c9bc20800000000000000
+      internalID: 3222818761153308249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_36
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 231
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c47a030facf6930800000000000000
+      internalID: 4138749715534007341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_37
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 231
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712ef9ed7fe76e0a0800000000000000
+      internalID: -6852650179940589033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 227
+        width: 139
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097f93d9762488940800000000000000
+      internalID: 5298557974388275088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_39
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 223
+        width: 139
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c186288e9dd2ee0800000000000000
+      internalID: -1284130726087222141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_40
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 219
+        width: 139
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda9748b20162cf90800000000000000
+      internalID: -6934873811887613218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_41
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 29
+        width: 139
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e4ba68d9cb13230800000000000000
+      internalID: 3616879360510479940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_42
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 29
+        width: 139
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9116b760a499fb250800000000000000
+      internalID: 5962652974877204761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_43
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 29
+        width: 139
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6beb06e8f3873fc0800000000000000
+      internalID: -3515195879104713875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateSilent_44
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 29
+        width: 139
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bee30b9919441a90800000000000000
+      internalID: -7344164718010700107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StateSilent_0: 331628244835697322
+      StateSilent_1: -4479247380185593709
+      StateSilent_10: 6374544767961898934
+      StateSilent_11: 1984830806605728499
+      StateSilent_12: -4052344966057956839
+      StateSilent_13: -2325901515002680713
+      StateSilent_14: 5795277904432777761
+      StateSilent_15: -3438732872521029005
+      StateSilent_16: 68491168629764805
+      StateSilent_17: 3175411805471572337
+      StateSilent_18: -7257409049479715488
+      StateSilent_19: -72386937155760510
+      StateSilent_2: 6208010599215339751
+      StateSilent_20: -7556741000693586381
+      StateSilent_21: 7435573809742580843
+      StateSilent_22: 3103046131057804650
+      StateSilent_23: 5891461581008230482
+      StateSilent_24: -5456604420393116459
+      StateSilent_25: 5448293985023765593
+      StateSilent_26: 7288679535423012170
+      StateSilent_27: 4047165077689260290
+      StateSilent_28: 706487907727764799
+      StateSilent_29: -9204281286380429508
+      StateSilent_3: -5463274495160976374
+      StateSilent_30: -5476340369636216817
+      StateSilent_31: -9129684798889008318
+      StateSilent_32: 2203852988261856856
+      StateSilent_33: -1705539944793586570
+      StateSilent_34: -8878067574626070417
+      StateSilent_35: 3222818761153308249
+      StateSilent_36: 4138749715534007341
+      StateSilent_37: -6852650179940589033
+      StateSilent_38: 5298557974388275088
+      StateSilent_39: -1284130726087222141
+      StateSilent_4: 2294132533915332130
+      StateSilent_40: -6934873811887613218
+      StateSilent_41: 3616879360510479940
+      StateSilent_42: 5962652974877204761
+      StateSilent_43: -3515195879104713875
+      StateSilent_44: -7344164718010700107
+      StateSilent_5: -7329587779185098182
+      StateSilent_6: 6751697364073349196
+      StateSilent_7: 1183747914358343088
+      StateSilent_8: 458958801298001327
+      StateSilent_9: 2329658185016171788
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

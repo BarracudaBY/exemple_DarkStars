@@ -1,0 +1,3003 @@
+fileFormatVersion: 2
+guid: 13c2441ee08c89e478fc2248da47c013
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7071758759311073259
+    second: Holy2_0
+  - first:
+      213: 1835617060375115341
+    second: Holy2_1
+  - first:
+      213: -5291585147848834479
+    second: Holy2_2
+  - first:
+      213: 4260581592627493963
+    second: Holy2_3
+  - first:
+      213: -2447954003486288778
+    second: Holy2_4
+  - first:
+      213: 8846201023239369928
+    second: Holy2_5
+  - first:
+      213: 4350847658591664424
+    second: Holy2_6
+  - first:
+      213: 1396000758232188659
+    second: Holy2_7
+  - first:
+      213: -1015117103451439337
+    second: Holy2_8
+  - first:
+      213: 540663412648590020
+    second: Holy2_9
+  - first:
+      213: 7518317462484653220
+    second: Holy2_10
+  - first:
+      213: 7000191168802372866
+    second: Holy2_11
+  - first:
+      213: -8318004387267066108
+    second: Holy2_12
+  - first:
+      213: 4238887162348920008
+    second: Holy2_13
+  - first:
+      213: 7573042398107975583
+    second: Holy2_14
+  - first:
+      213: -3986592389547835099
+    second: Holy2_15
+  - first:
+      213: 8652494435279817409
+    second: Holy2_16
+  - first:
+      213: -8154610533424390886
+    second: Holy2_17
+  - first:
+      213: -1604105910479424102
+    second: Holy2_18
+  - first:
+      213: 8163433438318997955
+    second: Holy2_19
+  - first:
+      213: -2480922384514054876
+    second: Holy2_20
+  - first:
+      213: -698660222352476611
+    second: Holy2_21
+  - first:
+      213: -81051586241108568
+    second: Holy2_22
+  - first:
+      213: 1226917890608442290
+    second: Holy2_23
+  - first:
+      213: 4804019177149293967
+    second: Holy2_24
+  - first:
+      213: 8134182663644389989
+    second: Holy2_25
+  - first:
+      213: -2050497112700889668
+    second: Holy2_26
+  - first:
+      213: 6430526716408207907
+    second: Holy2_27
+  - first:
+      213: 1359368398791507295
+    second: Holy2_28
+  - first:
+      213: -2929093291436643247
+    second: Holy2_29
+  - first:
+      213: -3564872998790304376
+    second: Holy2_30
+  - first:
+      213: -6190588792631028422
+    second: Holy2_31
+  - first:
+      213: 5944427077369516323
+    second: Holy2_32
+  - first:
+      213: -7173455719212081440
+    second: Holy2_33
+  - first:
+      213: 722339069353135396
+    second: Holy2_34
+  - first:
+      213: -5324942280464638969
+    second: Holy2_35
+  - first:
+      213: -5384816803698746437
+    second: Holy2_36
+  - first:
+      213: -1505747565599149776
+    second: Holy2_37
+  - first:
+      213: 1976243759797684192
+    second: Holy2_38
+  - first:
+      213: -6938468766337144099
+    second: Holy2_39
+  - first:
+      213: -9144481191957264263
+    second: Holy2_40
+  - first:
+      213: 8156504735061704933
+    second: Holy2_41
+  - first:
+      213: 6754217067741697567
+    second: Holy2_42
+  - first:
+      213: 8450085940780856358
+    second: Holy2_43
+  - first:
+      213: -706664254334995541
+    second: Holy2_44
+  - first:
+      213: 3555718641868169716
+    second: Holy2_45
+  - first:
+      213: -203950594870693837
+    second: Holy2_46
+  - first:
+      213: 665622787136234378
+    second: Holy2_47
+  - first:
+      213: -3994225260959091027
+    second: Holy2_48
+  - first:
+      213: -7321103432346449692
+    second: Holy2_49
+  - first:
+      213: 4006357421296953532
+    second: Holy2_50
+  - first:
+      213: -6642303292599215491
+    second: Holy2_51
+  - first:
+      213: 831288354663431367
+    second: Holy2_52
+  - first:
+      213: 5653638121330008143
+    second: Holy2_53
+  - first:
+      213: -2671167949833266514
+    second: Holy2_54
+  - first:
+      213: -1571819226227739662
+    second: Holy2_55
+  - first:
+      213: -6243526704036253499
+    second: Holy2_56
+  - first:
+      213: -9060635762481915903
+    second: Holy2_57
+  - first:
+      213: 3637630293925784608
+    second: Holy2_58
+  - first:
+      213: -462826841080604480
+    second: Holy2_59
+  - first:
+      213: -4297156711622968998
+    second: Holy2_60
+  - first:
+      213: -2498408869952770667
+    second: Holy2_61
+  - first:
+      213: 1508457558862160831
+    second: Holy2_62
+  - first:
+      213: -8067748560587103773
+    second: Holy2_63
+  - first:
+      213: 7312335197658511995
+    second: Holy2_64
+  - first:
+      213: 5942314786433809618
+    second: Holy2_65
+  - first:
+      213: 5826424197502775654
+    second: Holy2_66
+  - first:
+      213: 126656457027041142
+    second: Holy2_67
+  - first:
+      213: 8657518256529765066
+    second: Holy2_68
+  - first:
+      213: -7608579819459629881
+    second: Holy2_69
+  - first:
+      213: 172190567652381134
+    second: Holy2_70
+  - first:
+      213: -418825783615122765
+    second: Holy2_71
+  - first:
+      213: 3593941336941823051
+    second: Holy2_72
+  - first:
+      213: -3448657627693549866
+    second: Holy2_73
+  - first:
+      213: 8914233999820367327
+    second: Holy2_74
+  - first:
+      213: -534658199136866681
+    second: Holy2_75
+  - first:
+      213: -7252576507731787908
+    second: Holy2_76
+  - first:
+      213: -5089570583947216007
+    second: Holy2_77
+  - first:
+      213: -5386107043407834805
+    second: Holy2_78
+  - first:
+      213: 2873386563689969760
+    second: Holy2_79
+  - first:
+      213: -5477666915032036648
+    second: Holy2_80
+  - first:
+      213: 2473217646240180472
+    second: Holy2_81
+  - first:
+      213: -3413891343995044495
+    second: Holy2_82
+  - first:
+      213: -5420194701725178313
+    second: Holy2_83
+  - first:
+      213: -8550251003661521005
+    second: Holy2_84
+  - first:
+      213: -6617008110779978294
+    second: Holy2_85
+  - first:
+      213: 5181746907731087995
+    second: Holy2_86
+  - first:
+      213: 1531616344894086752
+    second: Holy2_87
+  - first:
+      213: -4595539277247995048
+    second: Holy2_88
+  - first:
+      213: -1249393036748633503
+    second: Holy2_89
+  - first:
+      213: -5818561009418823269
+    second: Holy2_90
+  - first:
+      213: 7307320703303356105
+    second: Holy2_91
+  - first:
+      213: -6284683991547969043
+    second: Holy2_92
+  - first:
+      213: 542640025966100811
+    second: Holy2_93
+  - first:
+      213: 1585797276202259764
+    second: Holy2_94
+  - first:
+      213: 476562398104952147
+    second: Holy2_95
+  - first:
+      213: 2116213082298753516
+    second: Holy2_96
+  - first:
+      213: 8840270424728503051
+    second: Holy2_97
+  - first:
+      213: 2152061165490946951
+    second: Holy2_98
+  - first:
+      213: 3505383936457445264
+    second: Holy2_99
+  - first:
+      213: -2071140897541843353
+    second: Holy2_100
+  - first:
+      213: 4273991531417265002
+    second: Holy2_101
+  - first:
+      213: -4590334527924029392
+    second: Holy2_102
+  - first:
+      213: 8088046733820200605
+    second: Holy2_103
+  - first:
+      213: 2126211066100097924
+    second: Holy2_104
+  - first:
+      213: -998823019544225771
+    second: Holy2_105
+  - first:
+      213: -2146144357241925412
+    second: Holy2_106
+  - first:
+      213: 8110861313822790782
+    second: Holy2_107
+  - first:
+      213: 2838733081923292908
+    second: Holy2_108
+  - first:
+      213: 2835413313505478610
+    second: Holy2_109
+  - first:
+      213: -4918586792820899620
+    second: Holy2_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Holy2_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 978
+        width: 152
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef5ef1bf1fe32260800000000000000
+      internalID: 7071758759311073259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 993
+        width: 156
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d463e4badfb697910800000000000000
+      internalID: 1835617060375115341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_2
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1008
+        width: 162
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152ccb318538096b0800000000000000
+      internalID: -5291585147848834479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1012
+        width: 174
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c312d8260a02b30800000000000000
+      internalID: 4260581592627493963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_4
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1012
+        width: 188
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67454bbbdce170ed0800000000000000
+      internalID: -2447954003486288778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819
+        width: 193
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c431e126f404ca70800000000000000
+      internalID: 8846201023239369928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 818
+        width: 194
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829323ac4e0516c30800000000000000
+      internalID: 4350847658591664424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_7
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 842
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f60b941b479f5310800000000000000
+      internalID: 1396000758232188659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 848
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f7a5b6f5499e1f0800000000000000
+      internalID: -1015117103451439337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_9
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 864
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca38fd5282d08700800000000000000
+      internalID: 540663412648590020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_10
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 837
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4930cf5ed665860800000000000000
+      internalID: 7518317462484653220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_11
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 845
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dba4887cca52160800000000000000
+      internalID: 7000191168802372866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_12
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 868
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4074ec89413809c80800000000000000
+      internalID: -8318004387267066108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_13
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 849
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc55c26a6d83da30800000000000000
+      internalID: 4238887162348920008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_14
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 841
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fb238ffe9d81960800000000000000
+      internalID: 7573042398107975583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 874
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521c9b4f757cca8c0800000000000000
+      internalID: -3986592389547835099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_16
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 877
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cac5e398d5d31870800000000000000
+      internalID: 8652494435279817409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_17
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 852
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d9491cce005de80800000000000000
+      internalID: -8154610533424390886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_18
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 840
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95f4cf5c221db9e0800000000000000
+      internalID: -1604105910479424102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_19
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 842
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1bc8ed5775a4170800000000000000
+      internalID: 8163433438318997955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_20
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 850
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42589bb5c3ef19dd0800000000000000
+      internalID: -2480922384514054876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_21
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 836
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d363cfbba3cdd46f0800000000000000
+      internalID: -698660222352476611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_22
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 849
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5ed91030c00eef0800000000000000
+      internalID: -81051586241108568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_23
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 857
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bba94e2253e60110800000000000000
+      internalID: 1226917890608442290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_24
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 830
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85e5242dfd4ba240800000000000000
+      internalID: 4804019177149293967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_25
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 833
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5622aac290c62e070800000000000000
+      internalID: 8134182663644389989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_26
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 832
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5df707dbb2b83e0800000000000000
+      internalID: -2050497112700889668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_27
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 827
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a9b2a6af1dd3950800000000000000
+      internalID: 6430526716408207907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_28
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 644
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dfbd04b527dd210800000000000000
+      internalID: 1359368398791507295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_29
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 682
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c60f1ab25c957d0800000000000000
+      internalID: -2929093291436643247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_30
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 639
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88de8b525e6078ec0800000000000000
+      internalID: -3564872998790304376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_31
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 696
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3596b0da4c961aa0800000000000000
+      internalID: -6190588792631028422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_32
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 684
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321d2d39ee8de7250800000000000000
+      internalID: 5944427077369516323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 658
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee9e5ca704c27c90800000000000000
+      internalID: -7173455719212081440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_34
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 705
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d0e247e83460a00800000000000000
+      internalID: 722339069353135396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_35
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 699
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c527b65310a16b0800000000000000
+      internalID: -5324942280464638969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 685
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb5bf2a5a94545b0800000000000000
+      internalID: -5384816803698746437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_37
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 699
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031bd0f11928a1be0800000000000000
+      internalID: -1505747565599149776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_38
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 711
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7c25c9a370d6b10800000000000000
+      internalID: 1976243759797684192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_39
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 701
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddae4592b6b95bf90800000000000000
+      internalID: -6938468766337144099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_40
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 679
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97885223ec6481180800000000000000
+      internalID: -9144481191957264263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_41
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 705
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0052e67d9b13170800000000000000
+      internalID: 8156504735061704933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_42
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 693
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16df9243accbbd50800000000000000
+      internalID: 6754217067741697567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_43
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 699
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624f3c5846cb44570800000000000000
+      internalID: 8450085940780856358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_44
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 658
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba375e0da9c6136f0800000000000000
+      internalID: -706664254334995541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_45
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 690
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f169c90443785130800000000000000
+      internalID: 3555718641868169716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_46
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 679
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330b009b30c6b2df0800000000000000
+      internalID: -203950594870693837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_47
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 681
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8329a5f564cc3900800000000000000
+      internalID: 665622787136234378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_48
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 680
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da634a79949a198c0800000000000000
+      internalID: -3994225260959091027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_49
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 658
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8c8179737366a90800000000000000
+      internalID: -7321103432346449692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_50
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 678
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8a7ab19d0799730800000000000000
+      internalID: 4006357421296953532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_51
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 677
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a573a095cc1d3a0800000000000000
+      internalID: -6642303292599215491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_52
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 672
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccf1adaa54598b00800000000000000
+      internalID: 831288354663431367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_53
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 657
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f406b76cae1c57e40800000000000000
+      internalID: 5653638121330008143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_54
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 681
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa97cee6ea1eead0800000000000000
+      internalID: -2671167949833266514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_55
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 672
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3f099ddb6cf2ae0800000000000000
+      internalID: -1571819226227739662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_56
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 656
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0f044da898a59a0800000000000000
+      internalID: -6243526704036253499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 663
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108901287c7224280800000000000000
+      internalID: -9060635762481915903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_58
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 665
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c65a5ba757b7230800000000000000
+      internalID: 3637630293925784608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_59
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 655
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8dfd0b075b399f0800000000000000
+      internalID: -462826841080604480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_60
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 654
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59f683fcbe6d54c0800000000000000
+      internalID: -4297156711622968998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_61
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 657
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59da7c2be5ed35dd0800000000000000
+      internalID: -2498408869952770667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_62
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 665
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb36bba582e1fe410800000000000000
+      internalID: 1508457558862160831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_63
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 657
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1690dcd69990090800000000000000
+      internalID: -8067748560587103773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_64
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 632
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a750fae12aa7560800000000000000
+      internalID: 7312335197658511995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_65
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 626
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc30f480d7577250800000000000000
+      internalID: 5942314786433809618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_66
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 622
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661b4ea10fd9bd050800000000000000
+      internalID: 5826424197502775654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_67
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 653
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6773b996069f1c100800000000000000
+      internalID: 126656457027041142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_68
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 619
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac27aec1cfea52870800000000000000
+      internalID: 8657518256529765066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_69
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 652
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc27e757f4e86690800000000000000
+      internalID: -7608579819459629881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 629
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1d792b86eb36200800000000000000
+      internalID: 172190567652381134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_71
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 624
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b298d83b28003af0800000000000000
+      internalID: -418825783615122765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_72
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 618
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44820cba9e30e130800000000000000
+      internalID: 3593941336941823051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_73
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 612
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6726dc828e320d0800000000000000
+      internalID: -3448657627693549866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_74
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 606
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5a00cd798b5bb70800000000000000
+      internalID: 8914233999820367327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_75
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 613
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e623c53338498f0800000000000000
+      internalID: -534658199136866681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_76
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 627
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fbd4e871ca95b90800000000000000
+      internalID: -7252576507731787908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_77
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 517
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b7c8405863e59b0800000000000000
+      internalID: -5089570583947216007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_78
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 531
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41527b4e24b045b0800000000000000
+      internalID: -5386107043407834805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_79
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 396
+        width: 93
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068fe171bd150e720800000000000000
+      internalID: 2873386563689969760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_80
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 396
+        width: 102
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da0b9376fa6bf3b0800000000000000
+      internalID: -5477666915032036648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_81
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 397
+        width: 102
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8af587852a25220800000000000000
+      internalID: 2473217646240180472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_82
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 514
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17df46309eb6f90d0800000000000000
+      internalID: -3413891343995044495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_83
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 496
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736673ed2a997c4b0800000000000000
+      internalID: -5420194701725178313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_84
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 496
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fe35a6308675980800000000000000
+      internalID: -8550251003661521005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_85
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 396
+        width: 55
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acda4118e2aab24a0800000000000000
+      internalID: -6617008110779978294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_86
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 471
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b725a47cb5349e740800000000000000
+      internalID: 5181746907731087995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 467
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e189963f4614510800000000000000
+      internalID: 1531616344894086752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_88
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 465
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8532744206d5930c0800000000000000
+      internalID: -4595539277247995048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_89
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 432
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a40c317a349aee0800000000000000
+      internalID: -1249393036748633503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_90
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 212
+        width: 102
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9917a90791504fa0800000000000000
+      internalID: -5818561009418823269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_91
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 246
+        width: 102
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce014cb671d86560800000000000000
+      internalID: 7307320703303356105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_92
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 252
+        width: 86
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de10336153158c8a0800000000000000
+      internalID: -6284683991547969043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_93
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 191
+        width: 45
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b414e948a38d78700800000000000000
+      internalID: 542640025966100811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_94
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 191
+        width: 46
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43551d58832e10610800000000000000
+      internalID: 1585797276202259764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_95
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 67
+        width: 155
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d9a54e9f61d9600800000000000000
+      internalID: 476562398104952147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_96
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 117
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1a37f069c4e5d10800000000000000
+      internalID: 2116213082298753516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_97
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 118
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0385501d13feaa70800000000000000
+      internalID: 8840270424728503051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_98
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 114
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78340085a38addd10800000000000000
+      internalID: 2152061165490946951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_99
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 135
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f08ed2e10a5a030800000000000000
+      internalID: 3505383936457445264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_100
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 120
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7661c3ab354d143e0800000000000000
+      internalID: -2071140897541843353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_101
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 118
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63672b37a4405b30800000000000000
+      internalID: 4273991531417265002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_102
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 132
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038b0e6411bdb40c0800000000000000
+      internalID: -4590334527924029392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_103
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 112
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d968c10f6a38e3070800000000000000
+      internalID: 8088046733820200605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_104
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 107
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483a66013b1d18d10800000000000000
+      internalID: 2126211066100097924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_105
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 131
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518559671c77322f0800000000000000
+      internalID: -998823019544225771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_106
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 69
+        width: 113
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0d2ede31d5732e0800000000000000
+      internalID: -2146144357241925412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_107
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 118
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e749dd844619f8070800000000000000
+      internalID: 8110861313822790782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_108
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 67
+        width: 75
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee0030a2b4356720800000000000000
+      internalID: 2838733081923292908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_109
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 59
+        width: 182
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d748eec269695720800000000000000
+      internalID: 2835413313505478610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy2_110
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 59
+        width: 132
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd08bf82f5badbbb0800000000000000
+      internalID: -4918586792820899620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Holy2_0: 7071758759311073259
+      Holy2_1: 1835617060375115341
+      Holy2_10: 7518317462484653220
+      Holy2_100: -2071140897541843353
+      Holy2_101: 4273991531417265002
+      Holy2_102: -4590334527924029392
+      Holy2_103: 8088046733820200605
+      Holy2_104: 2126211066100097924
+      Holy2_105: -998823019544225771
+      Holy2_106: -2146144357241925412
+      Holy2_107: 8110861313822790782
+      Holy2_108: 2838733081923292908
+      Holy2_109: 2835413313505478610
+      Holy2_11: 7000191168802372866
+      Holy2_110: -4918586792820899620
+      Holy2_12: -8318004387267066108
+      Holy2_13: 4238887162348920008
+      Holy2_14: 7573042398107975583
+      Holy2_15: -3986592389547835099
+      Holy2_16: 8652494435279817409
+      Holy2_17: -8154610533424390886
+      Holy2_18: -1604105910479424102
+      Holy2_19: 8163433438318997955
+      Holy2_2: -5291585147848834479
+      Holy2_20: -2480922384514054876
+      Holy2_21: -698660222352476611
+      Holy2_22: -81051586241108568
+      Holy2_23: 1226917890608442290
+      Holy2_24: 4804019177149293967
+      Holy2_25: 8134182663644389989
+      Holy2_26: -2050497112700889668
+      Holy2_27: 6430526716408207907
+      Holy2_28: 1359368398791507295
+      Holy2_29: -2929093291436643247
+      Holy2_3: 4260581592627493963
+      Holy2_30: -3564872998790304376
+      Holy2_31: -6190588792631028422
+      Holy2_32: 5944427077369516323
+      Holy2_33: -7173455719212081440
+      Holy2_34: 722339069353135396
+      Holy2_35: -5324942280464638969
+      Holy2_36: -5384816803698746437
+      Holy2_37: -1505747565599149776
+      Holy2_38: 1976243759797684192
+      Holy2_39: -6938468766337144099
+      Holy2_4: -2447954003486288778
+      Holy2_40: -9144481191957264263
+      Holy2_41: 8156504735061704933
+      Holy2_42: 6754217067741697567
+      Holy2_43: 8450085940780856358
+      Holy2_44: -706664254334995541
+      Holy2_45: 3555718641868169716
+      Holy2_46: -203950594870693837
+      Holy2_47: 665622787136234378
+      Holy2_48: -3994225260959091027
+      Holy2_49: -7321103432346449692
+      Holy2_5: 8846201023239369928
+      Holy2_50: 4006357421296953532
+      Holy2_51: -6642303292599215491
+      Holy2_52: 831288354663431367
+      Holy2_53: 5653638121330008143
+      Holy2_54: -2671167949833266514
+      Holy2_55: -1571819226227739662
+      Holy2_56: -6243526704036253499
+      Holy2_57: -9060635762481915903
+      Holy2_58: 3637630293925784608
+      Holy2_59: -462826841080604480
+      Holy2_6: 4350847658591664424
+      Holy2_60: -4297156711622968998
+      Holy2_61: -2498408869952770667
+      Holy2_62: 1508457558862160831
+      Holy2_63: -8067748560587103773
+      Holy2_64: 7312335197658511995
+      Holy2_65: 5942314786433809618
+      Holy2_66: 5826424197502775654
+      Holy2_67: 126656457027041142
+      Holy2_68: 8657518256529765066
+      Holy2_69: -7608579819459629881
+      Holy2_7: 1396000758232188659
+      Holy2_70: 172190567652381134
+      Holy2_71: -418825783615122765
+      Holy2_72: 3593941336941823051
+      Holy2_73: -3448657627693549866
+      Holy2_74: 8914233999820367327
+      Holy2_75: -534658199136866681
+      Holy2_76: -7252576507731787908
+      Holy2_77: -5089570583947216007
+      Holy2_78: -5386107043407834805
+      Holy2_79: 2873386563689969760
+      Holy2_8: -1015117103451439337
+      Holy2_80: -5477666915032036648
+      Holy2_81: 2473217646240180472
+      Holy2_82: -3413891343995044495
+      Holy2_83: -5420194701725178313
+      Holy2_84: -8550251003661521005
+      Holy2_85: -6617008110779978294
+      Holy2_86: 5181746907731087995
+      Holy2_87: 1531616344894086752
+      Holy2_88: -4595539277247995048
+      Holy2_89: -1249393036748633503
+      Holy2_9: 540663412648590020
+      Holy2_90: -5818561009418823269
+      Holy2_91: 7307320703303356105
+      Holy2_92: -6284683991547969043
+      Holy2_93: 542640025966100811
+      Holy2_94: 1585797276202259764
+      Holy2_95: 476562398104952147
+      Holy2_96: 2116213082298753516
+      Holy2_97: 8840270424728503051
+      Holy2_98: 2152061165490946951
+      Holy2_99: 3505383936457445264
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

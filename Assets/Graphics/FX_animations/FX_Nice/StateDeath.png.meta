@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 3af291ff38142044f9ac4c041ce48b84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8502719149056182576
+    second: StateDeath_0
+  - first:
+      213: 8146250361321843164
+    second: StateDeath_1
+  - first:
+      213: 3316588669808826313
+    second: StateDeath_2
+  - first:
+      213: 8693348582259873823
+    second: StateDeath_3
+  - first:
+      213: 7972003368686139519
+    second: StateDeath_4
+  - first:
+      213: -8950243349964182233
+    second: StateDeath_5
+  - first:
+      213: -2109659267345341036
+    second: StateDeath_6
+  - first:
+      213: 5903550489907618126
+    second: StateDeath_7
+  - first:
+      213: 6852554546519099074
+    second: StateDeath_8
+  - first:
+      213: -4543494931755165473
+    second: StateDeath_9
+  - first:
+      213: 3142143821667889460
+    second: StateDeath_10
+  - first:
+      213: 7005263108185454934
+    second: StateDeath_11
+  - first:
+      213: 9094501992183900263
+    second: StateDeath_12
+  - first:
+      213: 5078061784890542866
+    second: StateDeath_13
+  - first:
+      213: 6959349967101420807
+    second: StateDeath_14
+  - first:
+      213: 7527633607919477468
+    second: StateDeath_15
+  - first:
+      213: 9191480429409309193
+    second: StateDeath_16
+  - first:
+      213: -3263021654215242011
+    second: StateDeath_17
+  - first:
+      213: 2032858418166565458
+    second: StateDeath_18
+  - first:
+      213: -6563173766546897936
+    second: StateDeath_19
+  - first:
+      213: 5752685406402168937
+    second: StateDeath_20
+  - first:
+      213: 6096452518780351682
+    second: StateDeath_21
+  - first:
+      213: -4392761647868630624
+    second: StateDeath_22
+  - first:
+      213: -7248467129303908919
+    second: StateDeath_23
+  - first:
+      213: 384011216639839453
+    second: StateDeath_24
+  - first:
+      213: 2805171722608084232
+    second: StateDeath_25
+  - first:
+      213: 803804514144195624
+    second: StateDeath_26
+  - first:
+      213: 7329498472398913305
+    second: StateDeath_27
+  - first:
+      213: 739704464394413093
+    second: StateDeath_28
+  - first:
+      213: -2135994680318977078
+    second: StateDeath_29
+  - first:
+      213: 5305312820148559369
+    second: StateDeath_30
+  - first:
+      213: -7449211162020097842
+    second: StateDeath_31
+  - first:
+      213: -5972882074227659379
+    second: StateDeath_32
+  - first:
+      213: 5295432583628318009
+    second: StateDeath_33
+  - first:
+      213: -7362699826664112440
+    second: StateDeath_34
+  - first:
+      213: 736639466776508236
+    second: StateDeath_35
+  - first:
+      213: 4427730400195889636
+    second: StateDeath_36
+  - first:
+      213: -3015068282219324316
+    second: StateDeath_37
+  - first:
+      213: 9190336168315237008
+    second: StateDeath_38
+  - first:
+      213: -2840320450714237021
+    second: StateDeath_39
+  - first:
+      213: -7213065075505147126
+    second: StateDeath_40
+  - first:
+      213: -461917915302931816
+    second: StateDeath_41
+  - first:
+      213: 6876720953723444331
+    second: StateDeath_42
+  - first:
+      213: -6929097392998037864
+    second: StateDeath_43
+  - first:
+      213: -5889393327462003191
+    second: StateDeath_44
+  - first:
+      213: -251467831992505080
+    second: StateDeath_45
+  - first:
+      213: 8197291952703335309
+    second: StateDeath_46
+  - first:
+      213: -4635656346831949680
+    second: StateDeath_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StateDeath_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 687
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039c768440abff570800000000000000
+      internalID: 8502719149056182576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 622
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd96cfdfa8b4d0170800000000000000
+      internalID: 8146250361321843164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 578
+        width: 184
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c75a0ab2d3e60e20800000000000000
+      internalID: 3316588669808826313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 578
+        width: 184
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18de3ae97af4a870800000000000000
+      internalID: 8693348582259873823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_4
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 578
+        width: 184
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7831ca83de32ae60800000000000000
+      internalID: 7972003368686139519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 386
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d2518f7195ac380800000000000000
+      internalID: -8950243349964182233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 385
+        width: 158
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49525c4e21cf8b2e0800000000000000
+      internalID: -2109659267345341036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 386
+        width: 156
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41e68864ef9de150800000000000000
+      internalID: 5903550489907618126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_8
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 386
+        width: 156
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6424dbd0a291f50800000000000000
+      internalID: 6852554546519099074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_9
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 387
+        width: 156
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd812f99e6342f0c0800000000000000
+      internalID: -4543494931755165473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 195
+        width: 156
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431f3b378232b9b20800000000000000
+      internalID: 3142143821667889460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 195
+        width: 156
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659fa817ea1b73160800000000000000
+      internalID: 7005263108185454934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_12
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 223
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768243d8069263e70800000000000000
+      internalID: 9094501992183900263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_13
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 233
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b03e3e946e87640800000000000000
+      internalID: 5078061784890542866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_14
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 212
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705e4b04ce3949060800000000000000
+      internalID: 6959349967101420807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_15
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 222
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2255f12e6877860800000000000000
+      internalID: 7527633607919477468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_16
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 234
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90295e280c2be8f70800000000000000
+      internalID: 9191480429409309193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_17
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 213
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eec71ef71b67b2d0800000000000000
+      internalID: -3263021654215242011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_18
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 205
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a0b75f5f9263c10800000000000000
+      internalID: 2032858418166565458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_19
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 221
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f34fc58b3ceae4a0800000000000000
+      internalID: -6563173766546897936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_20
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 234
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968cc29e5e4a5df40800000000000000
+      internalID: 5752685406402168937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_21
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 215
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c430f3f343fa9450800000000000000
+      internalID: 6096452518780351682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_22
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 214
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9a4db1e86c903c0800000000000000
+      internalID: -4392761647868630624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_23
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 213
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdbeb7cc85486b90800000000000000
+      internalID: -7248467129303908919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_24
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 42
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc459dba28445500800000000000000
+      internalID: 384011216639839453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 40
+        width: 29
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805860cb1d8fde620800000000000000
+      internalID: 2805171722608084232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 55
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8249b6662ffa72b00800000000000000
+      internalID: 803804514144195624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_27
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 82
+        width: 19
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ffa1df60c97b560800000000000000
+      internalID: 7329498472398913305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_28
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 68
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524effe8a45f34a00800000000000000
+      internalID: 739704464394413093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 50
+        width: 30
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb967db72c6b52e0800000000000000
+      internalID: -2135994680318977078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_30
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 87
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ed743b6e140a940800000000000000
+      internalID: 5305312820148559369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_31
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 100
+        width: 17
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0daee6ae51f9890800000000000000
+      internalID: -7449211162020097842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_32
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 84
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dac50366f0c1da0800000000000000
+      internalID: -5972882074227659379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_33
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 79
+        width: 27
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935e13fd0e72d7940800000000000000
+      internalID: 5295432583628318009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_34
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 61
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cefad3548f62d990800000000000000
+      internalID: -7362699826664112440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_35
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 102
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c473fb031b1193a00800000000000000
+      internalID: 736639466776508236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_36
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 115
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9cfd00755727d30800000000000000
+      internalID: 4427730400195889636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_37
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 96
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c15c03f535826d0800000000000000
+      internalID: -3015068282219324316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_38
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 97
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092bad67d02aa8f70800000000000000
+      internalID: 9190336168315237008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_39
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 79
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a786e649972598d0800000000000000
+      internalID: -2840320450714237021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_40
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 35
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a035db0c78b06eb90800000000000000
+      internalID: -7213065075505147126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_41
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 48
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892daf67a10f699f0800000000000000
+      internalID: -461917915302931816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_42
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 30
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cdb22e5450f6f50800000000000000
+      internalID: 6876720953723444331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_43
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 52
+        width: 17
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896444c02a6e6df90800000000000000
+      internalID: -6929097392998037864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_44
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 32
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e4216d8fba44ea0800000000000000
+      internalID: -5889393327462003191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_45
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 86
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d26a1d65b928cf0800000000000000
+      internalID: -251467831992505080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_46
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 43
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bec019991a2c170800000000000000
+      internalID: 8197291952703335309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDeath_47
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 26
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090fb420d17daafb0800000000000000
+      internalID: -4635656346831949680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StateDeath_0: 8502719149056182576
+      StateDeath_1: 8146250361321843164
+      StateDeath_10: 3142143821667889460
+      StateDeath_11: 7005263108185454934
+      StateDeath_12: 9094501992183900263
+      StateDeath_13: 5078061784890542866
+      StateDeath_14: 6959349967101420807
+      StateDeath_15: 7527633607919477468
+      StateDeath_16: 9191480429409309193
+      StateDeath_17: -3263021654215242011
+      StateDeath_18: 2032858418166565458
+      StateDeath_19: -6563173766546897936
+      StateDeath_2: 3316588669808826313
+      StateDeath_20: 5752685406402168937
+      StateDeath_21: 6096452518780351682
+      StateDeath_22: -4392761647868630624
+      StateDeath_23: -7248467129303908919
+      StateDeath_24: 384011216639839453
+      StateDeath_25: 2805171722608084232
+      StateDeath_26: 803804514144195624
+      StateDeath_27: 7329498472398913305
+      StateDeath_28: 739704464394413093
+      StateDeath_29: -2135994680318977078
+      StateDeath_3: 8693348582259873823
+      StateDeath_30: 5305312820148559369
+      StateDeath_31: -7449211162020097842
+      StateDeath_32: -5972882074227659379
+      StateDeath_33: 5295432583628318009
+      StateDeath_34: -7362699826664112440
+      StateDeath_35: 736639466776508236
+      StateDeath_36: 4427730400195889636
+      StateDeath_37: -3015068282219324316
+      StateDeath_38: 9190336168315237008
+      StateDeath_39: -2840320450714237021
+      StateDeath_4: 7972003368686139519
+      StateDeath_40: -7213065075505147126
+      StateDeath_41: -461917915302931816
+      StateDeath_42: 6876720953723444331
+      StateDeath_43: -6929097392998037864
+      StateDeath_44: -5889393327462003191
+      StateDeath_45: -251467831992505080
+      StateDeath_46: 8197291952703335309
+      StateDeath_47: -4635656346831949680
+      StateDeath_5: -8950243349964182233
+      StateDeath_6: -2109659267345341036
+      StateDeath_7: 5903550489907618126
+      StateDeath_8: 6852554546519099074
+      StateDeath_9: -4543494931755165473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

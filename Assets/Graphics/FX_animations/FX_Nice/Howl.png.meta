@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 356af56459871bd4385389806f884b4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6147053478746070586
+    second: Howl_0
+  - first:
+      213: -8038480501739356691
+    second: Howl_1
+  - first:
+      213: -8169678327979689889
+    second: Howl_2
+  - first:
+      213: 1010320242693122340
+    second: Howl_3
+  - first:
+      213: 3038202260946534478
+    second: Howl_4
+  - first:
+      213: -4154972817406742860
+    second: Howl_5
+  - first:
+      213: 2189942138826271213
+    second: Howl_6
+  - first:
+      213: 7589389648674795389
+    second: Howl_7
+  - first:
+      213: -3688594615366453653
+    second: Howl_8
+  - first:
+      213: -66163157536266068
+    second: Howl_9
+  - first:
+      213: -16010003117837646
+    second: Howl_10
+  - first:
+      213: -8150414834740374364
+    second: Howl_11
+  - first:
+      213: 8235174715566392406
+    second: Howl_12
+  - first:
+      213: -8335449962022503517
+    second: Howl_13
+  - first:
+      213: 7371199332214912825
+    second: Howl_14
+  - first:
+      213: 5462291107664639406
+    second: Howl_15
+  - first:
+      213: -369197479197581537
+    second: Howl_16
+  - first:
+      213: -7751485416204964663
+    second: Howl_17
+  - first:
+      213: 8223403546572760956
+    second: Howl_18
+  - first:
+      213: -824922942948579526
+    second: Howl_19
+  - first:
+      213: 1665562373612776182
+    second: Howl_20
+  - first:
+      213: -1287610944815173537
+    second: Howl_21
+  - first:
+      213: 6970591137530351683
+    second: Howl_22
+  - first:
+      213: -6935163359739035676
+    second: Howl_23
+  - first:
+      213: 9107556525537189344
+    second: Howl_24
+  - first:
+      213: 998024906323834879
+    second: Howl_25
+  - first:
+      213: -1416331074276265447
+    second: Howl_26
+  - first:
+      213: -790558789202833625
+    second: Howl_27
+  - first:
+      213: 8064571719635753009
+    second: Howl_28
+  - first:
+      213: 7882046325401423034
+    second: Howl_29
+  - first:
+      213: -3580010072448972466
+    second: Howl_30
+  - first:
+      213: 7476032910045270618
+    second: Howl_31
+  - first:
+      213: -7143996251533015478
+    second: Howl_32
+  - first:
+      213: -2019810174419952138
+    second: Howl_33
+  - first:
+      213: 6102406405878113708
+    second: Howl_34
+  - first:
+      213: -2494148866477831169
+    second: Howl_35
+  - first:
+      213: 8921037363337347341
+    second: Howl_36
+  - first:
+      213: -8277148764526598066
+    second: Howl_37
+  - first:
+      213: 8329283197817867032
+    second: Howl_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Howl_0
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 216
+        width: 161
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e1df70298be4550800000000000000
+      internalID: 6147053478746070586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 228
+        width: 123
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedfbe7c294917090800000000000000
+      internalID: -8038480501739356691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 351
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58309378d87f9e80800000000000000
+      internalID: -8169678327979689889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 203
+        width: 175
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4292c1768e0650e00800000000000000
+      internalID: 1010320242693122340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_4
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 344
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40c187fbdcd92a20800000000000000
+      internalID: 3038202260946534478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 249
+        width: 105
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be211f8c329656c0800000000000000
+      internalID: -4154972817406742860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_6
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 330
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9266fb5cc346e10800000000000000
+      internalID: 2189942138826271213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_7
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 328
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fa947dcade25960800000000000000
+      internalID: 7589389648674795389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_8
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 301
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66f9a68dba7fccc0800000000000000
+      internalID: -3688594615366453653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_9
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 311
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca825d175f0f41ff0800000000000000
+      internalID: -66163157536266068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_10
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 307
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2fe4bacfe17cff0800000000000000
+      internalID: -16010003117837646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_11
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 306
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4d93bf3e8e3ee80800000000000000
+      internalID: -8150414834740374364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_12
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 268
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6540d90a5c7394270800000000000000
+      internalID: 8235174715566392406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_13
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 292
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abfa923c68825c80800000000000000
+      internalID: -8335449962022503517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_14
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 257
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93734450db2cb4660800000000000000
+      internalID: 7371199332214912825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_15
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 243
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5302c62d4fdcb40800000000000000
+      internalID: 5462291107664639406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_16
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 260
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f557849d850eaf0800000000000000
+      internalID: -369197479197581537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_17
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 228
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc6b7545113d6490800000000000000
+      internalID: -7751485416204964663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_18
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 243
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c772826c4f56f1270800000000000000
+      internalID: 8223403546572760956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_19
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 213
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37ea7a34f84d84f0800000000000000
+      internalID: -824922942948579526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 156
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa227e77244d1710800000000000000
+      internalID: 1665562373612776182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 138
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50f261faac712ee0800000000000000
+      internalID: -1287610944815173537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_22
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 14
+        width: 171
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3409bf235b38cb060800000000000000
+      internalID: 6970591137530351683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_23
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 6
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef337b1ba951cf90800000000000000
+      internalID: -6935163359739035676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_24
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 6
+        width: 179
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed5f64f76a846e70800000000000000
+      internalID: 9107556525537189344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 140
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7bc625d52b9dd00800000000000000
+      internalID: 998024906323834879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_26
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 51
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9127a69546e285ce0800000000000000
+      internalID: -1416331074276265447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 118
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f808348fe5705f0800000000000000
+      internalID: -790558789202833625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_28
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 120
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138dc86404d1bef60800000000000000
+      internalID: 8064571719635753009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 116
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc89b04f57a26d60800000000000000
+      internalID: 7882046325401423034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49cb5b8ecf315ec0800000000000000
+      internalID: -3580010072448972466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52d06c625430c760800000000000000
+      internalID: 7476032910045270618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_32
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 78
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4607ae724d6bdc90800000000000000
+      internalID: -7143996251533015478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 67
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd9af7095138f3e0800000000000000
+      internalID: -2019810174419952138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 68
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5ee615b4a10b450800000000000000
+      internalID: 6102406405878113708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 42
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb45ac02d0036dd0800000000000000
+      internalID: -2494148866477831169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 50
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01c5bd5734edcb70800000000000000
+      internalID: 8921037363337347341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 38
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4824598d09a12d80800000000000000
+      internalID: -8277148764526598066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Howl_38
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 21
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b409f10fe879370800000000000000
+      internalID: 8329283197817867032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Howl_0: 6147053478746070586
+      Howl_1: -8038480501739356691
+      Howl_10: -16010003117837646
+      Howl_11: -8150414834740374364
+      Howl_12: 8235174715566392406
+      Howl_13: -8335449962022503517
+      Howl_14: 7371199332214912825
+      Howl_15: 5462291107664639406
+      Howl_16: -369197479197581537
+      Howl_17: -7751485416204964663
+      Howl_18: 8223403546572760956
+      Howl_19: -824922942948579526
+      Howl_2: -8169678327979689889
+      Howl_20: 1665562373612776182
+      Howl_21: -1287610944815173537
+      Howl_22: 6970591137530351683
+      Howl_23: -6935163359739035676
+      Howl_24: 9107556525537189344
+      Howl_25: 998024906323834879
+      Howl_26: -1416331074276265447
+      Howl_27: -790558789202833625
+      Howl_28: 8064571719635753009
+      Howl_29: 7882046325401423034
+      Howl_3: 1010320242693122340
+      Howl_30: -3580010072448972466
+      Howl_31: 7476032910045270618
+      Howl_32: -7143996251533015478
+      Howl_33: -2019810174419952138
+      Howl_34: 6102406405878113708
+      Howl_35: -2494148866477831169
+      Howl_36: 8921037363337347341
+      Howl_37: -8277148764526598066
+      Howl_38: 8329283197817867032
+      Howl_4: 3038202260946534478
+      Howl_5: -4154972817406742860
+      Howl_6: 2189942138826271213
+      Howl_7: 7589389648674795389
+      Howl_8: -3688594615366453653
+      Howl_9: -66163157536266068
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

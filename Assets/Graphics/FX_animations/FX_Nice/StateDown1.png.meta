@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: b079a9b0564f85346a7cf5387d214e50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 597871972123689234
+    second: StateDown1_0
+  - first:
+      213: 5020970630052745790
+    second: StateDown1_1
+  - first:
+      213: -577036895315864279
+    second: StateDown1_2
+  - first:
+      213: -2954037430860141849
+    second: StateDown1_3
+  - first:
+      213: 3328056612936255888
+    second: StateDown1_4
+  - first:
+      213: 186534659271659283
+    second: StateDown1_5
+  - first:
+      213: -2768839189522200207
+    second: StateDown1_6
+  - first:
+      213: 6999978602707098347
+    second: StateDown1_7
+  - first:
+      213: 5628450515273533725
+    second: StateDown1_8
+  - first:
+      213: -2776914522746985102
+    second: StateDown1_9
+  - first:
+      213: -8796895229638793517
+    second: StateDown1_10
+  - first:
+      213: -931918737430605572
+    second: StateDown1_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StateDown1_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 503
+        width: 135
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211489714611c4800800000000000000
+      internalID: 597871972123689234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown1_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 493
+        width: 135
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3296ff8f221ea540800000000000000
+      internalID: 5020970630052745790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown1_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 459
+        width: 135
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92557604004fdf7f0800000000000000
+      internalID: -577036895315864279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown1_3
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 412
+        width: 135
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaaf589b962107d0800000000000000
+      internalID: -2954037430860141849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown1_4
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 406
+        width: 149
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099847e4bd1af2e20800000000000000
+      internalID: 3328056612936255888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown1_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 212
+        width: 162
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f8f28c844b69200800000000000000
+      internalID: 186534659271659283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown1_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 209
+        width: 173
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17949545d6b1399d0800000000000000
+      internalID: -2768839189522200207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown1_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 207
+        width: 185
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea11b1a37be42160800000000000000
+      internalID: 6999978602707098347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown1_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 206
+        width: 192
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d194ebe3ce54c1e40800000000000000
+      internalID: 5628450515273533725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown1_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 205
+        width: 192
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275ea0c44fa6679d0800000000000000
+      internalID: -2776914522746985102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown1_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3
+        width: 147
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d62d0785662be580800000000000000
+      internalID: -8796895229638793517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StateDown1_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 27
+        width: 43
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf01be788d82113f0800000000000000
+      internalID: -931918737430605572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StateDown1_0: 597871972123689234
+      StateDown1_1: 5020970630052745790
+      StateDown1_10: -8796895229638793517
+      StateDown1_11: -931918737430605572
+      StateDown1_2: -577036895315864279
+      StateDown1_3: -2954037430860141849
+      StateDown1_4: 3328056612936255888
+      StateDown1_5: 186534659271659283
+      StateDown1_6: -2768839189522200207
+      StateDown1_7: 6999978602707098347
+      StateDown1_8: 5628450515273533725
+      StateDown1_9: -2776914522746985102
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
