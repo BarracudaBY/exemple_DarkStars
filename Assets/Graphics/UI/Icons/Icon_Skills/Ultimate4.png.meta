@@ -103,12 +103,12 @@ TextureImporter:
       name: Ultimate4_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1008
-        height: 1008
+        x: 124
+        y: 547
+        width: 340
+        height: 340
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -121,11 +121,77 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Ultimate4_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 547
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22361ea44eeb614438669c96eae485dc
+      internalID: -1049214545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ultimate4_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 127
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34dda455864d0d429c1bf4ca14d6c5c
+      internalID: -79842869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ultimate4_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 127
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a6bdef9bf24fa4fa1cc8c95b8f4aa3
+      internalID: 1504306000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 58631fd0a95143d46b36e735243e3913
     internalID: 0
     vertices: []
     indices: 
@@ -133,9 +199,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":2.0},"gridSpriteSize":{"x":504.0,"y":504.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Ultimate4_0: -1162303287091223222
+      Ultimate4_1: -1049214545
+      Ultimate4_2: -79842869
+      Ultimate4_3: 1504306000
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayName: Timeless attack
   description: The Time echo can perform 1 attack.
-  icon: {fileID: 452752024, guid: 7ae0115109b4a6f42a4f7ad59397d09b, type: 3}
+  icon: {fileID: -2063224314, guid: f0ea5bcc863409940b445984412ebe18, type: 3}
   cost: 0
   unlockedByDefault: 0
   skillType: 1

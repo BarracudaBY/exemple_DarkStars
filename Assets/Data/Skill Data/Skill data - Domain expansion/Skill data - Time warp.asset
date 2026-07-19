@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayName: Time warp
   description: Create a field that drastically slows all enemies caught within.
-  icon: {fileID: -248090357, guid: 7ae0115109b4a6f42a4f7ad59397d09b, type: 3}
+  icon: {fileID: -197673530, guid: f0ea5bcc863409940b445984412ebe18, type: 3}
   cost: 4
   unlockedByDefault: 0
   skillType: 4

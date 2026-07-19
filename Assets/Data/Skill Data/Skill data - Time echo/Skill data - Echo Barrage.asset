@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayName: Echo Barrage
   description: The Time echo can perform 3 attack.
-  icon: {fileID: 1194482098, guid: 7ae0115109b4a6f42a4f7ad59397d09b, type: 3}
+  icon: {fileID: -1940120233, guid: 1fae81393468740469af787df05b4429, type: 3}
   cost: 2
   unlockedByDefault: 0
   skillType: 1

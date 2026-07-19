@@ -103,12 +103,12 @@ TextureImporter:
       name: Ultimate2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1056
-        height: 1056
+        x: 113
+        y: 112
+        width: 385
+        height: 385
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -121,11 +121,77 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Ultimate2_1
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 111
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecb4e5558be31047aef169ad9215b09
+      internalID: -1652240907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ultimate2_2
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 560
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c94292c92fba84dba20b6989a0df98
+      internalID: -93980636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ultimate2_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 559
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ac09bc91b631c46877cb8c31d00b41
+      internalID: 165033827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 09c2cd465a4e83a42b9de826fe404274
     internalID: 0
     vertices: []
     indices: 
@@ -136,6 +202,9 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Ultimate2_0: 2387410693674919007
+      Ultimate2_1: -1652240907
+      Ultimate2_2: -93980636
+      Ultimate2_3: 165033827
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

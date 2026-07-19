@@ -16,7 +16,7 @@ MonoBehaviour:
   description: 'Create a time echo of yourself.
 
     The echo will distracts enemies.'
-  icon: {fileID: -7293604, guid: 7ae0115109b4a6f42a4f7ad59397d09b, type: 3}
+  icon: {fileID: -1049214545, guid: aebb082730e1aba4aafd91f44eae4a84, type: 3}
   cost: 1
   unlockedByDefault: 0
   skillType: 1

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayName: Endless possibility
   description: The Time echo has a 30% chance to duplicate itself.
-  icon: {fileID: 900550846, guid: 7ae0115109b4a6f42a4f7ad59397d09b, type: 3}
+  icon: {fileID: 411839258, guid: 1fae81393468740469af787df05b4429, type: 3}
   cost: 2
   unlockedByDefault: 0
   skillType: 1

@@ -103,12 +103,12 @@ TextureImporter:
       name: SkullGod_08_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1280
-        height: 1280
+        x: 824
+        y: 512
+        width: 255
+        height: 255
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -121,11 +121,187 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: SkullGod_08_1
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa83e9438d1356743a6986c84528ce58
+      internalID: -1737202807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullGod_08_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd7a467301a19d468b2fa929e6318a0
+      internalID: -1832213209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullGod_08_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 192
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004fda7426a7f2440bc1a27080179b45
+      internalID: -566784310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullGod_08_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 192
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df606d32e6f51474ea9fead33b377e6c
+      internalID: 378276242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullGod_08_5
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 192
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2637ec050114d3f47b56db1bfe414863
+      internalID: 1542790974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullGod_08_6
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 832
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819baef06e2720c41abff4de07fb22df
+      internalID: -830256565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullGod_08_7
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 832
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aeba049e40a2245b6fd7ad4a72c905
+      internalID: 282378483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullGod_08_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 832
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e942be271bda6489c8bbb092507ef4
+      internalID: 969561299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4c9074ecc3202934c97283d191cbfa94
     internalID: 0
     vertices: []
     indices: 
@@ -136,6 +312,14 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       SkullGod_08_0: 5662766563008252689
+      SkullGod_08_1: -1737202807
+      SkullGod_08_2: -1832213209
+      SkullGod_08_3: -566784310
+      SkullGod_08_4: 378276242
+      SkullGod_08_5: 1542790974
+      SkullGod_08_6: -830256565
+      SkullGod_08_7: 282378483
+      SkullGod_08_8: 969561299
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
