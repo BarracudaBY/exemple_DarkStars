@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fdec2b8c8771564d827d6aecd604254, type: 3}
+  m_Name: Gore Profile -Skeleton
+  m_EditorClassIdentifier: Assembly-CSharp::GoreProfile
+  bloodBurstPrefab: {fileID: 3439188645801062783, guid: efdb59d171fe506429b4d3b2a97b8bb6, type: 3}
+  bloodParticleCount: 10
+  bloodColor: {r: 0.6, g: 0, b: 0, a: 1}
+  decalSprites: []
+  decalSpawnChance: 0.8
+  decalLifetime: 15
+  decalFadeDuration: 2
+  useDismemberment: 1
+  gibSprites:
+  - {fileID: -2389324869536097014, guid: 061f2cfa3f531464bb3af243d0777ee1, type: 3}
+  - {fileID: -976049448923943657, guid: 061f2cfa3f531464bb3af243d0777ee1, type: 3}
+  - {fileID: 6404938931472421484, guid: 061f2cfa3f531464bb3af243d0777ee1, type: 3}
+  - {fileID: -7419043375585603658, guid: 061f2cfa3f531464bb3af243d0777ee1, type: 3}
+  - {fileID: -7454603087212978598, guid: 061f2cfa3f531464bb3af243d0777ee1, type: 3}
+  gibCount: 5
+  gibMinForce: 2
+  gibMaxForce: 5
+  gibTorque: 180
+  gibLifetime: 4
+  gibFadeDuration: 1
+  useHitStop: 1
+  hitStopDuration: 0.06
+  useCameraShake: 1
+  cameraShakeIntensity: 0.3
+  cameraShakeDuration: 0.2
