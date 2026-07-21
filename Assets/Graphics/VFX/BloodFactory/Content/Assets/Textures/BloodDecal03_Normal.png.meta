@@ -1,0 +1,5837 @@
+fileFormatVersion: 2
+guid: 9fb80ef6fc6ea3a49897c2501f483a1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5776778804849244918
+    second: BloodDecal03_Normal_0
+  - first:
+      213: -8224987814296710018
+    second: BloodDecal03_Normal_1
+  - first:
+      213: 4301498441731802195
+    second: BloodDecal03_Normal_2
+  - first:
+      213: 533984869907589854
+    second: BloodDecal03_Normal_3
+  - first:
+      213: -2632322293494296482
+    second: BloodDecal03_Normal_4
+  - first:
+      213: 6909966796940307104
+    second: BloodDecal03_Normal_5
+  - first:
+      213: -6322810993628107068
+    second: BloodDecal03_Normal_6
+  - first:
+      213: 8383673239227763838
+    second: BloodDecal03_Normal_7
+  - first:
+      213: 7374872345945774580
+    second: BloodDecal03_Normal_8
+  - first:
+      213: 8276263842955039139
+    second: BloodDecal03_Normal_9
+  - first:
+      213: -8736169692312040123
+    second: BloodDecal03_Normal_10
+  - first:
+      213: -7960410273047018751
+    second: BloodDecal03_Normal_11
+  - first:
+      213: -4519014196667318942
+    second: BloodDecal03_Normal_12
+  - first:
+      213: -3875054830322205832
+    second: BloodDecal03_Normal_13
+  - first:
+      213: 8269755297848486084
+    second: BloodDecal03_Normal_14
+  - first:
+      213: -3256018261249647038
+    second: BloodDecal03_Normal_15
+  - first:
+      213: 1297676980790960904
+    second: BloodDecal03_Normal_16
+  - first:
+      213: -3109058721658516338
+    second: BloodDecal03_Normal_17
+  - first:
+      213: -3334227352167278037
+    second: BloodDecal03_Normal_18
+  - first:
+      213: -2951781950737348904
+    second: BloodDecal03_Normal_19
+  - first:
+      213: -8146941894089929405
+    second: BloodDecal03_Normal_20
+  - first:
+      213: 4970193624291764415
+    second: BloodDecal03_Normal_21
+  - first:
+      213: 905057413401877665
+    second: BloodDecal03_Normal_22
+  - first:
+      213: 8497307465341128147
+    second: BloodDecal03_Normal_23
+  - first:
+      213: -5464167547665080067
+    second: BloodDecal03_Normal_24
+  - first:
+      213: 9210218710495728044
+    second: BloodDecal03_Normal_25
+  - first:
+      213: -879931604434304156
+    second: BloodDecal03_Normal_26
+  - first:
+      213: 7100300456856980720
+    second: BloodDecal03_Normal_27
+  - first:
+      213: 4071357352765642097
+    second: BloodDecal03_Normal_28
+  - first:
+      213: 5685270572049511403
+    second: BloodDecal03_Normal_29
+  - first:
+      213: -5236981127060881305
+    second: BloodDecal03_Normal_30
+  - first:
+      213: 5051716129094050817
+    second: BloodDecal03_Normal_31
+  - first:
+      213: 8185046920471153016
+    second: BloodDecal03_Normal_32
+  - first:
+      213: -3785751845213785860
+    second: BloodDecal03_Normal_33
+  - first:
+      213: -3624278079054143181
+    second: BloodDecal03_Normal_34
+  - first:
+      213: -3234242250276253991
+    second: BloodDecal03_Normal_35
+  - first:
+      213: 8468854304113688953
+    second: BloodDecal03_Normal_36
+  - first:
+      213: 1160305523335267707
+    second: BloodDecal03_Normal_37
+  - first:
+      213: -3142223295316637396
+    second: BloodDecal03_Normal_38
+  - first:
+      213: 6234966017770337590
+    second: BloodDecal03_Normal_39
+  - first:
+      213: -4711694361015510369
+    second: BloodDecal03_Normal_40
+  - first:
+      213: -3751394469247944603
+    second: BloodDecal03_Normal_41
+  - first:
+      213: 2362827666647992026
+    second: BloodDecal03_Normal_42
+  - first:
+      213: 4602352604403597068
+    second: BloodDecal03_Normal_43
+  - first:
+      213: 4204778501582254318
+    second: BloodDecal03_Normal_44
+  - first:
+      213: 7808149248823907665
+    second: BloodDecal03_Normal_45
+  - first:
+      213: -4532709007401805000
+    second: BloodDecal03_Normal_46
+  - first:
+      213: 7721494584845472332
+    second: BloodDecal03_Normal_47
+  - first:
+      213: 6083414872769281000
+    second: BloodDecal03_Normal_48
+  - first:
+      213: -8198412686143884677
+    second: BloodDecal03_Normal_49
+  - first:
+      213: 5327022091655306923
+    second: BloodDecal03_Normal_50
+  - first:
+      213: -5448543892787214838
+    second: BloodDecal03_Normal_51
+  - first:
+      213: -3787880698448809604
+    second: BloodDecal03_Normal_52
+  - first:
+      213: -4446512149173691075
+    second: BloodDecal03_Normal_53
+  - first:
+      213: -449429406612496934
+    second: BloodDecal03_Normal_54
+  - first:
+      213: 5663484959430753337
+    second: BloodDecal03_Normal_55
+  - first:
+      213: -4606078276015442277
+    second: BloodDecal03_Normal_56
+  - first:
+      213: 3133314668162326182
+    second: BloodDecal03_Normal_57
+  - first:
+      213: -797333646712359120
+    second: BloodDecal03_Normal_58
+  - first:
+      213: 2158597909775083494
+    second: BloodDecal03_Normal_59
+  - first:
+      213: -7084333921562830226
+    second: BloodDecal03_Normal_60
+  - first:
+      213: -3952381738563854641
+    second: BloodDecal03_Normal_61
+  - first:
+      213: -4317811480074059060
+    second: BloodDecal03_Normal_62
+  - first:
+      213: 7552079524904297867
+    second: BloodDecal03_Normal_63
+  - first:
+      213: 2390392950402463402
+    second: BloodDecal03_Normal_64
+  - first:
+      213: -1810268052038632636
+    second: BloodDecal03_Normal_65
+  - first:
+      213: 1254965385754090148
+    second: BloodDecal03_Normal_66
+  - first:
+      213: 3483691433779359264
+    second: BloodDecal03_Normal_67
+  - first:
+      213: -4689582342596748893
+    second: BloodDecal03_Normal_68
+  - first:
+      213: 7808851716192696488
+    second: BloodDecal03_Normal_69
+  - first:
+      213: -6178292439763160016
+    second: BloodDecal03_Normal_70
+  - first:
+      213: -5500494995602119084
+    second: BloodDecal03_Normal_71
+  - first:
+      213: -3461106855472965253
+    second: BloodDecal03_Normal_72
+  - first:
+      213: 8358448381336983896
+    second: BloodDecal03_Normal_73
+  - first:
+      213: 4813716151348397902
+    second: BloodDecal03_Normal_74
+  - first:
+      213: -1028775534121092543
+    second: BloodDecal03_Normal_75
+  - first:
+      213: -4818033776071314399
+    second: BloodDecal03_Normal_76
+  - first:
+      213: 2404652518059569480
+    second: BloodDecal03_Normal_77
+  - first:
+      213: -871524648491891615
+    second: BloodDecal03_Normal_78
+  - first:
+      213: 8218051740926447237
+    second: BloodDecal03_Normal_79
+  - first:
+      213: -3785021051104667055
+    second: BloodDecal03_Normal_80
+  - first:
+      213: 4006559158792924073
+    second: BloodDecal03_Normal_81
+  - first:
+      213: -3010544585539015829
+    second: BloodDecal03_Normal_82
+  - first:
+      213: -33427656068423602
+    second: BloodDecal03_Normal_83
+  - first:
+      213: 8565691232434686234
+    second: BloodDecal03_Normal_84
+  - first:
+      213: 6213666410639285263
+    second: BloodDecal03_Normal_85
+  - first:
+      213: 2541452009602318330
+    second: BloodDecal03_Normal_86
+  - first:
+      213: 4998288428483898920
+    second: BloodDecal03_Normal_87
+  - first:
+      213: -5065528405623611633
+    second: BloodDecal03_Normal_88
+  - first:
+      213: -4890164318822236158
+    second: BloodDecal03_Normal_89
+  - first:
+      213: -7487199436346355032
+    second: BloodDecal03_Normal_90
+  - first:
+      213: -8482449547087466674
+    second: BloodDecal03_Normal_91
+  - first:
+      213: 8825250537057517266
+    second: BloodDecal03_Normal_92
+  - first:
+      213: -1382284708334032368
+    second: BloodDecal03_Normal_93
+  - first:
+      213: 1881400616495628804
+    second: BloodDecal03_Normal_94
+  - first:
+      213: -3665847641786109415
+    second: BloodDecal03_Normal_95
+  - first:
+      213: -4968226697841578744
+    second: BloodDecal03_Normal_96
+  - first:
+      213: -7645936920499541518
+    second: BloodDecal03_Normal_97
+  - first:
+      213: 3328382337552386226
+    second: BloodDecal03_Normal_98
+  - first:
+      213: 2492506736928663529
+    second: BloodDecal03_Normal_99
+  - first:
+      213: 5206413617500368168
+    second: BloodDecal03_Normal_100
+  - first:
+      213: -9212848917371325617
+    second: BloodDecal03_Normal_101
+  - first:
+      213: -3121349171909403150
+    second: BloodDecal03_Normal_102
+  - first:
+      213: 7785302432428078139
+    second: BloodDecal03_Normal_103
+  - first:
+      213: 5049469005672383957
+    second: BloodDecal03_Normal_104
+  - first:
+      213: 9033306529373955015
+    second: BloodDecal03_Normal_105
+  - first:
+      213: 5469574698190297606
+    second: BloodDecal03_Normal_106
+  - first:
+      213: 2403603926191642796
+    second: BloodDecal03_Normal_107
+  - first:
+      213: 7706656946668603796
+    second: BloodDecal03_Normal_108
+  - first:
+      213: -4505155517442818403
+    second: BloodDecal03_Normal_109
+  - first:
+      213: -137112752431438853
+    second: BloodDecal03_Normal_110
+  - first:
+      213: -7279576577470703160
+    second: BloodDecal03_Normal_111
+  - first:
+      213: 6503660864270317592
+    second: BloodDecal03_Normal_112
+  - first:
+      213: -5636364296800727270
+    second: BloodDecal03_Normal_113
+  - first:
+      213: 7280895094669166033
+    second: BloodDecal03_Normal_114
+  - first:
+      213: 2609211357028040396
+    second: BloodDecal03_Normal_115
+  - first:
+      213: 4849973457993145870
+    second: BloodDecal03_Normal_116
+  - first:
+      213: -2907608545816955718
+    second: BloodDecal03_Normal_117
+  - first:
+      213: 3205797587600345707
+    second: BloodDecal03_Normal_118
+  - first:
+      213: 7531533199049882754
+    second: BloodDecal03_Normal_119
+  - first:
+      213: -636783091997542654
+    second: BloodDecal03_Normal_120
+  - first:
+      213: 7962269829664679515
+    second: BloodDecal03_Normal_121
+  - first:
+      213: 347073082967751852
+    second: BloodDecal03_Normal_122
+  - first:
+      213: -3073331189410649619
+    second: BloodDecal03_Normal_123
+  - first:
+      213: -7253280167804640847
+    second: BloodDecal03_Normal_124
+  - first:
+      213: -5670397427742567164
+    second: BloodDecal03_Normal_125
+  - first:
+      213: 2679485587461107041
+    second: BloodDecal03_Normal_126
+  - first:
+      213: -6429111492983862849
+    second: BloodDecal03_Normal_127
+  - first:
+      213: 7917069854284557548
+    second: BloodDecal03_Normal_128
+  - first:
+      213: -7077395521200029453
+    second: BloodDecal03_Normal_129
+  - first:
+      213: 8778033834434732354
+    second: BloodDecal03_Normal_130
+  - first:
+      213: -5371470576850067398
+    second: BloodDecal03_Normal_131
+  - first:
+      213: 2487709645485492174
+    second: BloodDecal03_Normal_132
+  - first:
+      213: 7172206856098675491
+    second: BloodDecal03_Normal_133
+  - first:
+      213: 2229866672829460189
+    second: BloodDecal03_Normal_134
+  - first:
+      213: -7784965471267286856
+    second: BloodDecal03_Normal_135
+  - first:
+      213: 8949925904712766718
+    second: BloodDecal03_Normal_136
+  - first:
+      213: 3741712258049096709
+    second: BloodDecal03_Normal_137
+  - first:
+      213: 1509707531467426691
+    second: BloodDecal03_Normal_138
+  - first:
+      213: 2399607772609396736
+    second: BloodDecal03_Normal_139
+  - first:
+      213: -5905043439753561933
+    second: BloodDecal03_Normal_140
+  - first:
+      213: -3857517958227283023
+    second: BloodDecal03_Normal_141
+  - first:
+      213: 2729482202464474351
+    second: BloodDecal03_Normal_142
+  - first:
+      213: 3641773123650038644
+    second: BloodDecal03_Normal_143
+  - first:
+      213: 1969525473818174421
+    second: BloodDecal03_Normal_144
+  - first:
+      213: 5349334444203811953
+    second: BloodDecal03_Normal_145
+  - first:
+      213: 6202806028046860282
+    second: BloodDecal03_Normal_146
+  - first:
+      213: -62841987808633151
+    second: BloodDecal03_Normal_147
+  - first:
+      213: -8029644565726810379
+    second: BloodDecal03_Normal_148
+  - first:
+      213: 7049507642127630980
+    second: BloodDecal03_Normal_149
+  - first:
+      213: -8234091028119130352
+    second: BloodDecal03_Normal_150
+  - first:
+      213: 6447609271818943458
+    second: BloodDecal03_Normal_151
+  - first:
+      213: 7324832726644659916
+    second: BloodDecal03_Normal_152
+  - first:
+      213: -3007127064225525213
+    second: BloodDecal03_Normal_153
+  - first:
+      213: 8930477866166505016
+    second: BloodDecal03_Normal_154
+  - first:
+      213: 5034966535290988346
+    second: BloodDecal03_Normal_155
+  - first:
+      213: 4293633182861983550
+    second: BloodDecal03_Normal_156
+  - first:
+      213: 1794355480900231339
+    second: BloodDecal03_Normal_157
+  - first:
+      213: 6872371498692468077
+    second: BloodDecal03_Normal_158
+  - first:
+      213: 4015269794788987917
+    second: BloodDecal03_Normal_159
+  - first:
+      213: -6990978778733493916
+    second: BloodDecal03_Normal_160
+  - first:
+      213: -7345551686019066956
+    second: BloodDecal03_Normal_161
+  - first:
+      213: -2992653370285495166
+    second: BloodDecal03_Normal_162
+  - first:
+      213: -4973454057186318332
+    second: BloodDecal03_Normal_163
+  - first:
+      213: -9045608576926715240
+    second: BloodDecal03_Normal_164
+  - first:
+      213: 1402695180963157496
+    second: BloodDecal03_Normal_165
+  - first:
+      213: 7446192726201207804
+    second: BloodDecal03_Normal_166
+  - first:
+      213: 3420707582652775620
+    second: BloodDecal03_Normal_167
+  - first:
+      213: -3423836603757743997
+    second: BloodDecal03_Normal_168
+  - first:
+      213: 5202043852447684981
+    second: BloodDecal03_Normal_169
+  - first:
+      213: -1779562561913285461
+    second: BloodDecal03_Normal_170
+  - first:
+      213: -2252660549157928081
+    second: BloodDecal03_Normal_171
+  - first:
+      213: -6251496546707642508
+    second: BloodDecal03_Normal_172
+  - first:
+      213: -5920178358292741768
+    second: BloodDecal03_Normal_173
+  - first:
+      213: -7887940710733175796
+    second: BloodDecal03_Normal_174
+  - first:
+      213: -166265149838886076
+    second: BloodDecal03_Normal_175
+  - first:
+      213: -2726087155350821109
+    second: BloodDecal03_Normal_176
+  - first:
+      213: -2375227595545291195
+    second: BloodDecal03_Normal_177
+  - first:
+      213: -8763203993937072006
+    second: BloodDecal03_Normal_178
+  - first:
+      213: 2770651654984876496
+    second: BloodDecal03_Normal_179
+  - first:
+      213: -1635582284265067686
+    second: BloodDecal03_Normal_180
+  - first:
+      213: 2413732564839705674
+    second: BloodDecal03_Normal_181
+  - first:
+      213: -1790698307570033973
+    second: BloodDecal03_Normal_182
+  - first:
+      213: 2193802921994559829
+    second: BloodDecal03_Normal_183
+  - first:
+      213: -7072104402634174479
+    second: BloodDecal03_Normal_184
+  - first:
+      213: -7793530181809312427
+    second: BloodDecal03_Normal_185
+  - first:
+      213: -482020331844072765
+    second: BloodDecal03_Normal_186
+  - first:
+      213: 4299588016773146454
+    second: BloodDecal03_Normal_187
+  - first:
+      213: 3845897912092665865
+    second: BloodDecal03_Normal_188
+  - first:
+      213: 4824869652503328772
+    second: BloodDecal03_Normal_189
+  - first:
+      213: -6451241626626200992
+    second: BloodDecal03_Normal_190
+  - first:
+      213: 2714877790797778481
+    second: BloodDecal03_Normal_191
+  - first:
+      213: 6702553319633193409
+    second: BloodDecal03_Normal_192
+  - first:
+      213: 8811905985522781443
+    second: BloodDecal03_Normal_193
+  - first:
+      213: 4464465205031813261
+    second: BloodDecal03_Normal_194
+  - first:
+      213: -4647600250089653292
+    second: BloodDecal03_Normal_195
+  - first:
+      213: 7410821563390837448
+    second: BloodDecal03_Normal_196
+  - first:
+      213: -7989288373354373407
+    second: BloodDecal03_Normal_197
+  - first:
+      213: 4051679114777559729
+    second: BloodDecal03_Normal_198
+  - first:
+      213: 4222463533286834769
+    second: BloodDecal03_Normal_199
+  - first:
+      213: -3476125020743779567
+    second: BloodDecal03_Normal_200
+  - first:
+      213: 6930858771198734266
+    second: BloodDecal03_Normal_201
+  - first:
+      213: 3516968369675841348
+    second: BloodDecal03_Normal_202
+  - first:
+      213: 8370232635455799768
+    second: BloodDecal03_Normal_203
+  - first:
+      213: 5990954737101470961
+    second: BloodDecal03_Normal_204
+  - first:
+      213: 1586295291931451886
+    second: BloodDecal03_Normal_205
+  - first:
+      213: 4311449772371344932
+    second: BloodDecal03_Normal_206
+  - first:
+      213: 3545774352107190871
+    second: BloodDecal03_Normal_207
+  - first:
+      213: -2322293952643276528
+    second: BloodDecal03_Normal_208
+  - first:
+      213: -4834172156290602084
+    second: BloodDecal03_Normal_209
+  - first:
+      213: -985422475452997137
+    second: BloodDecal03_Normal_210
+  - first:
+      213: 6245312540755261792
+    second: BloodDecal03_Normal_211
+  - first:
+      213: -8381100812277396617
+    second: BloodDecal03_Normal_212
+  - first:
+      213: 3594510123587076101
+    second: BloodDecal03_Normal_213
+  - first:
+      213: 1754088765393678595
+    second: BloodDecal03_Normal_214
+  - first:
+      213: 5285364155546522193
+    second: BloodDecal03_Normal_215
+  - first:
+      213: -7792151702743135133
+    second: BloodDecal03_Normal_216
+  - first:
+      213: 9121219953565051189
+    second: BloodDecal03_Normal_217
+  - first:
+      213: -1544219442798906544
+    second: BloodDecal03_Normal_218
+  - first:
+      213: 2293471905507827856
+    second: BloodDecal03_Normal_219
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_0
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 31
+        width: 883
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0584fe9842c4dfa0800000000000000
+      internalID: -5776778804849244918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 984
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e749de62929fadd80800000000000000
+      internalID: -8224987814296710018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 972
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354025dda0ef1bb30800000000000000
+      internalID: 4301498441731802195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 970
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda6646f868196700800000000000000
+      internalID: 533984869907589854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 952
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e505ee912dc187bd0800000000000000
+      internalID: -2632322293494296482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 973
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaee55f03225ef50800000000000000
+      internalID: 6909966796940307104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 951
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceacd6a6ecd048a0800000000000000
+      internalID: -6322810993628107068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_7
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 958
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c8e19746ac85470800000000000000
+      internalID: 8383673239227763838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 946
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f913fb235fc85660800000000000000
+      internalID: 7374872345945774580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 941
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a19eba9d123bd270800000000000000
+      internalID: 8276263842955039139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 945
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d053873f3e2c680800000000000000
+      internalID: -8736169692312040123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 941
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10389a06801f68190800000000000000
+      internalID: -7960410273047018751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_12
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 945
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d72b8e78c3941c0800000000000000
+      internalID: -4519014196667318942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 943
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bbb79a92a093ac0800000000000000
+      internalID: -3875054830322205832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_14
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 946
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8e9abd0a214c270800000000000000
+      internalID: 8269755297848486084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_15
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 939
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e970c74ac40d2d0800000000000000
+      internalID: -3256018261249647038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 936
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8032f31b656420210800000000000000
+      internalID: 1297676980790960904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_17
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 938
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cc6bda0976ad4d0800000000000000
+      internalID: -3109058721658516338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_18
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 934
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a9da183e17ab1d0800000000000000
+      internalID: -3334227352167278037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_19
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 935
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d604eb74f92907d0800000000000000
+      internalID: -2951781950737348904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_20
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 939
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d850df28f30fe80800000000000000
+      internalID: -8146941894089929405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_21
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 933
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb862d0a4cca9f440800000000000000
+      internalID: 4970193624291764415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_22
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 912
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac172b1ce86f8c00800000000000000
+      internalID: 905057413401877665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_23
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 925
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddceea7e108ce570800000000000000
+      internalID: 8497307465341128147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 922
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0a438d0906b24b0800000000000000
+      internalID: -5464167547665080067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_25
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 926
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca111ce8e1541df70800000000000000
+      internalID: 9210218710495728044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_26
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 928
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463cd0b2edad9c3f0800000000000000
+      internalID: -879931604434304156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 914
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc018185a5598260800000000000000
+      internalID: 7100300456856980720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_28
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 908
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175554df0fd508830800000000000000
+      internalID: 4071357352765642097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_29
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 909
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be33ef2a67326ee40800000000000000
+      internalID: 5685270572049511403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_30
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 889
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7608c1269618257b0800000000000000
+      internalID: -5236981127060881305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_31
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 912
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10423c4ed0d4b1640800000000000000
+      internalID: 5051716129094050817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_32
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 914
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8798694dec0279170800000000000000
+      internalID: 8185046920471153016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_33
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 894
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0b04a21ce467bc0800000000000000
+      internalID: -3785751845213785860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_34
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 903
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3312eb21a4af3bdc0800000000000000
+      internalID: -3624278079054143181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_35
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 911
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de49b22fc9ad13d0800000000000000
+      internalID: -3234242250276253991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_36
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 917
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9710c33ae1a678570800000000000000
+      internalID: 8468854304113688953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_37
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 887
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b758255d9bb3a1010800000000000000
+      internalID: 1160305523335267707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_38
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 896
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29c1b5af849464d0800000000000000
+      internalID: -3142223295316637396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_39
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 908
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63535d31f8c078650800000000000000
+      internalID: 6234966017770337590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_40
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 903
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a957931f2bc9eb0800000000000000
+      internalID: -4711694361015510369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_41
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 907
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5687c102b9e50fbc0800000000000000
+      internalID: -3751394469247944603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_42
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 904
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6c4087e337ac020800000000000000
+      internalID: 2362827666647992026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_43
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 900
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ff1943f47dedf30800000000000000
+      internalID: 4602352604403597068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_44
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 909
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee07202f4cf5a5a30800000000000000
+      internalID: 4204778501582254318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_45
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 906
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155d1695f5e1c5c60800000000000000
+      internalID: 7808149248823907665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_46
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 896
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b1a9f4c259811c0800000000000000
+      internalID: -4532709007401805000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 889
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4211d82a62482b60800000000000000
+      internalID: 7721494584845472332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_48
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 894
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebbdb07891ac6450800000000000000
+      internalID: 6083414872769281000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_49
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 899
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7276585913693e80800000000000000
+      internalID: -8198412686143884677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_50
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 856
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baed5cb5e526de940800000000000000
+      internalID: 5327022091655306923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_51
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 881
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a064b477232e264b0800000000000000
+      internalID: -5448543892787214838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_52
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 889
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c717665e29ebe6bc0800000000000000
+      internalID: -3787880698448809604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_53
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 819
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d1b0b42c0da42c0800000000000000
+      internalID: -4446512149173691075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_54
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 889
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add5f3bf55e43c9f0800000000000000
+      internalID: -449429406612496934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_55
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 891
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c33ad609db89e40800000000000000
+      internalID: 5663484959430753337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_56
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 870
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96b476463ce310c0800000000000000
+      internalID: -4606078276015442277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_57
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 871
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae1655f615cb7b20800000000000000
+      internalID: 3133314668162326182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_58
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 873
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0373e34d54d4fe4f0800000000000000
+      internalID: -797333646712359120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_59
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 865
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e76b09bc51e4fd10800000000000000
+      internalID: 2158597909775083494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_60
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 857
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a5ffe25d36fad90800000000000000
+      internalID: -7084333921562830226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_61
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 858
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce1928dfb15629c0800000000000000
+      internalID: -3952381738563854641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_62
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 870
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2051be55d0414c0800000000000000
+      internalID: -4317811480074059060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_63
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 849
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85eb65b0506ec860800000000000000
+      internalID: 7552079524904297867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_64
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 869
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6365a39b16c2120800000000000000
+      internalID: 2390392950402463402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_65
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 867
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bbff14cc2a0e6e0800000000000000
+      internalID: -1810268052038632636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_66
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 863
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa98478e588a6110800000000000000
+      internalID: 1254965385754090148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_67
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 866
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e6d71d6ee885030800000000000000
+      internalID: 3483691433779359264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_68
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 855
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a99394b4b14beeb0800000000000000
+      internalID: -4689582342596748893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_69
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 850
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a87d57434d9e5c60800000000000000
+      internalID: 7808851716192696488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 856
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0347f6192cb424aa0800000000000000
+      internalID: -6178292439763160016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_71
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 822
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4566252c1f05aa3b0800000000000000
+      internalID: -5500494995602119084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_72
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 858
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b795dd517ada7ffc0800000000000000
+      internalID: -3461106855472965253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_73
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 856
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8599703948c2ff370800000000000000
+      internalID: 8358448381336983896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_74
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 846
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e478ea2e551cdc240800000000000000
+      internalID: 4813716151348397902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_75
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 858
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a79173a1e09b1f0800000000000000
+      internalID: -1028775534121092543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_76
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 852
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1247f65cec7e22db0800000000000000
+      internalID: -4818033776071314399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 847
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841703b89ba0f5120800000000000000
+      internalID: 2404652518059569480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_78
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 845
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164c4a123f8b7e3f0800000000000000
+      internalID: -871524648491891615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_79
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 846
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e83bb64826c0270800000000000000
+      internalID: 8218051740926447237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_80
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 855
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ad78d6867e87bc0800000000000000
+      internalID: -3785021051104667055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_81
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 843
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aba077c3582a9730800000000000000
+      internalID: 4006559158792924073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_82
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 853
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ba87666a56836d0800000000000000
+      internalID: -3010544585539015829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_83
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 854
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e402e5259bd398ff0800000000000000
+      internalID: -33427656068423602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_84
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 796
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1982fcfac27fd670800000000000000
+      internalID: 8565691232434686234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_85
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 840
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c5ee6dda06b3650800000000000000
+      internalID: 6213666410639285263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_86
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 838
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff7c06332d054320800000000000000
+      internalID: 2541452009602318330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_87
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 818
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e6ab8f7dc7d5540800000000000000
+      internalID: 4998288428483898920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_88
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 813
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f572fd0c0a3b9b0800000000000000
+      internalID: -5065528405623611633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_89
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 815
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2008f431675a22cb0800000000000000
+      internalID: -4890164318822236158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_90
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 808
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2121218cf181890800000000000000
+      internalID: -7487199436346355032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_91
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 786
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fada03419484a80800000000000000
+      internalID: -8482449547087466674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_92
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 601
+        width: 138
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de7323fa96997a70800000000000000
+      internalID: 8825250537057517266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_93
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 745
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01aab45a16321dce0800000000000000
+      internalID: -1382284708334032368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_94
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 690
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4024c6284e31c1a10800000000000000
+      internalID: 1881400616495628804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_95
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 621
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912b2a60efa402dc0800000000000000
+      internalID: -3665847641786109415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 605
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d6a8f14205d0bb0800000000000000
+      internalID: -4968226697841578744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_97
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 607
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9a49671ec24e590800000000000000
+      internalID: -7645936920499541518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_98
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 596
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b88e7af91ac03e20800000000000000
+      internalID: 3328382337552386226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_99
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 527
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7a6eedba9279220800000000000000
+      internalID: 2492506736928663529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_100
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 600
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dadd0b995e04840800000000000000
+      internalID: 5206413617500368168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_101
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 588
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f437dbea8b2652080800000000000000
+      internalID: -9212848917371325617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_102
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 581
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd516c377dbea4d0800000000000000
+      internalID: -3121349171909403150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_103
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 589
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b343cd16053fa0c60800000000000000
+      internalID: 7785302432428078139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_104
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 585
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d58273be41531640800000000000000
+      internalID: 5049469005672383957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_105
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 572
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c32d8e8d60cc5d70800000000000000
+      internalID: 9033306529373955015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_106
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 577
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ad81e7535d7eb40800000000000000
+      internalID: 5469574698190297606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_107
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 564
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8136939015b5120800000000000000
+      internalID: 2403603926191642796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_108
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 572
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4998aff49ab83fa60800000000000000
+      internalID: 7706656946668603796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_109
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 576
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9efdec1de87a71c0800000000000000
+      internalID: -4505155517442818403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_110
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 569
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3e5299da0e81ef0800000000000000
+      internalID: -137112752431438853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_111
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 554
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9da90fbafb9fa90800000000000000
+      internalID: -7279576577470703160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_112
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 563
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81831722915a14a50800000000000000
+      internalID: 6503660864270317592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_113
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 554
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f8f78e88c97c1b0800000000000000
+      internalID: -5636364296800727270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_114
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 550
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5c3a4438fea0560800000000000000
+      internalID: 7280895094669166033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_115
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 535
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce329fa7e7c53420800000000000000
+      internalID: 2609211357028040396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_116
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 538
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e11cde9219e4340800000000000000
+      internalID: 4849973457993145870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_117
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 527
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4b0b8ce6916a7d0800000000000000
+      internalID: -2907608545816955718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_118
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 520
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a09bebbe74d7c20800000000000000
+      internalID: 3205797587600345707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_119
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 506
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cfd6f6a81658860800000000000000
+      internalID: 7531533199049882754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_120
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 512
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207f282d621b927f0800000000000000
+      internalID: -636783091997542654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_121
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 511
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5629f2693aaf7e60800000000000000
+      internalID: 7962269829664679515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_122
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 491
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac746d412d01d400800000000000000
+      internalID: 347073082967751852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_123
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 489
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9ac0201955955d0800000000000000
+      internalID: -3073331189410649619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_124
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 487
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b16e9ded1c275b90800000000000000
+      internalID: -7253280167804640847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_125
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 414
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4059d102593be41b0800000000000000
+      internalID: -5670397427742567164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_126
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 483
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16de56df1f17f2520800000000000000
+      internalID: 2679485587461107041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_127
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 456
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9c057f82537c6a0800000000000000
+      internalID: -6429111492983862849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_128
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 440
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceca59606151fdd60800000000000000
+      internalID: 7917069854284557548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_129
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 458
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f08ee7654a08cd90800000000000000
+      internalID: -7077395521200029453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_130
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 438
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241a7dfa347d1d970800000000000000
+      internalID: 8778033834434732354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_131
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 434
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30a36938f3b475b0800000000000000
+      internalID: -5371470576850067398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_132
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 411
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7c97bfdbe168220800000000000000
+      internalID: 2487709645485492174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_133
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 428
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bf169b22cc88360800000000000000
+      internalID: 7172206856098675491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_134
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 426
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde6b72bce312fe10800000000000000
+      internalID: 2229866672829460189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_135
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 419
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b09e60862f36f390800000000000000
+      internalID: -7784965471267286856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_136
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 404
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4987c0136843c70800000000000000
+      internalID: 8949925904712766718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_137
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 404
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cbdb8697b3de330800000000000000
+      internalID: 3741712258049096709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_138
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 388
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b09d7400f83f410800000000000000
+      internalID: 1509707531467426691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_139
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 384
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00046a63e8e1d4120800000000000000
+      internalID: 2399607772609396736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_140
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8fc3e17421d0ea0800000000000000
+      internalID: -5905043439753561933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_141
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 375
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b33c21ead7577ac0800000000000000
+      internalID: -3857517958227283023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_142
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 338
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe455aa0a9111e520800000000000000
+      internalID: 2729482202464474351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_143
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 341
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ba9bb6c5d2a8230800000000000000
+      internalID: 3641773123650038644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_144
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 312
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3e303cbf8255b10800000000000000
+      internalID: 1969525473818174421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_145
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 326
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174a783c557ac3a40800000000000000
+      internalID: 5349334444203811953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_146
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 315
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff7268f73bc41650800000000000000
+      internalID: 6202806028046860282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_147
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 310
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cedfa78b8db02ff0800000000000000
+      internalID: -62841987808633151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_148
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 306
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe25337fc8f09090800000000000000
+      internalID: -8029644565726810379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_149
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 295
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4824b62c9d1e4d160800000000000000
+      internalID: 7049507642127630980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_150
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 236
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f6ab406d1aabd80800000000000000
+      internalID: -8234091028119130352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_151
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 255
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb7849c8728a7950800000000000000
+      internalID: 6447609271818943458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_152
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 253
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc69fc66e8807a560800000000000000
+      internalID: 7324832726644659916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_153
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 241
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322df561ed98446d0800000000000000
+      internalID: -3007127064225525213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_154
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 230
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ec757bd4e6feb70800000000000000
+      internalID: 8930477866166505016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_155
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 236
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37afff236bcfd540800000000000000
+      internalID: 5034966535290988346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_156
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 238
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f715491ac069b30800000000000000
+      internalID: 4293633182861983550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_157
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 238
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba065df8dc4d6e810800000000000000
+      internalID: 1794355480900231339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_158
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 236
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d551877719f5f50800000000000000
+      internalID: 6872371498692468077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_159
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 220
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04d0c3ca9a19b730800000000000000
+      internalID: 4015269794788987917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_160
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 229
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461cb4d27dd0bfe90800000000000000
+      internalID: -6990978778733493916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_161
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 223
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3df83f8ab5f0a90800000000000000
+      internalID: -7345551686019066956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_162
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 214
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ce1409d95f776d0800000000000000
+      internalID: -2992653370285495166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_163
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 231
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4082faea2edbafab0800000000000000
+      internalID: -4973454057186318332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_164
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 232
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8927e0bccea877280800000000000000
+      internalID: -9045608576926715240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_165
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 221
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f51675d5df577310800000000000000
+      internalID: 1402695180963157496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_166
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb025635d0365760800000000000000
+      internalID: 7446192726201207804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_167
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 70
+        width: 57
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccf0883c6bc87f20800000000000000
+      internalID: 3420707582652775620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_168
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 220
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3803a08cfb61c70d0800000000000000
+      internalID: -3423836603757743997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_169
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 214
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579162b725f513840800000000000000
+      internalID: 5202043852447684981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_170
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 211
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba413994749bd47e0800000000000000
+      internalID: -1779562561913285461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_171
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 218
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63c7e76a21fcb0e0800000000000000
+      internalID: -2252660549157928081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_172
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 209
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477e8ea33093e39a0800000000000000
+      internalID: -6251496546707642508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_173
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 222
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871810b462d47dda0800000000000000
+      internalID: -5920178358292741768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_174
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 186
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04286737b7688290800000000000000
+      internalID: -7887940710733175796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_175
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 206
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b73552abe41bdf0800000000000000
+      internalID: -166265149838886076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_176
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 209
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b072f86fc2efa2ad0800000000000000
+      internalID: -2726087155350821109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_177
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 211
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54651da161f790fd0800000000000000
+      internalID: -2375227595545291195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_178
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70b81f9568d26680800000000000000
+      internalID: -8763203993937072006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_179
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 206
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1c8bb2005537620800000000000000
+      internalID: 2770651654984876496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_180
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 216
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b6571049e3d49e0800000000000000
+      internalID: -1635582284265067686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_181
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 206
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c201eaafc4f7120800000000000000
+      internalID: 2413732564839705674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_182
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 186
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca156570692627e0800000000000000
+      internalID: -1790698307570033973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_183
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 193
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55123b06224f17e10800000000000000
+      internalID: 2193802921994559829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_184
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 205
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff8382f386dadd90800000000000000
+      internalID: -7072104402634174479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_185
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 205
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d68fe6791d7d390800000000000000
+      internalID: -7793530181809312427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_186
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 200
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca0be1ef058f49f0800000000000000
+      internalID: -482020331844072765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_187
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 204
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6572a4465843bab30800000000000000
+      internalID: 4299588016773146454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_188
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90823bc46cf5f5530800000000000000
+      internalID: 3845897912092665865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_189
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 197
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408f50db26165f240800000000000000
+      internalID: 4824869652503328772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_190
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 191
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a6bb4bbe59876a0800000000000000
+      internalID: -6451241626626200992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_191
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 196
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e491977fe2da520800000000000000
+      internalID: 2714877790797778481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_192
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 178
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c90ad88bb0440d50800000000000000
+      internalID: 6702553319633193409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_193
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 186
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d493d6ecd2a4a70800000000000000
+      internalID: 8811905985522781443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_194
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 191
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8043024377f4fd30800000000000000
+      internalID: 4464465205031813261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_195
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 148
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbb3635238608fb0800000000000000
+      internalID: -4647600250089653292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_196
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 186
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c247bb92f688d660800000000000000
+      internalID: 7410821563390837448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_197
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 188
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eedd02bd88502190800000000000000
+      internalID: -7989288373354373407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_198
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 167
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b28f2c20b47a3830800000000000000
+      internalID: 4051679114777559729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_199
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 157
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1524a924634399a30800000000000000
+      internalID: 4222463533286834769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_200
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 174
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b38bff5b252cfc0800000000000000
+      internalID: -3476125020743779567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_201
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 142
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf63b5c45b5f2060800000000000000
+      internalID: 6930858771198734266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_202
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 148
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f20d83918cec030800000000000000
+      internalID: 3516968369675841348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_203
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 140
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d189bb0c3a092470800000000000000
+      internalID: 8370232635455799768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_204
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 135
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc706a8795242350800000000000000
+      internalID: 5990954737101470961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_205
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1e278d927a30610800000000000000
+      internalID: 1586295291931451886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_206
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 136
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ef12599b855db30800000000000000
+      internalID: 4311449772371344932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_207
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 114
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a3a07acfe153130800000000000000
+      internalID: 3545774352107190871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_208
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 120
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011e8a044fd85cfd0800000000000000
+      internalID: -2322293952643276528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_209
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 90
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9be631590299ecb0800000000000000
+      internalID: -4834172156290602084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_210
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe120f4ca731352f0800000000000000
+      internalID: -985422475452997137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_211
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 54
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069720faaaecba650800000000000000
+      internalID: 6245312540755261792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_212
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bc779573950bb80800000000000000
+      internalID: -8381100812277396617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_213
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 68
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50004f1b9e342e130800000000000000
+      internalID: 3594510123587076101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_214
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3013bc54076c75810800000000000000
+      internalID: 1754088765393678595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_215
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 69
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152dee742b2695940800000000000000
+      internalID: 5285364155546522193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_216
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c4a0a9f47bcd390800000000000000
+      internalID: -7792151702743135133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_217
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 35
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5392372b835159e70800000000000000
+      internalID: 9121219953565051189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_218
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 61
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05338b03994d19ae0800000000000000
+      internalID: -1544219442798906544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDecal03_Normal_219
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 42
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090e126fb8c04df10800000000000000
+      internalID: 2293471905507827856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BloodDecal03_Normal_0: -5776778804849244918
+      BloodDecal03_Normal_1: -8224987814296710018
+      BloodDecal03_Normal_10: -8736169692312040123
+      BloodDecal03_Normal_100: 5206413617500368168
+      BloodDecal03_Normal_101: -9212848917371325617
+      BloodDecal03_Normal_102: -3121349171909403150
+      BloodDecal03_Normal_103: 7785302432428078139
+      BloodDecal03_Normal_104: 5049469005672383957
+      BloodDecal03_Normal_105: 9033306529373955015
+      BloodDecal03_Normal_106: 5469574698190297606
+      BloodDecal03_Normal_107: 2403603926191642796
+      BloodDecal03_Normal_108: 7706656946668603796
+      BloodDecal03_Normal_109: -4505155517442818403
+      BloodDecal03_Normal_11: -7960410273047018751
+      BloodDecal03_Normal_110: -137112752431438853
+      BloodDecal03_Normal_111: -7279576577470703160
+      BloodDecal03_Normal_112: 6503660864270317592
+      BloodDecal03_Normal_113: -5636364296800727270
+      BloodDecal03_Normal_114: 7280895094669166033
+      BloodDecal03_Normal_115: 2609211357028040396
+      BloodDecal03_Normal_116: 4849973457993145870
+      BloodDecal03_Normal_117: -2907608545816955718
+      BloodDecal03_Normal_118: 3205797587600345707
+      BloodDecal03_Normal_119: 7531533199049882754
+      BloodDecal03_Normal_12: -4519014196667318942
+      BloodDecal03_Normal_120: -636783091997542654
+      BloodDecal03_Normal_121: 7962269829664679515
+      BloodDecal03_Normal_122: 347073082967751852
+      BloodDecal03_Normal_123: -3073331189410649619
+      BloodDecal03_Normal_124: -7253280167804640847
+      BloodDecal03_Normal_125: -5670397427742567164
+      BloodDecal03_Normal_126: 2679485587461107041
+      BloodDecal03_Normal_127: -6429111492983862849
+      BloodDecal03_Normal_128: 7917069854284557548
+      BloodDecal03_Normal_129: -7077395521200029453
+      BloodDecal03_Normal_13: -3875054830322205832
+      BloodDecal03_Normal_130: 8778033834434732354
+      BloodDecal03_Normal_131: -5371470576850067398
+      BloodDecal03_Normal_132: 2487709645485492174
+      BloodDecal03_Normal_133: 7172206856098675491
+      BloodDecal03_Normal_134: 2229866672829460189
+      BloodDecal03_Normal_135: -7784965471267286856
+      BloodDecal03_Normal_136: 8949925904712766718
+      BloodDecal03_Normal_137: 3741712258049096709
+      BloodDecal03_Normal_138: 1509707531467426691
+      BloodDecal03_Normal_139: 2399607772609396736
+      BloodDecal03_Normal_14: 8269755297848486084
+      BloodDecal03_Normal_140: -5905043439753561933
+      BloodDecal03_Normal_141: -3857517958227283023
+      BloodDecal03_Normal_142: 2729482202464474351
+      BloodDecal03_Normal_143: 3641773123650038644
+      BloodDecal03_Normal_144: 1969525473818174421
+      BloodDecal03_Normal_145: 5349334444203811953
+      BloodDecal03_Normal_146: 6202806028046860282
+      BloodDecal03_Normal_147: -62841987808633151
+      BloodDecal03_Normal_148: -8029644565726810379
+      BloodDecal03_Normal_149: 7049507642127630980
+      BloodDecal03_Normal_15: -3256018261249647038
+      BloodDecal03_Normal_150: -8234091028119130352
+      BloodDecal03_Normal_151: 6447609271818943458
+      BloodDecal03_Normal_152: 7324832726644659916
+      BloodDecal03_Normal_153: -3007127064225525213
+      BloodDecal03_Normal_154: 8930477866166505016
+      BloodDecal03_Normal_155: 5034966535290988346
+      BloodDecal03_Normal_156: 4293633182861983550
+      BloodDecal03_Normal_157: 1794355480900231339
+      BloodDecal03_Normal_158: 6872371498692468077
+      BloodDecal03_Normal_159: 4015269794788987917
+      BloodDecal03_Normal_16: 1297676980790960904
+      BloodDecal03_Normal_160: -6990978778733493916
+      BloodDecal03_Normal_161: -7345551686019066956
+      BloodDecal03_Normal_162: -2992653370285495166
+      BloodDecal03_Normal_163: -4973454057186318332
+      BloodDecal03_Normal_164: -9045608576926715240
+      BloodDecal03_Normal_165: 1402695180963157496
+      BloodDecal03_Normal_166: 7446192726201207804
+      BloodDecal03_Normal_167: 3420707582652775620
+      BloodDecal03_Normal_168: -3423836603757743997
+      BloodDecal03_Normal_169: 5202043852447684981
+      BloodDecal03_Normal_17: -3109058721658516338
+      BloodDecal03_Normal_170: -1779562561913285461
+      BloodDecal03_Normal_171: -2252660549157928081
+      BloodDecal03_Normal_172: -6251496546707642508
+      BloodDecal03_Normal_173: -5920178358292741768
+      BloodDecal03_Normal_174: -7887940710733175796
+      BloodDecal03_Normal_175: -166265149838886076
+      BloodDecal03_Normal_176: -2726087155350821109
+      BloodDecal03_Normal_177: -2375227595545291195
+      BloodDecal03_Normal_178: -8763203993937072006
+      BloodDecal03_Normal_179: 2770651654984876496
+      BloodDecal03_Normal_18: -3334227352167278037
+      BloodDecal03_Normal_180: -1635582284265067686
+      BloodDecal03_Normal_181: 2413732564839705674
+      BloodDecal03_Normal_182: -1790698307570033973
+      BloodDecal03_Normal_183: 2193802921994559829
+      BloodDecal03_Normal_184: -7072104402634174479
+      BloodDecal03_Normal_185: -7793530181809312427
+      BloodDecal03_Normal_186: -482020331844072765
+      BloodDecal03_Normal_187: 4299588016773146454
+      BloodDecal03_Normal_188: 3845897912092665865
+      BloodDecal03_Normal_189: 4824869652503328772
+      BloodDecal03_Normal_19: -2951781950737348904
+      BloodDecal03_Normal_190: -6451241626626200992
+      BloodDecal03_Normal_191: 2714877790797778481
+      BloodDecal03_Normal_192: 6702553319633193409
+      BloodDecal03_Normal_193: 8811905985522781443
+      BloodDecal03_Normal_194: 4464465205031813261
+      BloodDecal03_Normal_195: -4647600250089653292
+      BloodDecal03_Normal_196: 7410821563390837448
+      BloodDecal03_Normal_197: -7989288373354373407
+      BloodDecal03_Normal_198: 4051679114777559729
+      BloodDecal03_Normal_199: 4222463533286834769
+      BloodDecal03_Normal_2: 4301498441731802195
+      BloodDecal03_Normal_20: -8146941894089929405
+      BloodDecal03_Normal_200: -3476125020743779567
+      BloodDecal03_Normal_201: 6930858771198734266
+      BloodDecal03_Normal_202: 3516968369675841348
+      BloodDecal03_Normal_203: 8370232635455799768
+      BloodDecal03_Normal_204: 5990954737101470961
+      BloodDecal03_Normal_205: 1586295291931451886
+      BloodDecal03_Normal_206: 4311449772371344932
+      BloodDecal03_Normal_207: 3545774352107190871
+      BloodDecal03_Normal_208: -2322293952643276528
+      BloodDecal03_Normal_209: -4834172156290602084
+      BloodDecal03_Normal_21: 4970193624291764415
+      BloodDecal03_Normal_210: -985422475452997137
+      BloodDecal03_Normal_211: 6245312540755261792
+      BloodDecal03_Normal_212: -8381100812277396617
+      BloodDecal03_Normal_213: 3594510123587076101
+      BloodDecal03_Normal_214: 1754088765393678595
+      BloodDecal03_Normal_215: 5285364155546522193
+      BloodDecal03_Normal_216: -7792151702743135133
+      BloodDecal03_Normal_217: 9121219953565051189
+      BloodDecal03_Normal_218: -1544219442798906544
+      BloodDecal03_Normal_219: 2293471905507827856
+      BloodDecal03_Normal_22: 905057413401877665
+      BloodDecal03_Normal_23: 8497307465341128147
+      BloodDecal03_Normal_24: -5464167547665080067
+      BloodDecal03_Normal_25: 9210218710495728044
+      BloodDecal03_Normal_26: -879931604434304156
+      BloodDecal03_Normal_27: 7100300456856980720
+      BloodDecal03_Normal_28: 4071357352765642097
+      BloodDecal03_Normal_29: 5685270572049511403
+      BloodDecal03_Normal_3: 533984869907589854
+      BloodDecal03_Normal_30: -5236981127060881305
+      BloodDecal03_Normal_31: 5051716129094050817
+      BloodDecal03_Normal_32: 8185046920471153016
+      BloodDecal03_Normal_33: -3785751845213785860
+      BloodDecal03_Normal_34: -3624278079054143181
+      BloodDecal03_Normal_35: -3234242250276253991
+      BloodDecal03_Normal_36: 8468854304113688953
+      BloodDecal03_Normal_37: 1160305523335267707
+      BloodDecal03_Normal_38: -3142223295316637396
+      BloodDecal03_Normal_39: 6234966017770337590
+      BloodDecal03_Normal_4: -2632322293494296482
+      BloodDecal03_Normal_40: -4711694361015510369
+      BloodDecal03_Normal_41: -3751394469247944603
+      BloodDecal03_Normal_42: 2362827666647992026
+      BloodDecal03_Normal_43: 4602352604403597068
+      BloodDecal03_Normal_44: 4204778501582254318
+      BloodDecal03_Normal_45: 7808149248823907665
+      BloodDecal03_Normal_46: -4532709007401805000
+      BloodDecal03_Normal_47: 7721494584845472332
+      BloodDecal03_Normal_48: 6083414872769281000
+      BloodDecal03_Normal_49: -8198412686143884677
+      BloodDecal03_Normal_5: 6909966796940307104
+      BloodDecal03_Normal_50: 5327022091655306923
+      BloodDecal03_Normal_51: -5448543892787214838
+      BloodDecal03_Normal_52: -3787880698448809604
+      BloodDecal03_Normal_53: -4446512149173691075
+      BloodDecal03_Normal_54: -449429406612496934
+      BloodDecal03_Normal_55: 5663484959430753337
+      BloodDecal03_Normal_56: -4606078276015442277
+      BloodDecal03_Normal_57: 3133314668162326182
+      BloodDecal03_Normal_58: -797333646712359120
+      BloodDecal03_Normal_59: 2158597909775083494
+      BloodDecal03_Normal_6: -6322810993628107068
+      BloodDecal03_Normal_60: -7084333921562830226
+      BloodDecal03_Normal_61: -3952381738563854641
+      BloodDecal03_Normal_62: -4317811480074059060
+      BloodDecal03_Normal_63: 7552079524904297867
+      BloodDecal03_Normal_64: 2390392950402463402
+      BloodDecal03_Normal_65: -1810268052038632636
+      BloodDecal03_Normal_66: 1254965385754090148
+      BloodDecal03_Normal_67: 3483691433779359264
+      BloodDecal03_Normal_68: -4689582342596748893
+      BloodDecal03_Normal_69: 7808851716192696488
+      BloodDecal03_Normal_7: 8383673239227763838
+      BloodDecal03_Normal_70: -6178292439763160016
+      BloodDecal03_Normal_71: -5500494995602119084
+      BloodDecal03_Normal_72: -3461106855472965253
+      BloodDecal03_Normal_73: 8358448381336983896
+      BloodDecal03_Normal_74: 4813716151348397902
+      BloodDecal03_Normal_75: -1028775534121092543
+      BloodDecal03_Normal_76: -4818033776071314399
+      BloodDecal03_Normal_77: 2404652518059569480
+      BloodDecal03_Normal_78: -871524648491891615
+      BloodDecal03_Normal_79: 8218051740926447237
+      BloodDecal03_Normal_8: 7374872345945774580
+      BloodDecal03_Normal_80: -3785021051104667055
+      BloodDecal03_Normal_81: 4006559158792924073
+      BloodDecal03_Normal_82: -3010544585539015829
+      BloodDecal03_Normal_83: -33427656068423602
+      BloodDecal03_Normal_84: 8565691232434686234
+      BloodDecal03_Normal_85: 6213666410639285263
+      BloodDecal03_Normal_86: 2541452009602318330
+      BloodDecal03_Normal_87: 4998288428483898920
+      BloodDecal03_Normal_88: -5065528405623611633
+      BloodDecal03_Normal_89: -4890164318822236158
+      BloodDecal03_Normal_9: 8276263842955039139
+      BloodDecal03_Normal_90: -7487199436346355032
+      BloodDecal03_Normal_91: -8482449547087466674
+      BloodDecal03_Normal_92: 8825250537057517266
+      BloodDecal03_Normal_93: -1382284708334032368
+      BloodDecal03_Normal_94: 1881400616495628804
+      BloodDecal03_Normal_95: -3665847641786109415
+      BloodDecal03_Normal_96: -4968226697841578744
+      BloodDecal03_Normal_97: -7645936920499541518
+      BloodDecal03_Normal_98: 3328382337552386226
+      BloodDecal03_Normal_99: 2492506736928663529
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2509 @@
+fileFormatVersion: 2
+guid: 02640fd034fed3947a810dfd3d951b41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8593033703881339182
+    second: BloodSplashDecalAlpha04_0
+  - first:
+      213: 7115835905385110869
+    second: BloodSplashDecalAlpha04_1
+  - first:
+      213: 8486718158649780363
+    second: BloodSplashDecalAlpha04_2
+  - first:
+      213: 6200442432184927193
+    second: BloodSplashDecalAlpha04_3
+  - first:
+      213: -7902324860820818720
+    second: BloodSplashDecalAlpha04_4
+  - first:
+      213: -7868255467541007425
+    second: BloodSplashDecalAlpha04_5
+  - first:
+      213: -2075653233451612016
+    second: BloodSplashDecalAlpha04_6
+  - first:
+      213: 536237045326347920
+    second: BloodSplashDecalAlpha04_7
+  - first:
+      213: 4690318293711569274
+    second: BloodSplashDecalAlpha04_8
+  - first:
+      213: -8301528202565610048
+    second: BloodSplashDecalAlpha04_9
+  - first:
+      213: 3960169538774297200
+    second: BloodSplashDecalAlpha04_10
+  - first:
+      213: 3714987863271890718
+    second: BloodSplashDecalAlpha04_11
+  - first:
+      213: 7361433887793740017
+    second: BloodSplashDecalAlpha04_12
+  - first:
+      213: -1891066588566616129
+    second: BloodSplashDecalAlpha04_13
+  - first:
+      213: -2787102737341912888
+    second: BloodSplashDecalAlpha04_14
+  - first:
+      213: -3715025353037355722
+    second: BloodSplashDecalAlpha04_15
+  - first:
+      213: -3742342475361356635
+    second: BloodSplashDecalAlpha04_16
+  - first:
+      213: -8995569278450890221
+    second: BloodSplashDecalAlpha04_17
+  - first:
+      213: -4924937557001372146
+    second: BloodSplashDecalAlpha04_18
+  - first:
+      213: 711615447361237810
+    second: BloodSplashDecalAlpha04_19
+  - first:
+      213: 91367855301966117
+    second: BloodSplashDecalAlpha04_20
+  - first:
+      213: -987632739611519366
+    second: BloodSplashDecalAlpha04_21
+  - first:
+      213: -4146428624416392487
+    second: BloodSplashDecalAlpha04_22
+  - first:
+      213: -373051575022400613
+    second: BloodSplashDecalAlpha04_23
+  - first:
+      213: 8786270855758756207
+    second: BloodSplashDecalAlpha04_24
+  - first:
+      213: -3249128166018845163
+    second: BloodSplashDecalAlpha04_25
+  - first:
+      213: -7917273399685637402
+    second: BloodSplashDecalAlpha04_26
+  - first:
+      213: -4561614394659227796
+    second: BloodSplashDecalAlpha04_27
+  - first:
+      213: 5176734883899208857
+    second: BloodSplashDecalAlpha04_28
+  - first:
+      213: 9141616541918041361
+    second: BloodSplashDecalAlpha04_29
+  - first:
+      213: -1096314992263260726
+    second: BloodSplashDecalAlpha04_30
+  - first:
+      213: -6979833146610098055
+    second: BloodSplashDecalAlpha04_31
+  - first:
+      213: 4034987731904026297
+    second: BloodSplashDecalAlpha04_32
+  - first:
+      213: 1397056960931701446
+    second: BloodSplashDecalAlpha04_33
+  - first:
+      213: 7088054967498805323
+    second: BloodSplashDecalAlpha04_34
+  - first:
+      213: 3073436160050455243
+    second: BloodSplashDecalAlpha04_35
+  - first:
+      213: -8638585948691992062
+    second: BloodSplashDecalAlpha04_36
+  - first:
+      213: 4177390328534459316
+    second: BloodSplashDecalAlpha04_37
+  - first:
+      213: 7399587217549178814
+    second: BloodSplashDecalAlpha04_38
+  - first:
+      213: -3137968882440435180
+    second: BloodSplashDecalAlpha04_39
+  - first:
+      213: 3823477211415542606
+    second: BloodSplashDecalAlpha04_40
+  - first:
+      213: 3928607903873954073
+    second: BloodSplashDecalAlpha04_41
+  - first:
+      213: -7051652640003601968
+    second: BloodSplashDecalAlpha04_42
+  - first:
+      213: -7890624426476166103
+    second: BloodSplashDecalAlpha04_43
+  - first:
+      213: -4150628672861025823
+    second: BloodSplashDecalAlpha04_44
+  - first:
+      213: -7112449125068127715
+    second: BloodSplashDecalAlpha04_45
+  - first:
+      213: -4400421359978310847
+    second: BloodSplashDecalAlpha04_46
+  - first:
+      213: 2448813929683802551
+    second: BloodSplashDecalAlpha04_47
+  - first:
+      213: 165329399513839495
+    second: BloodSplashDecalAlpha04_48
+  - first:
+      213: -5100655896868732217
+    second: BloodSplashDecalAlpha04_49
+  - first:
+      213: -2676357153914803325
+    second: BloodSplashDecalAlpha04_50
+  - first:
+      213: -5311377671083028914
+    second: BloodSplashDecalAlpha04_51
+  - first:
+      213: -4386362696361200486
+    second: BloodSplashDecalAlpha04_52
+  - first:
+      213: -8944493438150464748
+    second: BloodSplashDecalAlpha04_53
+  - first:
+      213: 1811071323951254625
+    second: BloodSplashDecalAlpha04_54
+  - first:
+      213: 4353750537805773088
+    second: BloodSplashDecalAlpha04_55
+  - first:
+      213: -4609388610179552100
+    second: BloodSplashDecalAlpha04_56
+  - first:
+      213: -8993934318764560193
+    second: BloodSplashDecalAlpha04_57
+  - first:
+      213: -3319963628768453542
+    second: BloodSplashDecalAlpha04_58
+  - first:
+      213: 6917289325561582315
+    second: BloodSplashDecalAlpha04_59
+  - first:
+      213: -2602689426202047494
+    second: BloodSplashDecalAlpha04_60
+  - first:
+      213: 4012193131242543550
+    second: BloodSplashDecalAlpha04_61
+  - first:
+      213: -5961401957117621672
+    second: BloodSplashDecalAlpha04_62
+  - first:
+      213: 7007217644031843708
+    second: BloodSplashDecalAlpha04_63
+  - first:
+      213: -7804919351434470415
+    second: BloodSplashDecalAlpha04_64
+  - first:
+      213: -7215589497480203189
+    second: BloodSplashDecalAlpha04_65
+  - first:
+      213: 5302585266072843017
+    second: BloodSplashDecalAlpha04_66
+  - first:
+      213: 6481783835289594897
+    second: BloodSplashDecalAlpha04_67
+  - first:
+      213: -7143421383308402995
+    second: BloodSplashDecalAlpha04_68
+  - first:
+      213: 5543359465183150589
+    second: BloodSplashDecalAlpha04_69
+  - first:
+      213: 790000559310328198
+    second: BloodSplashDecalAlpha04_70
+  - first:
+      213: -5793940419501249152
+    second: BloodSplashDecalAlpha04_71
+  - first:
+      213: -3207721972979169376
+    second: BloodSplashDecalAlpha04_72
+  - first:
+      213: -3784460362697427459
+    second: BloodSplashDecalAlpha04_73
+  - first:
+      213: -5015379809016398487
+    second: BloodSplashDecalAlpha04_74
+  - first:
+      213: 2214420172942106277
+    second: BloodSplashDecalAlpha04_75
+  - first:
+      213: 8908002224864201394
+    second: BloodSplashDecalAlpha04_76
+  - first:
+      213: 5830736433357417143
+    second: BloodSplashDecalAlpha04_77
+  - first:
+      213: -9179339595509421719
+    second: BloodSplashDecalAlpha04_78
+  - first:
+      213: 140661733957837565
+    second: BloodSplashDecalAlpha04_79
+  - first:
+      213: 3620845925279125408
+    second: BloodSplashDecalAlpha04_80
+  - first:
+      213: 9169026999928232694
+    second: BloodSplashDecalAlpha04_81
+  - first:
+      213: -3202974394940209322
+    second: BloodSplashDecalAlpha04_82
+  - first:
+      213: 953128520420887626
+    second: BloodSplashDecalAlpha04_83
+  - first:
+      213: -7616125735693095203
+    second: BloodSplashDecalAlpha04_84
+  - first:
+      213: -2648663059330592285
+    second: BloodSplashDecalAlpha04_85
+  - first:
+      213: -4415161931465742914
+    second: BloodSplashDecalAlpha04_86
+  - first:
+      213: -6538927634768246827
+    second: BloodSplashDecalAlpha04_87
+  - first:
+      213: -6840090762939277784
+    second: BloodSplashDecalAlpha04_88
+  - first:
+      213: 2923136124841007165
+    second: BloodSplashDecalAlpha04_89
+  - first:
+      213: -656408385974536507
+    second: BloodSplashDecalAlpha04_90
+  - first:
+      213: -4854440088581657760
+    second: BloodSplashDecalAlpha04_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 504
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e217ec630a6904770800000000000000
+      internalID: 8593033703881339182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 503
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d137cfd0780c260800000000000000
+      internalID: 7115835905385110869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 503
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b886d236331e6c570800000000000000
+      internalID: 8486718158649780363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 456
+        width: 19
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d344ac6a856c0650800000000000000
+      internalID: 6200442432184927193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 455
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4790b486d455290800000000000000
+      internalID: -7902324860820818720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3713f07575ec290800000000000000
+      internalID: -7868255467541007425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 462
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098c937a16cc133e0800000000000000
+      internalID: -2075653233451612016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 466
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ef41a60c8117700800000000000000
+      internalID: 536237045326347920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 470
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71c13443ab571140800000000000000
+      internalID: 4690318293711569274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 473
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c59039451c0bcc80800000000000000
+      internalID: -8301528202565610048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 465
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ae6f0b63955f630800000000000000
+      internalID: 3960169538774297200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 466
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f553f57c94e8330800000000000000
+      internalID: 3714987863271890718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 491
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8f77f4e11192660800000000000000
+      internalID: 7361433887793740017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 463
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb780edf4f491c5e0800000000000000
+      internalID: -1891066588566616129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 494
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8673cb3d83259d0800000000000000
+      internalID: -2787102737341912888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 469
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63563acdf14917cc0800000000000000
+      internalID: -3715025353037355722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 464
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4fa30b857801cc0800000000000000
+      internalID: -3742342475361356635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 450
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a848dd661592380800000000000000
+      internalID: -8995569278450890221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_18
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 448
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ef3f5a26b17abb0800000000000000
+      internalID: -4924937557001372146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 428
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233b5a4aa7a20e900800000000000000
+      internalID: 711615447361237810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_20
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 433
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529b92f849a944100800000000000000
+      internalID: 91367855301966117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_21
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 435
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76d8ea81493b42f0800000000000000
+      internalID: -987632739611519366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_22
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 428
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da3623822de476c0800000000000000
+      internalID: -4146428624416392487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 431
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bc3eba197a2daf0800000000000000
+      internalID: -373051575022400613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 420
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f693ed9aaca1fe970800000000000000
+      internalID: 8786270855758756207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 417
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516fabac527c8e2d0800000000000000
+      internalID: -3249128166018845163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_26
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 423
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea961e5ac1302290800000000000000
+      internalID: -7917273399685637402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 417
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67370460e3e1b0c0800000000000000
+      internalID: -4561614394659227796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_28
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 418
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9947f2b03f477d740800000000000000
+      internalID: 5176734883899208857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_29
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 384
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1151cdd7fcb8dde70800000000000000
+      internalID: 9141616541918041361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 412
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac59634b25b19c0f0800000000000000
+      internalID: -1096314992263260726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 403
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970eec0ebb6a22f90800000000000000
+      internalID: -6979833146610098055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 401
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6d231c6f72ff730800000000000000
+      internalID: 4034987731904026297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 390
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2225f67e7536310800000000000000
+      internalID: 1397056960931701446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_34
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 391
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4095365074dd5260800000000000000
+      internalID: 7088054967498805323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_35
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 370
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2e5af57e907aa20800000000000000
+      internalID: 3073436160050455243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_36
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 357
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202788e49d39d1880800000000000000
+      internalID: -8638585948691992062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 341
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3e27cfe5219f930800000000000000
+      internalID: 4177390328534459316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_38
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 350
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb73a82ae5d90b660800000000000000
+      internalID: 7399587217549178814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_39
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 320
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a88e55de1b374d0800000000000000
+      internalID: -3137968882440435180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_40
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 342
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b79312448bf0530800000000000000
+      internalID: 3823477211415542606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 323
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911f23ce218358630800000000000000
+      internalID: 3928607903873954073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 322
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9c321094f732e90800000000000000
+      internalID: -7051652640003601968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_43
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 312
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9242ed3f3eede7290800000000000000
+      internalID: -7890624426476166103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_44
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 310
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9419786310666c0800000000000000
+      internalID: -4150628672861025823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 307
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12c64144318b4d90800000000000000
+      internalID: -7112449125068127715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_46
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 312
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143937866109ee2c0800000000000000
+      internalID: -4400421359978310847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_47
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 313
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9d4df6b4febf120800000000000000
+      internalID: 2448813929683802551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 289
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78773f0863e5b4200800000000000000
+      internalID: 165329399513839495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 293
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c243a97c74d639b0800000000000000
+      internalID: -5100655896868732217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_50
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b25d4395babdad0800000000000000
+      internalID: -2676357153914803325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_51
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 291
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e872726223a46b0800000000000000
+      internalID: -5311377671083028914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_52
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 296
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94bd5b1e528023c0800000000000000
+      internalID: -4386362696361200486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 281
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41baa33ab96ced380800000000000000
+      internalID: -8944493438150464748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_54
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 220
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cc20f06c7322910800000000000000
+      internalID: 1811071323951254625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_55
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 286
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02934960c01ab6c30800000000000000
+      internalID: 4353750537805773088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_56
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 284
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c248a0b792800c0800000000000000
+      internalID: -4609388610179552100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 271
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0f7d493602f2380800000000000000
+      internalID: -8993934318764560193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 272
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c1a086bae1de1d0800000000000000
+      internalID: -3319963628768453542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_59
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 267
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be213b20ef52fff50800000000000000
+      internalID: 6917289325561582315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_60
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 268
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbcf8aa1c361ebd0800000000000000
+      internalID: -2602689426202047494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_61
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 263
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb959f5356c2ea730800000000000000
+      internalID: 4012193131242543550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_62
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 256
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a8fae3188d44da0800000000000000
+      internalID: -5961401957117621672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 242
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d1e584253ae3160800000000000000
+      internalID: 7007217644031843708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 244
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb1d2db33b5fa390800000000000000
+      internalID: -7804919351434470415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_65
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 250
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4437a5f4931ddb90800000000000000
+      internalID: -7215589497480203189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_66
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 225
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903fd778431969940800000000000000
+      internalID: 5302585266072843017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_67
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 199
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c2e456e0ce3f950800000000000000
+      internalID: 6481783835289594897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_68
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 198
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce19fe69187ddc90800000000000000
+      internalID: -7143421383308402995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_69
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 207
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df18a884018fdec40800000000000000
+      internalID: 5543359465183150589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_70
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 200
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6815d06b255a6fa00800000000000000
+      internalID: 790000559310328198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_71
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 192
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08da9d5d2e9c79fa0800000000000000
+      internalID: -5793940419501249152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_72
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 183
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a78c5e5cd1eb73d0800000000000000
+      internalID: -3207721972979169376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_73
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 173
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5bfded955ea7bc0800000000000000
+      internalID: -3784460362697427459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d39e5e2aac56ab0800000000000000
+      internalID: -5015379809016398487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae5caf2a633bbe10800000000000000
+      internalID: 2214420172942106277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_76
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 141
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba8b6fa3d49f9b70800000000000000
+      internalID: 8908002224864201394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_77
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 149
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba6231c4efeae050800000000000000
+      internalID: 5830736433357417143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_78
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969abf8a54f6c9080800000000000000
+      internalID: -9179339595509421719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_79
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df22c0e0a1bb3f100800000000000000
+      internalID: 140661733957837565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_80
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 95
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afceaa5f24df3230800000000000000
+      internalID: 3620845925279125408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_81
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 70
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa10b21a7dee3f70800000000000000
+      internalID: 9169026999928232694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_82
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657cae402cfbc83d0800000000000000
+      internalID: -3202974394940209322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_83
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 97
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c0bf4e6513a3d00800000000000000
+      internalID: 953128520420887626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_84
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 58
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde6d4fcef51e4690800000000000000
+      internalID: -7616125735693095203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_85
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 65
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e196e21bfe0e3bd0800000000000000
+      internalID: -2648663059330592285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_86
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 51
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb52829ad913ab2c0800000000000000
+      internalID: -4415161931465742914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_87
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 48
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d747adf5ff0145a0800000000000000
+      internalID: -6538927634768246827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_88
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 17
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ed29301bd1311a0800000000000000
+      internalID: -6840090762939277784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_89
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38924f61d0119820800000000000000
+      internalID: 2923136124841007165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_90
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6766efc08f3e6f0800000000000000
+      internalID: -656408385974536507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSplashDecalAlpha04_91
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 8
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06baca8957091acb0800000000000000
+      internalID: -4854440088581657760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BloodSplashDecalAlpha04_0: 8593033703881339182
+      BloodSplashDecalAlpha04_1: 7115835905385110869
+      BloodSplashDecalAlpha04_10: 3960169538774297200
+      BloodSplashDecalAlpha04_11: 3714987863271890718
+      BloodSplashDecalAlpha04_12: 7361433887793740017
+      BloodSplashDecalAlpha04_13: -1891066588566616129
+      BloodSplashDecalAlpha04_14: -2787102737341912888
+      BloodSplashDecalAlpha04_15: -3715025353037355722
+      BloodSplashDecalAlpha04_16: -3742342475361356635
+      BloodSplashDecalAlpha04_17: -8995569278450890221
+      BloodSplashDecalAlpha04_18: -4924937557001372146
+      BloodSplashDecalAlpha04_19: 711615447361237810
+      BloodSplashDecalAlpha04_2: 8486718158649780363
+      BloodSplashDecalAlpha04_20: 91367855301966117
+      BloodSplashDecalAlpha04_21: -987632739611519366
+      BloodSplashDecalAlpha04_22: -4146428624416392487
+      BloodSplashDecalAlpha04_23: -373051575022400613
+      BloodSplashDecalAlpha04_24: 8786270855758756207
+      BloodSplashDecalAlpha04_25: -3249128166018845163
+      BloodSplashDecalAlpha04_26: -7917273399685637402
+      BloodSplashDecalAlpha04_27: -4561614394659227796
+      BloodSplashDecalAlpha04_28: 5176734883899208857
+      BloodSplashDecalAlpha04_29: 9141616541918041361
+      BloodSplashDecalAlpha04_3: 6200442432184927193
+      BloodSplashDecalAlpha04_30: -1096314992263260726
+      BloodSplashDecalAlpha04_31: -6979833146610098055
+      BloodSplashDecalAlpha04_32: 4034987731904026297
+      BloodSplashDecalAlpha04_33: 1397056960931701446
+      BloodSplashDecalAlpha04_34: 7088054967498805323
+      BloodSplashDecalAlpha04_35: 3073436160050455243
+      BloodSplashDecalAlpha04_36: -8638585948691992062
+      BloodSplashDecalAlpha04_37: 4177390328534459316
+      BloodSplashDecalAlpha04_38: 7399587217549178814
+      BloodSplashDecalAlpha04_39: -3137968882440435180
+      BloodSplashDecalAlpha04_4: -7902324860820818720
+      BloodSplashDecalAlpha04_40: 3823477211415542606
+      BloodSplashDecalAlpha04_41: 3928607903873954073
+      BloodSplashDecalAlpha04_42: -7051652640003601968
+      BloodSplashDecalAlpha04_43: -7890624426476166103
+      BloodSplashDecalAlpha04_44: -4150628672861025823
+      BloodSplashDecalAlpha04_45: -7112449125068127715
+      BloodSplashDecalAlpha04_46: -4400421359978310847
+      BloodSplashDecalAlpha04_47: 2448813929683802551
+      BloodSplashDecalAlpha04_48: 165329399513839495
+      BloodSplashDecalAlpha04_49: -5100655896868732217
+      BloodSplashDecalAlpha04_5: -7868255467541007425
+      BloodSplashDecalAlpha04_50: -2676357153914803325
+      BloodSplashDecalAlpha04_51: -5311377671083028914
+      BloodSplashDecalAlpha04_52: -4386362696361200486
+      BloodSplashDecalAlpha04_53: -8944493438150464748
+      BloodSplashDecalAlpha04_54: 1811071323951254625
+      BloodSplashDecalAlpha04_55: 4353750537805773088
+      BloodSplashDecalAlpha04_56: -4609388610179552100
+      BloodSplashDecalAlpha04_57: -8993934318764560193
+      BloodSplashDecalAlpha04_58: -3319963628768453542
+      BloodSplashDecalAlpha04_59: 6917289325561582315
+      BloodSplashDecalAlpha04_6: -2075653233451612016
+      BloodSplashDecalAlpha04_60: -2602689426202047494
+      BloodSplashDecalAlpha04_61: 4012193131242543550
+      BloodSplashDecalAlpha04_62: -5961401957117621672
+      BloodSplashDecalAlpha04_63: 7007217644031843708
+      BloodSplashDecalAlpha04_64: -7804919351434470415
+      BloodSplashDecalAlpha04_65: -7215589497480203189
+      BloodSplashDecalAlpha04_66: 5302585266072843017
+      BloodSplashDecalAlpha04_67: 6481783835289594897
+      BloodSplashDecalAlpha04_68: -7143421383308402995
+      BloodSplashDecalAlpha04_69: 5543359465183150589
+      BloodSplashDecalAlpha04_7: 536237045326347920
+      BloodSplashDecalAlpha04_70: 790000559310328198
+      BloodSplashDecalAlpha04_71: -5793940419501249152
+      BloodSplashDecalAlpha04_72: -3207721972979169376
+      BloodSplashDecalAlpha04_73: -3784460362697427459
+      BloodSplashDecalAlpha04_74: -5015379809016398487
+      BloodSplashDecalAlpha04_75: 2214420172942106277
+      BloodSplashDecalAlpha04_76: 8908002224864201394
+      BloodSplashDecalAlpha04_77: 5830736433357417143
+      BloodSplashDecalAlpha04_78: -9179339595509421719
+      BloodSplashDecalAlpha04_79: 140661733957837565
+      BloodSplashDecalAlpha04_8: 4690318293711569274
+      BloodSplashDecalAlpha04_80: 3620845925279125408
+      BloodSplashDecalAlpha04_81: 9169026999928232694
+      BloodSplashDecalAlpha04_82: -3202974394940209322
+      BloodSplashDecalAlpha04_83: 953128520420887626
+      BloodSplashDecalAlpha04_84: -7616125735693095203
+      BloodSplashDecalAlpha04_85: -2648663059330592285
+      BloodSplashDecalAlpha04_86: -4415161931465742914
+      BloodSplashDecalAlpha04_87: -6538927634768246827
+      BloodSplashDecalAlpha04_88: -6840090762939277784
+      BloodSplashDecalAlpha04_89: 2923136124841007165
+      BloodSplashDecalAlpha04_9: -8301528202565610048
+      BloodSplashDecalAlpha04_90: -656408385974536507
+      BloodSplashDecalAlpha04_91: -4854440088581657760
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: bcb90dc490713b141ba715d79db238b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8398858589538314991
+    second: BloodParticleSplashSheet_Normal_0
+  - first:
+      213: -9004773045697485349
+    second: BloodParticleSplashSheet_Normal_1
+  - first:
+      213: 5629176392586549008
+    second: BloodParticleSplashSheet_Normal_2
+  - first:
+      213: -3759623294203224067
+    second: BloodParticleSplashSheet_Normal_3
+  - first:
+      213: 2108713794281417919
+    second: BloodParticleSplashSheet_Normal_4
+  - first:
+      213: 4569295833692260692
+    second: BloodParticleSplashSheet_Normal_5
+  - first:
+      213: -5507259094818678096
+    second: BloodParticleSplashSheet_Normal_6
+  - first:
+      213: -768533073572196111
+    second: BloodParticleSplashSheet_Normal_7
+  - first:
+      213: -2231973056802919229
+    second: BloodParticleSplashSheet_Normal_8
+  - first:
+      213: -2632320242073362490
+    second: BloodParticleSplashSheet_Normal_9
+  - first:
+      213: 3522460116504438106
+    second: BloodParticleSplashSheet_Normal_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BloodParticleSplashSheet_Normal_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1810
+        width: 198
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea6b2c536dbe8470800000000000000
+      internalID: 8398858589538314991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodParticleSplashSheet_Normal_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1618
+        width: 77
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd56030df9e980380800000000000000
+      internalID: -9004773045697485349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodParticleSplashSheet_Normal_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1362
+        width: 146
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017d22aba1ade1e40800000000000000
+      internalID: 5629176392586549008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodParticleSplashSheet_Normal_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1174
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff9bb3888223dbc0800000000000000
+      internalID: -3759623294203224067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodParticleSplashSheet_Normal_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1037
+        width: 235
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc2c110608a34d10800000000000000
+      internalID: 2108713794281417919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodParticleSplashSheet_Normal_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 871
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45946e00a56696f30800000000000000
+      internalID: 4569295833692260692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodParticleSplashSheet_Normal_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 601
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba1b4f28094293b0800000000000000
+      internalID: -5507259094818678096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodParticleSplashSheet_Normal_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 343
+        width: 132
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0179fcd3f9555f0800000000000000
+      internalID: -768533073572196111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodParticleSplashSheet_Normal_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 326
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cce40194507601e0800000000000000
+      internalID: -2231973056802919229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodParticleSplashSheet_Normal_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 323
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf952cbfae187bd0800000000000000
+      internalID: -2632320242073362490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodParticleSplashSheet_Normal_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 216
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a556abb20da42e030800000000000000
+      internalID: 3522460116504438106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BloodParticleSplashSheet_Normal_0: 8398858589538314991
+      BloodParticleSplashSheet_Normal_1: -9004773045697485349
+      BloodParticleSplashSheet_Normal_10: 3522460116504438106
+      BloodParticleSplashSheet_Normal_2: 5629176392586549008
+      BloodParticleSplashSheet_Normal_3: -3759623294203224067
+      BloodParticleSplashSheet_Normal_4: 2108713794281417919
+      BloodParticleSplashSheet_Normal_5: 4569295833692260692
+      BloodParticleSplashSheet_Normal_6: -5507259094818678096
+      BloodParticleSplashSheet_Normal_7: -768533073572196111
+      BloodParticleSplashSheet_Normal_8: -2231973056802919229
+      BloodParticleSplashSheet_Normal_9: -2632320242073362490
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
