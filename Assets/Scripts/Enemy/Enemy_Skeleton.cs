@@ -3,6 +3,7 @@ using UnityEngine;
 public class Enemy_Skeleton : Enemy , ICounterable
 {
     public bool CanBeCountered { get => canBeStunned; }
+    
 
     protected override void Awake()
     {

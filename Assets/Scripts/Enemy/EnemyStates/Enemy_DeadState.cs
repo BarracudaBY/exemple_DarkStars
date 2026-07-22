@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Enemy_DeadState : EnemyState
 {
+    
     private Collider2D col;
 
     public Enemy_DeadState(Enemy enemy, StateMachine stateMachine, string animBoolName) : base(enemy, stateMachine, animBoolName)

@@ -4,6 +4,7 @@ using UnityEngine.UI;
 
 public class Entity_Health : MonoBehaviour, IDamageable
 {
+    
     public event Action OnTakingDamage;
 
 
@@ -12,6 +13,10 @@ public class Entity_Health : MonoBehaviour, IDamageable
     private Entity_VFX entityVfx;
     private Entity_Stats entityStats;
     private Entity_DropManager dropManager;
+    private SpriteRenderer spriteRenderer;
+
+    public Vector3 LastHitDirection { get; private set; }
+    [SerializeField] private GoreProfile enemyGoreProfile;
 
     [SerializeField] protected float currentHealth;
     [Header("Health regen")]
@@ -60,6 +65,8 @@ public class Entity_Health : MonoBehaviour, IDamageable
             Debug.Log($"{gameObject.name} evaded the attack!");
             return false;
         }
+
+        LastHitDirection = ((Vector3)transform.position - damageDealer.position).normalized;
 
         Entity_Stats attackerStats = damageDealer.GetComponent<Entity_Stats>();
         float armorReduction = attackerStats != null ? attackerStats.GetArmorReduction() : 0;
@@ -117,7 +124,11 @@ public class Entity_Health : MonoBehaviour, IDamageable
         UpdateHealthBar();
 
         if (currentHealth <= 0)
+        {
+
+            GoreManager.Instance.PlayDeathSequence(transform.position, LastHitDirection, enemyGoreProfile, spriteRenderer);
             Die();
+        }
     }
 
     protected virtual void Die()
