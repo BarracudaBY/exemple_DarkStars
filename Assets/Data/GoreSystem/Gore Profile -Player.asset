@@ -16,14 +16,14 @@ MonoBehaviour:
   bloodParticleCount: 10
   bloodColor: {r: 0.6, g: 0, b: 0, a: 1}
   decalSprites:
-  - {fileID: 7922116672986308789, guid: 80b6df0504d4c334aa5531e4fdde70be, type: 3}
-  - {fileID: 5447362764550527802, guid: 53e5b7f77224de1458bee2321db89267, type: 3}
-  - {fileID: -603435077209164778, guid: 7cd41e6288d5e7f4eb47645a379f6138, type: 3}
-  - {fileID: -975564383892807530, guid: 10eeabfe37cb5eb40a0dd936c68f4a5c, type: 3}
+  - {fileID: 21300000, guid: 80b6df0504d4c334aa5531e4fdde70be, type: 3}
+  - {fileID: 21300000, guid: 53e5b7f77224de1458bee2321db89267, type: 3}
+  - {fileID: 21300000, guid: 7cd41e6288d5e7f4eb47645a379f6138, type: 3}
+  - {fileID: 21300000, guid: 10eeabfe37cb5eb40a0dd936c68f4a5c, type: 3}
   decalSpawnChance: 0.8
   decalLifetime: 15
   decalFadeDuration: 2
-  useDismemberment: 0
+  useDismemberment: 1
   gibSprites:
   - {fileID: 6118305929907868830, guid: 471aa1ba62f7e6b42b277d31948c0a1b, type: 3}
   - {fileID: 2580844875869751707, guid: 471aa1ba62f7e6b42b277d31948c0a1b, type: 3}

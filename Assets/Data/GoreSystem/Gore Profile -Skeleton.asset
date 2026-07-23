@@ -13,31 +13,30 @@ MonoBehaviour:
   m_Name: Gore Profile -Skeleton
   m_EditorClassIdentifier: Assembly-CSharp::GoreProfile
   bloodBurstPrefab: {fileID: 3439188645801062783, guid: efdb59d171fe506429b4d3b2a97b8bb6, type: 3}
-  bloodParticleCount: 10
-  bloodColor: {r: 0.6, g: 0, b: 0, a: 1}
+  bloodParticleCount: 1
+  bloodColor: {r: 1, g: 0, b: 0, a: 1}
   decalSprites:
-  - {fileID: 7922116672986308789, guid: 80b6df0504d4c334aa5531e4fdde70be, type: 3}
-  - {fileID: 5447362764550527802, guid: 53e5b7f77224de1458bee2321db89267, type: 3}
-  - {fileID: -603435077209164778, guid: 7cd41e6288d5e7f4eb47645a379f6138, type: 3}
-  - {fileID: -975564383892807530, guid: 10eeabfe37cb5eb40a0dd936c68f4a5c, type: 3}
-  decalSpawnChance: 0.8
+  - {fileID: -7612220029147652458, guid: dd2fe005442b15e4cbbc600b0d847267, type: 3}
+  - {fileID: -7361243118004611604, guid: 9bc6d4b8f2af98f429592c14c1f48fb2, type: 3}
+  - {fileID: -1665764719258512873, guid: 16abe73e9871df740b386f61ba796114, type: 3}
+  - {fileID: 2156069977032328154, guid: 002af7a8318e756478b6f74ac4470a41, type: 3}
+  decalSpawnChance: 1
   decalLifetime: 15
   decalFadeDuration: 2
-  useDismemberment: 0
+  useDismemberment: 1
   gibSprites:
-  - {fileID: -2389324869536097014, guid: 061f2cfa3f531464bb3af243d0777ee1, type: 3}
   - {fileID: -976049448923943657, guid: 061f2cfa3f531464bb3af243d0777ee1, type: 3}
-  - {fileID: 6404938931472421484, guid: 061f2cfa3f531464bb3af243d0777ee1, type: 3}
+  - {fileID: -2389324869536097014, guid: 061f2cfa3f531464bb3af243d0777ee1, type: 3}
+  - {fileID: -2120212078, guid: 061f2cfa3f531464bb3af243d0777ee1, type: 3}
   - {fileID: -7419043375585603658, guid: 061f2cfa3f531464bb3af243d0777ee1, type: 3}
-  - {fileID: -7454603087212978598, guid: 061f2cfa3f531464bb3af243d0777ee1, type: 3}
-  gibCount: 5
+  gibCount: 4
   gibMinForce: 2
   gibMaxForce: 5
-  gibTorque: 180
-  gibLifetime: 4
+  gibTorque: 15
+  gibLifetime: 2
   gibFadeDuration: 1
   useHitStop: 1
-  hitStopDuration: 0.06
+  hitStopDuration: 0.015
   useCameraShake: 1
-  cameraShakeIntensity: 0.3
-  cameraShakeDuration: 0.2
+  cameraShakeIntensity: 0.21
+  cameraShakeDuration: 0.1

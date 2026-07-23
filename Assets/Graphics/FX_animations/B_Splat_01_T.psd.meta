@@ -1,0 +1,907 @@
+fileFormatVersion: 2
+guid: 002af7a8318e756478b6f74ac4470a41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2180400145375653891
+    second: B_Splat_01_T_0
+  - first:
+      213: 3704787425466080520
+    second: B_Splat_01_T_1
+  - first:
+      213: 333016295402455856
+    second: B_Splat_01_T_2
+  - first:
+      213: 6626493787351246761
+    second: B_Splat_01_T_3
+  - first:
+      213: 9091408217398596499
+    second: B_Splat_01_T_4
+  - first:
+      213: 2534280922277094101
+    second: B_Splat_01_T_5
+  - first:
+      213: 6690493897068197062
+    second: B_Splat_01_T_6
+  - first:
+      213: -856457219672328696
+    second: B_Splat_01_T_7
+  - first:
+      213: -3098194697479018563
+    second: B_Splat_01_T_8
+  - first:
+      213: -7729809340538765185
+    second: B_Splat_01_T_9
+  - first:
+      213: 3023330514353237174
+    second: B_Splat_01_T_10
+  - first:
+      213: 2548470011537865452
+    second: B_Splat_01_T_11
+  - first:
+      213: 3981829371353245447
+    second: B_Splat_01_T_12
+  - first:
+      213: 2156069977032328154
+    second: B_Splat_01_T_13
+  - first:
+      213: 2745923176186325534
+    second: B_Splat_01_T_14
+  - first:
+      213: -1767927224831375016
+    second: B_Splat_01_T_15
+  - first:
+      213: -4309166437784555083
+    second: B_Splat_01_T_16
+  - first:
+      213: -2606040922717140106
+    second: B_Splat_01_T_17
+  - first:
+      213: -6445180698372828514
+    second: B_Splat_01_T_18
+  - first:
+      213: 6338409647688779392
+    second: B_Splat_01_T_19
+  - first:
+      213: -6060664380357657882
+    second: B_Splat_01_T_20
+  - first:
+      213: 3797874432864915906
+    second: B_Splat_01_T_21
+  - first:
+      213: -4573573094430077999
+    second: B_Splat_01_T_22
+  - first:
+      213: 3744988050941643442
+    second: B_Splat_01_T_23
+  - first:
+      213: -5620747357964323768
+    second: B_Splat_01_T_24
+  - first:
+      213: 5749864987178423081
+    second: B_Splat_01_T_25
+  - first:
+      213: 3838435282660502320
+    second: B_Splat_01_T_26
+  - first:
+      213: 5257454097259971449
+    second: B_Splat_01_T_27
+  - first:
+      213: 1186972551262421896
+    second: B_Splat_01_T_28
+  - first:
+      213: 9177268176106260057
+    second: B_Splat_01_T_29
+  - first:
+      213: -1006934292261849057
+    second: B_Splat_01_T_30
+  - first:
+      213: 8340627519798337956
+    second: B_Splat_01_T_31
+  - first:
+      213: 9084356595569920009
+    second: B_Splat_01_T_32
+  - first:
+      213: 554533937429838111
+    second: B_Splat_01_T_33
+  - first:
+      213: -7677605725387929645
+    second: B_Splat_01_T_34
+  - first:
+      213: -2754126302694890271
+    second: B_Splat_01_T_35
+  - first:
+      213: -5223566628339963215
+    second: B_Splat_01_T_36
+  - first:
+      213: 7290152938069736663
+    second: B_Splat_01_T_37
+  - first:
+      213: -2055506096758266836
+    second: B_Splat_01_T_38
+  - first:
+      213: -8913574348223550926
+    second: B_Splat_01_T_39
+  - first:
+      213: -8777651365828674395
+    second: B_Splat_01_T_40
+  - first:
+      213: -642567211186095816
+    second: B_Splat_01_T_41
+  - first:
+      213: 898480580315157843
+    second: B_Splat_01_T_42
+  - first:
+      213: -8225948059487554606
+    second: B_Splat_01_T_43
+  - first:
+      213: -3883495042994709612
+    second: B_Splat_01_T_44
+  - first:
+      213: 8321662942730950888
+    second: B_Splat_01_T_45
+  - first:
+      213: 2008976745204538521
+    second: B_Splat_01_T_46
+  - first:
+      213: -994618030616445425
+    second: B_Splat_01_T_47
+  - first:
+      213: 1251684030533904955
+    second: B_Splat_01_T_48
+  - first:
+      213: -5689564724312928856
+    second: B_Splat_01_T_49
+  - first:
+      213: -4389084463649575031
+    second: B_Splat_01_T_50
+  - first:
+      213: -490750254538220156
+    second: B_Splat_01_T_51
+  - first:
+      213: 8512074010630244361
+    second: B_Splat_01_T_52
+  - first:
+      213: -7695104448992512631
+    second: B_Splat_01_T_53
+  - first:
+      213: 3785716016340906089
+    second: B_Splat_01_T_54
+  - first:
+      213: 4328268398788251598
+    second: B_Splat_01_T_55
+  - first:
+      213: -7331170461701600224
+    second: B_Splat_01_T_56
+  - first:
+      213: -3479240976929037930
+    second: B_Splat_01_T_57
+  - first:
+      213: -8269148833457548404
+    second: B_Splat_01_T_58
+  - first:
+      213: 841524603164380963
+    second: B_Splat_01_T_59
+  - first:
+      213: -5127564982938835240
+    second: B_Splat_01_T_60
+  - first:
+      213: -5038530238270782776
+    second: B_Splat_01_T_61
+  - first:
+      213: 7816884081712055927
+    second: B_Splat_01_T_62
+  - first:
+      213: 1426462912954941644
+    second: B_Splat_01_T_63
+  - first:
+      213: 6104423636003852632
+    second: B_Splat_01_T_64
+  - first:
+      213: -780530246505716606
+    second: B_Splat_01_T_65
+  - first:
+      213: -1575530477149281646
+    second: B_Splat_01_T_66
+  - first:
+      213: 8238016873657184974
+    second: B_Splat_01_T_67
+  - first:
+      213: -6884466627289389364
+    second: B_Splat_01_T_68
+  - first:
+      213: -6126703054342710335
+    second: B_Splat_01_T_69
+  - first:
+      213: 6347961777338890423
+    second: B_Splat_01_T_70
+  - first:
+      213: 5219986708636138872
+    second: B_Splat_01_T_71
+  - first:
+      213: 7580839778850272158
+    second: B_Splat_01_T_72
+  - first:
+      213: -3574890069612554712
+    second: B_Splat_01_T_73
+  - first:
+      213: -7504700377401016462
+    second: B_Splat_01_T_74
+  - first:
+      213: -4527922411239271241
+    second: B_Splat_01_T_75
+  - first:
+      213: -3758995262173252215
+    second: B_Splat_01_T_76
+  - first:
+      213: 5116348251148072904
+    second: B_Splat_01_T_77
+  - first:
+      213: -3962754946563388230
+    second: B_Splat_01_T_78
+  - first:
+      213: -1806590147043226256
+    second: B_Splat_01_T_79
+  - first:
+      213: 5307513149529578095
+    second: B_Splat_01_T_80
+  - first:
+      213: -2699462029192114905
+    second: B_Splat_01_T_81
+  - first:
+      213: -8483343489846831094
+    second: B_Splat_01_T_82
+  - first:
+      213: 4836192323958450798
+    second: B_Splat_01_T_83
+  - first:
+      213: -349418897840619733
+    second: B_Splat_01_T_84
+  - first:
+      213: -7736759092693675661
+    second: B_Splat_01_T_85
+  - first:
+      213: -2161603513948442758
+    second: B_Splat_01_T_86
+  - first:
+      213: -2779442798904654240
+    second: B_Splat_01_T_87
+  - first:
+      213: -4586196598347332623
+    second: B_Splat_01_T_88
+  - first:
+      213: -6883237125143132433
+    second: B_Splat_01_T_89
+  - first:
+      213: -1822762656952727237
+    second: B_Splat_01_T_90
+  - first:
+      213: 2800233409983506650
+    second: B_Splat_01_T_91
+  - first:
+      213: -1137882253073595544
+    second: B_Splat_01_T_92
+  - first:
+      213: -3785762574630322688
+    second: B_Splat_01_T_93
+  - first:
+      213: -1963147988508660944
+    second: B_Splat_01_T_94
+  - first:
+      213: -414903960207653406
+    second: B_Splat_01_T_95
+  - first:
+      213: -3792717289253047582
+    second: B_Splat_01_T_96
+  - first:
+      213: -1297526904647757368
+    second: B_Splat_01_T_97
+  - first:
+      213: 2775592429455708231
+    second: B_Splat_01_T_98
+  - first:
+      213: 1364416656282562085
+    second: B_Splat_01_T_99
+  - first:
+      213: 5262011444777519041
+    second: B_Splat_01_T_100
+  - first:
+      213: 7956398450105449413
+    second: B_Splat_01_T_101
+  - first:
+      213: 4277386130343538758
+    second: B_Splat_01_T_102
+  - first:
+      213: 3383992734068543826
+    second: B_Splat_01_T_103
+  - first:
+      213: 157536920438660510
+    second: B_Splat_01_T_104
+  - first:
+      213: -574393724180458353
+    second: B_Splat_01_T_105
+  - first:
+      213: -2823031915185079274
+    second: B_Splat_01_T_106
+  - first:
+      213: -5541973210150804298
+    second: B_Splat_01_T_107
+  - first:
+      213: -4732034128013090624
+    second: B_Splat_01_T_108
+  - first:
+      213: 1515015023073923272
+    second: B_Splat_01_T_109
+  - first:
+      213: 3227312990259386637
+    second: B_Splat_01_T_110
+  - first:
+      213: 8767242345101231404
+    second: B_Splat_01_T_111
+  - first:
+      213: -5480481533676832281
+    second: B_Splat_01_T_112
+  - first:
+      213: -4073182357917552897
+    second: B_Splat_01_T_113
+  - first:
+      213: 6329585111559337427
+    second: B_Splat_01_T_114
+  - first:
+      213: -3702627692912702022
+    second: B_Splat_01_T_115
+  - first:
+      213: 3957214634675279361
+    second: B_Splat_01_T_116
+  - first:
+      213: -7170523021910038498
+    second: B_Splat_01_T_117
+  - first:
+      213: -3027167663531894513
+    second: B_Splat_01_T_118
+  - first:
+      213: 6706840210373946186
+    second: B_Splat_01_T_119
+  - first:
+      213: -984490519965971504
+    second: B_Splat_01_T_120
+  - first:
+      213: -7860090392362357455
+    second: B_Splat_01_T_121
+  - first:
+      213: 2423124615894842855
+    second: B_Splat_01_T_122
+  - first:
+      213: 3998873536149032542
+    second: B_Splat_01_T_123
+  - first:
+      213: -6321251981270771754
+    second: B_Splat_01_T_124
+  - first:
+      213: 7486113711874604541
+    second: B_Splat_01_T_125
+  - first:
+      213: -699647755951785893
+    second: B_Splat_01_T_126
+  - first:
+      213: -5867855364432100514
+    second: B_Splat_01_T_127
+  - first:
+      213: -4784448393912315160
+    second: B_Splat_01_T_128
+  - first:
+      213: 8832360585830870072
+    second: B_Splat_01_T_129
+  - first:
+      213: 8174273326284384284
+    second: B_Splat_01_T_130
+  - first:
+      213: 5582247856846712027
+    second: B_Splat_01_T_131
+  - first:
+      213: -761359820561591962
+    second: B_Splat_01_T_132
+  - first:
+      213: 1734696546764031253
+    second: B_Splat_01_T_133
+  - first:
+      213: -1715702620550601497
+    second: B_Splat_01_T_134
+  - first:
+      213: 2908422397386466437
+    second: B_Splat_01_T_135
+  - first:
+      213: -1977852448554808618
+    second: B_Splat_01_T_136
+  - first:
+      213: 8028292291613823621
+    second: B_Splat_01_T_137
+  - first:
+      213: 41196638291270916
+    second: B_Splat_01_T_138
+  - first:
+      213: 8846096680678765506
+    second: B_Splat_01_T_139
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: B_Splat_01_T_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff8caabe99adb1e0800000000000000
+      internalID: -2180400145375653891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Splat_01_T_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d5d3fd88c0a6330800000000000000
+      internalID: 3704787425466080520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Splat_01_T_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03341e76e8c1f9400800000000000000
+      internalID: 333016295402455856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Splat_01_T_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7676dadf806fb50800000000000000
+      internalID: 6626493787351246761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Splat_01_T_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3935c1afa9b2b2e70800000000000000
+      internalID: 9091408217398596499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Splat_01_T_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2206552139b2320800000000000000
+      internalID: 2534280922277094101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Splat_01_T_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c43baa60c869dc50800000000000000
+      internalID: 6690493897068197062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Splat_01_T_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806bc1842b04d14f0800000000000000
+      internalID: -856457219672328696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Splat_01_T_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7a3cb66500105d0800000000000000
+      internalID: -3098194697479018563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Splat_01_T_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70c0bbeb533ab490800000000000000
+      internalID: -7729809340538765185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Splat_01_T_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcaf92a51705f920800000000000000
+      internalID: 3023330514353237174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Splat_01_T_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea337e19fbfd5320800000000000000
+      internalID: 2548470011537865452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Splat_01_T_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7072ab377bc424730800000000000000
+      internalID: 3981829371353245447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Splat_01_T_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad385e38836ebed10800000000000000
+      internalID: 2156069977032328154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Splat_01_T_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a2919849a7b1620800000000000000
+      internalID: 2745923176186325534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Splat_01_T_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8590f2f4e8f0777e0800000000000000
+      internalID: -1767927224831375016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fd46acd6b90f2664fb8fe8cdc190a64b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      B_Splat_01_T_0: -2180400145375653891
+      B_Splat_01_T_1: 3704787425466080520
+      B_Splat_01_T_10: 3023330514353237174
+      B_Splat_01_T_11: 2548470011537865452
+      B_Splat_01_T_12: 3981829371353245447
+      B_Splat_01_T_13: 2156069977032328154
+      B_Splat_01_T_14: 2745923176186325534
+      B_Splat_01_T_15: -1767927224831375016
+      B_Splat_01_T_2: 333016295402455856
+      B_Splat_01_T_3: 6626493787351246761
+      B_Splat_01_T_4: 9091408217398596499
+      B_Splat_01_T_5: 2534280922277094101
+      B_Splat_01_T_6: 6690493897068197062
+      B_Splat_01_T_7: -856457219672328696
+      B_Splat_01_T_8: -3098194697479018563
+      B_Splat_01_T_9: -7729809340538765185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

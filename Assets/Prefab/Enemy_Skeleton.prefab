@@ -432,7 +432,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -6905963577513531043, guid: 6a70dbd8f89e6ab458cb12a61364f79f, type: 3}
+  m_Sprite: {fileID: -6905963577513531043, guid: c736bcf8eab744845a67307771afcd9f, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -797,6 +797,7 @@ MonoBehaviour:
     m_Bits: 128
   playerCheck: {fileID: 8227408368413302491}
   playerCheckDistance: 10
+  goreProfile: {fileID: 11400000, guid: b11e8abcb3327f54fa421129faf92b64, type: 2}
 --- !u!50 &1326299994285886784
 Rigidbody2D:
   serializedVersion: 5
@@ -945,7 +946,7 @@ MonoBehaviour:
   defaultStatSetup: {fileID: 11400000, guid: 5e11709fdb4158448aabbb7715ca501f, type: 2}
   resources:
     maxHealth:
-      baseValue: 1500
+      baseValue: 150
       modifiers: []
     healthRegen:
       baseValue: 0
@@ -955,7 +956,7 @@ MonoBehaviour:
       baseValue: 1
       modifiers: []
     damage:
-      baseValue: 40
+      baseValue: 10
       modifiers: []
     critPower:
       baseValue: 150
@@ -1018,7 +1019,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lighingStrikeVfx: {fileID: 609128798462994316, guid: 7892dafb312e9ef46bc51c6c233e5927, type: 3}
   currentCharge: 0
-  maximumCharge: 1
+  maximumCharge: 3
 --- !u!114 &8339757543674283343
 MonoBehaviour:
   m_ObjectHideFlags: 0

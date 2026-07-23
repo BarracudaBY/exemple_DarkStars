@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 46091378c0764b346ac6b6579ea7c208
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3150468719979188221
+    second: explodeblood19_0
+  - first:
+      213: 1744050554012936265
+    second: explodeblood19_1
+  - first:
+      213: -6289341540172690478
+    second: explodeblood19_2
+  - first:
+      213: 6380288128782990467
+    second: explodeblood19_3
+  - first:
+      213: 2838312825270896587
+    second: explodeblood19_4
+  - first:
+      213: 2888731349035114772
+    second: explodeblood19_5
+  - first:
+      213: 2891600282384173365
+    second: explodeblood19_6
+  - first:
+      213: -6191644451790834156
+    second: explodeblood19_7
+  - first:
+      213: 3644128246742514823
+    second: explodeblood19_8
+  - first:
+      213: 5254100869162626414
+    second: explodeblood19_9
+  - first:
+      213: -7724499701981362076
+    second: explodeblood19_10
+  - first:
+      213: -8972938184175839031
+    second: explodeblood19_11
+  - first:
+      213: -3686325461845996238
+    second: explodeblood19_12
+  - first:
+      213: 414189976080987728
+    second: explodeblood19_13
+  - first:
+      213: -7010656638111961360
+    second: explodeblood19_14
+  - first:
+      213: -8277410346129176013
+    second: explodeblood19_15
+  - first:
+      213: -6890348764618802600
+    second: explodeblood19_16
+  - first:
+      213: 5230844434293013541
+    second: explodeblood19_17
+  - first:
+      213: 1375032158556100200
+    second: explodeblood19_18
+  - first:
+      213: 5119821981584439527
+    second: explodeblood19_19
+  - first:
+      213: 8777693182089174723
+    second: explodeblood19_20
+  - first:
+      213: -7162923693318201630
+    second: explodeblood19_21
+  - first:
+      213: 6060522738388188829
+    second: explodeblood19_22
+  - first:
+      213: -2841745620067446621
+    second: explodeblood19_23
+  - first:
+      213: 6899329943611840901
+    second: explodeblood19_24
+  - first:
+      213: 5026215507774269774
+    second: explodeblood19_25
+  - first:
+      213: 9088298537424272484
+    second: explodeblood19_26
+  - first:
+      213: 9155279719147839626
+    second: explodeblood19_27
+  - first:
+      213: -7463901756057325440
+    second: explodeblood19_28
+  - first:
+      213: -7723718309971226380
+    second: explodeblood19_29
+  - first:
+      213: -2200164981332975584
+    second: explodeblood19_30
+  - first:
+      213: 2832633176806597658
+    second: explodeblood19_31
+  - first:
+      213: 1733470195082273605
+    second: explodeblood19_32
+  - first:
+      213: 7939961776753017904
+    second: explodeblood19_33
+  - first:
+      213: 3587589245281875546
+    second: explodeblood19_34
+  - first:
+      213: -5853951545959574560
+    second: explodeblood19_35
+  - first:
+      213: 7063017779144095616
+    second: explodeblood19_36
+  - first:
+      213: 5939311355821772177
+    second: explodeblood19_37
+  - first:
+      213: -4688860659567599342
+    second: explodeblood19_38
+  - first:
+      213: 4892069289617014192
+    second: explodeblood19_39
+  - first:
+      213: 6478994275547633559
+    second: explodeblood19_40
+  - first:
+      213: -1121930708370412257
+    second: explodeblood19_41
+  - first:
+      213: 1449015352189980697
+    second: explodeblood19_42
+  - first:
+      213: -2382852339104159816
+    second: explodeblood19_43
+  - first:
+      213: -5793708469748973413
+    second: explodeblood19_44
+  - first:
+      213: -3831121130011989450
+    second: explodeblood19_45
+  - first:
+      213: -4219230171514660552
+    second: explodeblood19_46
+  - first:
+      213: -1339585922502247360
+    second: explodeblood19_47
+  - first:
+      213: -5065198531674044348
+    second: explodeblood19_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explodeblood19_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 194
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30039ad14694744d0800000000000000
+      internalID: -3150468719979188221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 160
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948a34e0dbc143810800000000000000
+      internalID: 1744050554012936265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 154
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db06ea0135c7b8a0800000000000000
+      internalID: -6289341540172690478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 159
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c70c8bf365b8850800000000000000
+      internalID: 6380288128782990467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 125
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc705bff976b36720800000000000000
+      internalID: 2838312825270896587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 96
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411e5c65bd5d61820800000000000000
+      internalID: 2888731349035114772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 118
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5398defe227012820800000000000000
+      internalID: 2891600282384173365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4163d730d2cd21aa0800000000000000
+      internalID: -6191644451790834156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 120
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cfd0f355b829230800000000000000
+      internalID: 3644128246742514823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 112
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d628037e05ae840800000000000000
+      internalID: 5254100869162626414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 116
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4684acb72701dc490800000000000000
+      internalID: -7724499701981362076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 106
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c819ac1348b97380800000000000000
+      internalID: -8972938184175839031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 73
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d0130068a87dcc0800000000000000
+      internalID: -3686325461845996238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 91
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056b5d9b69f7fb500800000000000000
+      internalID: 414189976080987728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 9
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe2a138ee425be90800000000000000
+      internalID: -7010656638111961360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 91
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ac3d2552bb02d80800000000000000
+      internalID: -8277410346129176013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 98
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a38522e409060a0800000000000000
+      internalID: -6890348764618802600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 89
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c3d5d7c41b79840800000000000000
+      internalID: 5230844434293013541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 79
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86699758678151310800000000000000
+      internalID: 1375032158556100200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 61
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8b39d57f24d0740800000000000000
+      internalID: 5119821981584439527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 77
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce1bc16171a0d970800000000000000
+      internalID: 8777693182089174723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 66
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee1a8a0ade289c90800000000000000
+      internalID: -7162923693318201630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e3ece025d4b1450800000000000000
+      internalID: 6060522738388188829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 66
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a09bdd2a671098d0800000000000000
+      internalID: -2841745620067446621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 82
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589133d87085fbf50800000000000000
+      internalID: 6899329943611840901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 77
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49e171df54b0c540800000000000000
+      internalID: 5026215507774269774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 79
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c30ef2e5f102e70800000000000000
+      internalID: 9088298537424272484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_27
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 71
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a802527d5661e0f70800000000000000
+      internalID: 9155279719147839626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 71
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080f9c7f5e4ea6890800000000000000
+      internalID: -7463901756057325440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_29
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 63
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f01cfc7e17dfc490800000000000000
+      internalID: -7723718309971226380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 59
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020e4604b917771e0800000000000000
+      internalID: -2200164981332975584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_31
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a142b8acdd88f4720800000000000000
+      internalID: 2832633176806597658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 23
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5432b9645f58e0810800000000000000
+      internalID: 1733470195082273605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 52
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0340b811b29603e60800000000000000
+      internalID: 7939961776753017904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_34
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 60
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56b905296da9c130800000000000000
+      internalID: 3587589245281875546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_35
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 20
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e31bb2a51692cea0800000000000000
+      internalID: -5853951545959574560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 44
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087f628af31e40260800000000000000
+      internalID: 7063017779144095616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 49
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d4336d53cac6250800000000000000
+      internalID: 5939311355821772177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_38
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 56
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2116b21a212ddeeb0800000000000000
+      internalID: -4688860659567599342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_39
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 35
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd3830891f14e340800000000000000
+      internalID: 4892069289617014192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_40
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 46
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7975ec767f20ae950800000000000000
+      internalID: 6478994275547633559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 39
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1daaf807f91e60f0800000000000000
+      internalID: -1121930708370412257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 48
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9101f5d19cfeb1410800000000000000
+      internalID: 1449015352189980697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_43
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 36
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7ec772c686eeed0800000000000000
+      internalID: -2382852339104159816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_44
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 39
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90c078d7dc989fa0800000000000000
+      internalID: -5793708469748973413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_45
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 37
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a642261af15dac0800000000000000
+      internalID: -3831121130011989450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_46
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 42
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839124173884275c0800000000000000
+      internalID: -4219230171514660552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 37
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cb32f63b5d86de0800000000000000
+      internalID: -1339585922502247360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explodeblood19_48
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4480db2a5ccc4b9b0800000000000000
+      internalID: -5065198531674044348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      explodeblood19_0: -3150468719979188221
+      explodeblood19_1: 1744050554012936265
+      explodeblood19_10: -7724499701981362076
+      explodeblood19_11: -8972938184175839031
+      explodeblood19_12: -3686325461845996238
+      explodeblood19_13: 414189976080987728
+      explodeblood19_14: -7010656638111961360
+      explodeblood19_15: -8277410346129176013
+      explodeblood19_16: -6890348764618802600
+      explodeblood19_17: 5230844434293013541
+      explodeblood19_18: 1375032158556100200
+      explodeblood19_19: 5119821981584439527
+      explodeblood19_2: -6289341540172690478
+      explodeblood19_20: 8777693182089174723
+      explodeblood19_21: -7162923693318201630
+      explodeblood19_22: 6060522738388188829
+      explodeblood19_23: -2841745620067446621
+      explodeblood19_24: 6899329943611840901
+      explodeblood19_25: 5026215507774269774
+      explodeblood19_26: 9088298537424272484
+      explodeblood19_27: 9155279719147839626
+      explodeblood19_28: -7463901756057325440
+      explodeblood19_29: -7723718309971226380
+      explodeblood19_3: 6380288128782990467
+      explodeblood19_30: -2200164981332975584
+      explodeblood19_31: 2832633176806597658
+      explodeblood19_32: 1733470195082273605
+      explodeblood19_33: 7939961776753017904
+      explodeblood19_34: 3587589245281875546
+      explodeblood19_35: -5853951545959574560
+      explodeblood19_36: 7063017779144095616
+      explodeblood19_37: 5939311355821772177
+      explodeblood19_38: -4688860659567599342
+      explodeblood19_39: 4892069289617014192
+      explodeblood19_4: 2838312825270896587
+      explodeblood19_40: 6478994275547633559
+      explodeblood19_41: -1121930708370412257
+      explodeblood19_42: 1449015352189980697
+      explodeblood19_43: -2382852339104159816
+      explodeblood19_44: -5793708469748973413
+      explodeblood19_45: -3831121130011989450
+      explodeblood19_46: -4219230171514660552
+      explodeblood19_47: -1339585922502247360
+      explodeblood19_48: -5065198531674044348
+      explodeblood19_5: 2888731349035114772
+      explodeblood19_6: 2891600282384173365
+      explodeblood19_7: -6191644451790834156
+      explodeblood19_8: 3644128246742514823
+      explodeblood19_9: 5254100869162626414
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -33,6 +33,9 @@ public class Enemy : Entity
     [SerializeField] private LayerMask whatIsPlayer;
     [SerializeField] private Transform playerCheck;
     [SerializeField] private float playerCheckDistance = 10;
+
+    [SerializeField] private GoreProfile goreProfile;
+    public GoreProfile GoreProfile => goreProfile;
     public Transform player { get; private set; }
     public float activeSlowMultiplier { get; private set; } = 1;
 

@@ -15,7 +15,7 @@ public class Entity_Health : MonoBehaviour, IDamageable
     private Entity_DropManager dropManager;
     private SpriteRenderer spriteRenderer;
 
-    public Vector3 LastHitDirection { get; private set; }
+    public Vector2 LastHitDirection { get; private set; } = Vector2.up;
     [SerializeField] private GoreProfile enemyGoreProfile;
 
     [SerializeField] protected float currentHealth;
@@ -66,8 +66,6 @@ public class Entity_Health : MonoBehaviour, IDamageable
             return false;
         }
 
-        LastHitDirection = ((Vector3)transform.position - damageDealer.position).normalized;
-
         Entity_Stats attackerStats = damageDealer.GetComponent<Entity_Stats>();
         float armorReduction = attackerStats != null ? attackerStats.GetArmorReduction() : 0;
         float mitigation = entityStats != null ? entityStats.GetArmorMitigation(armorReduction) : 0;
@@ -77,7 +75,7 @@ public class Entity_Health : MonoBehaviour, IDamageable
         float elementalDamageTaken = elementalDamage * (1 - resistance);
 
         TakeKnockback(damageDealer, physicalDamageTaken);
-        ReduceHealth(physicalDamageTaken + elementalDamageTaken);
+        ReduceHealth(physicalDamageTaken + elementalDamageTaken, transform.position);
 
         lastDamageTaken = physicalDamageTaken + elementalDamageTaken;
 
@@ -117,16 +115,19 @@ public class Entity_Health : MonoBehaviour, IDamageable
         UpdateHealthBar();
     }
 
-    public void ReduceHealth(float damage)
+    public void ReduceHealth(float damage, Vector2? damageSourcePosition = null)
     {
         entityVfx?.PlayOnDamageVfx();
         currentHealth = currentHealth - damage;
         UpdateHealthBar();
 
+        if (damageSourcePosition.HasValue)
+            LastHitDirection = ((Vector2)transform.position - damageSourcePosition.Value).normalized;
+
         if (currentHealth <= 0)
         {
 
-            GoreManager.Instance.PlayDeathSequence(transform.position, LastHitDirection, enemyGoreProfile, spriteRenderer);
+            
             Die();
         }
     }
